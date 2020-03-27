@@ -35,4 +35,6 @@ Embedded and Intelligent Systems (EIS) course for SHIEP 2020
 
 # VSCODE 本地目录作为默认目录
 
+![](https://github.com/kq2019/G9_2019/blob/master/vscfix_01.JPG)  
+![](https://github.com/kq2019/G9_2019/blob/master/vscfix_02.JPG)
 
