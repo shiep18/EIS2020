@@ -7,4 +7,4 @@
   * A:要将.py文件与binvox文件放在一起
  
 # 20200323作业
-!.
+![Image text]https://raw.githubusercontent.com/shiep18/EIS2020/master/students/zengkexiang/myhouse.png
