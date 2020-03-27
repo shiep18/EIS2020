@@ -21,3 +21,6 @@ Embedded and Intelligent Systems (EIS) course for SHIEP 2020
  
 # Markdown 基本语法
 ![markdown cheat sheet](http://nestacms.com/docs/creating-content/markdown-cheat-sheet)
+
+# 解决Github无法显示图片问题
+blog.csdn.net/weixin_42128813/article/details/102915578
