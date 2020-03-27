@@ -4,4 +4,4 @@
    
 #20200325作业 
     效果：在本次作业的练习题中我选择了花瓶、水杯和中国象棋，在创意作品中我制作了一个遥控器并在按钮上刻了我自己的名字
-    ![image](https://github.com/shiep18/EIS2020/blob/master/students/ShenJiaCheng/my%20logo/mylogo.png）
+   ![image](https://github.com/shiep18/EIS2020/blob/master/students/ShenJiaCheng/my%20logo/mylogo.png)
