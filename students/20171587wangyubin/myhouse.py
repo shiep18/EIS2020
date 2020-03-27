@@ -6,7 +6,7 @@ mc = minecraft.Minecraft.create()
 pos = mc.player.getTilePos()
 #流动、掉落的方块
 ban=[6,8,9,10,11,12,13,18,26,27]
-
+#te
 def shoufig(xo=pos.x, yo=pos.y, zo=pos.z, L=10, W=10, H=10, num=1):
     if num >= 0 and num <= 27:
         fname = "fig" + str(num) + ".csv"
