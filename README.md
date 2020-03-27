@@ -20,4 +20,4 @@ Embedded and Intelligent Systems (EIS) course for SHIEP 2020
   * A:要将.py文件与binvox文件放在一起  
  
 # Markdown 基本语法
-![markdown cheat sheet](https://github.com/shiep18/EIS2020/blob/master/markdowncheatsheet.JPG)
+![markdown cheat sheet](http://nestacms.com/docs/creating-content/markdown-cheat-sheet)
