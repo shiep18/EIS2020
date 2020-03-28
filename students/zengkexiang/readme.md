@@ -11,11 +11,11 @@
 
 # 20200325作业
 * 三个3D模型图：
-  *第一个：乌鸦
-  ![Image text](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/3D/crow.JPG)
-  *第二个：奖杯
-  ![Image text](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/3D/trophy.JPG)
-  *第三个：奥特曼
-  ![Image text](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/3D/ultraman.JPG)
+1.第一个：乌鸦
+![Image text](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/3D/crow.JPG)
+2.第二个：奖杯
+![Image text](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/3D/trophy.JPG)
+3.第三个：奥特曼
+![Image text](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/3D/ultraman.JPG)
 * 在我的世界中放置模型：
 ![Image text](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/3D/mycrow.png)
