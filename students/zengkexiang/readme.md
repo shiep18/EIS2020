@@ -24,3 +24,16 @@
 ![Image text](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/3D/ultraman.JPG)
 ## 在我的世界中放置模型：
 ![Image text](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/3D/mycrow.png)
+
+# 20200327作业
+* 选择的32*32的像素图：
+
+![Image text](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/cv/mypic.jpg)
+
+* 在我的世界中的效果：
+
+![Image text](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/cv/pic.jpg)
+
+* 调用两个函数的效果：
+
+![Image text](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/cv/piclogo.jpg)
