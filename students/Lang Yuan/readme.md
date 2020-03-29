@@ -5,3 +5,4 @@
 ![mc.pi](https://github.com/shiep18/EIS2020/blob/master/students/Lang%20Yuan/mc.pic.PNG)
 ![princess](https://github.com/shiep18/EIS2020/blob/master/students/Lang%20Yuan/princess.PNG)
 ![qtww](https://github.com/shiep18/EIS2020/blob/master/students/Lang%20Yuan/qtww.PNG)
+![qtww](https://github.com/shiep18/EIS2020/blob/master/students/Lang%20Yuan/Screenshots/bridge1.PNG)
