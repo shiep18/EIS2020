@@ -1,1 +1,1 @@
-file:///C:/Users/admin/Desktop/Screenshots/ScreenshotsIMG_4916.PNG
+![bridgemode](https://github.com/shiep18/EIS2020/blob/master/students/Lang%20Yuan/bridgemodel.PNG)
