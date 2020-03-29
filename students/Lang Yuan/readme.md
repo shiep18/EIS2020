@@ -10,3 +10,5 @@
 ![sheep2](https://github.com/shiep18/EIS2020/blob/master/students/Lang%20Yuan/sheep2.png)
 ![sheep2](https://github.com/shiep18/EIS2020/blob/master/students/Lang%20Yuan/myhouse.PNG)
 ![inside](https://github.com/shiep18/EIS2020/blob/master/students/Lang%20Yuan/inside.png)
+![h](https://github.com/shiep18/EIS2020/blob/master/students/Lang%20Yuan/h.png)
+![h](https://github.com/shiep18/EIS2020/blob/master/students/Lang%20Yuan/inside3.png)
