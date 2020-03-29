@@ -9,3 +9,4 @@
 ![sheep](https://github.com/shiep18/EIS2020/blob/master/students/Lang%20Yuan/sheep.png)
 ![sheep2](https://github.com/shiep18/EIS2020/blob/master/students/Lang%20Yuan/sheep2.png)
 ![sheep2](https://github.com/shiep18/EIS2020/blob/master/students/Lang%20Yuan/myhouse.PNG)
+![inside](https://github.com/shiep18/EIS2020/blob/master/students/Lang%20Yuan/inside.png)
