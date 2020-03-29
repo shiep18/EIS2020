@@ -8,4 +8,4 @@
  
 # 20200327作业 
     效果：用不同方块和颜色显示一幅线条卡通线条图并完成一次性显示一个logo和卡通图
-    ![image](https://github.com/shiep18/EIS2020/blob/master/students/ShenJiaCheng/my%20pic/myclan.png)
+   ![image]（https://github.com/shiep18/EIS2020/blob/master/students/ShenJiaCheng/my%20pic/myclan.png）
