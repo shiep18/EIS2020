@@ -1,1 +1,7 @@
 ![bridgemode](https://github.com/shiep18/EIS2020/blob/master/students/Lang%20Yuan/bridgemodel.PNG)
+![mylogo](https://github.com/shiep18/EIS2020/blob/master/students/Lang%20Yuan/mc.bqb.JPG)
+![mc.bridge](https://github.com/shiep18/EIS2020/blob/master/students/Lang%20Yuan/mc.bridge.PNG)
+![mc.bridge2](https://github.com/shiep18/EIS2020/blob/master/students/Lang%20Yuan/mc.bridge2.PNG)
+![mc.pi](https://github.com/shiep18/EIS2020/blob/master/students/Lang%20Yuan/mc.pic.PNG)
+![princess](https://github.com/shiep18/EIS2020/blob/master/students/Lang%20Yuan/princess.PNG)
+![qtww](https://github.com/shiep18/EIS2020/blob/master/students/Lang%20Yuan/qtww.PNG)
