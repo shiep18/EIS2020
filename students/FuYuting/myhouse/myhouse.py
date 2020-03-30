@@ -25,7 +25,7 @@ y0=pos.y
 z0=pos.z
 L0=9
 count=1
-for i in range(3):                  #生成3*3*3的房子
+for i in range(3):                  
     z0=pos.z
     for j in range(3):
         x0=pos.x+1
