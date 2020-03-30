@@ -17,6 +17,12 @@ Embedded and Intelligent Systems (EIS) course for SHIEP 2020
 3. 写一个myclan.py,import 调用mylogo和showmypic里面的函数，完成一次性显示一个logo和卡通图
 4. 上传最后效果的屏幕拷贝
 
+# 20200330作业  
+1. 跑通倍塔狗语音识别代码
+2. 能够用前进，后退，往左，往右指挥我的世界中的角色前后左右移动
+3. 在我的世界中竖一个石柱，上海气温20度则高度为20块
+4. 效果屏幕拷贝上传自己的目录
+
 # FAQ 
 * Q:我的世界游戏启动失败咋办？  
   * A:下载更新的版本。  
