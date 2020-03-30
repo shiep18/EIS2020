@@ -1,2 +1,2 @@
-My house jietu : https://github.com/students/yigenghao/jietu/gangfangzi.png
-My diypicture jietu : https://github.com/students/yigenghao/jietu/diy.png
+My house jietu : https://github.com/hhhhh-p/yigenghao/jietu/raw/master/gangfangzi.png
+My diypicture jietu : https://github.com/hhhhh-p/yigenghao/raw/master/jietu/diy.png
