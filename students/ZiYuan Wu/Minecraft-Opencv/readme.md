@@ -1,7 +1,7 @@
 # My logo and picture
 
- 1：[!image](https://github.com/shiep18/EIS2020/blob/master/students/ZiYuan%20Wu/Minecraft-Opencv/mypic.png)
- 2: [!image](https://github.com/shiep18/EIS2020/blob/master/students/ZiYuan%20Wu/Minecraft-Opencv/mypic2.png)
+ 1：![image](https://github.com/shiep18/EIS2020/blob/master/students/ZiYuan%20Wu/Minecraft-Opencv/mypic.png)
+ 2: ![image](https://github.com/shiep18/EIS2020/blob/master/students/ZiYuan%20Wu/Minecraft-Opencv/mypic2.png)
 
 # 新的发现
 
