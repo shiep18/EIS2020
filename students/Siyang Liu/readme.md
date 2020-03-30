@@ -10,4 +10,4 @@
   
 # 20200327 homework
     Display an image through block in Minecreaft, And realize the logo and image display at one time.
-  
+  ![image](https://github.com/shiep18/EIS2020/blob/master/students/Siyang%20Liu/mypic/2020-03-30_14.14.05.png)
