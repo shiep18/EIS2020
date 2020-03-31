@@ -22,3 +22,15 @@ Embedded and Intelligent Systems (EIS) course for SHIEP 2020
 4. 上传最后效果的屏幕拷贝
 ## 结果图
 ![myclan](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/myclan/myclan.png)
+### 分析：- 把图片以灰度读入后，进行二值化处理，根据两种值分别分配不同颜色的方块，读取矩阵搭建后形成黑白图像。
+          - 在myclan里调用两种函数，可对位置进行设定
+
+# 20200330作业
+1. 跑通倍塔狗语音识别代码
+2. 能够用前进，后退，往左，往右指挥我的世界中的角色前后左右移动
+3. 在我的世界中竖一个石柱，上海气温20度则高度为20块
+4. 效果屏幕拷贝上传自己的目录
+## 结果图
+![mydog](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/mydog/mydog.png)
+### 分析：- 因为原本代码中的shenjian api返回的都是502，所以我换成了百度的自然语言处理api来提取出句子中的地名。
+          - 移动则是用了pynput来实现键盘输入。
