@@ -24,7 +24,7 @@ Embedded and Intelligent Systems (EIS) course for SHIEP 2020
 4. 效果屏幕拷贝上传自己的目录
 
 # 20200401作业
-1. 将造房子的代码改造为类名字为House  类里面需要有isInhome()函数判断是否在房子里。
+1. 将造房子的代码改造为类名字为House  类里面需要有isInHouse()函数判断是否在房子里。
 2. 利用House类生成27个实例，每个房子的位置在csv文件中定义，csv文件格式举例如下
    housename,x,y,z,l,w,h
    xknbighouse1,100,10,100,10,10,6
