@@ -9,4 +9,4 @@
 2. 学习了在GitHub上建立自己的文件及
 3. 我的世界建造房子的文件上传，不足之处是无法使用指令建造非方块的物品
 ### 作业完成图片：
-！[]（https://github.com/shiep18/EIS2020/blob/master/students/XuSen%20Zan/house/2020-03-26_15.14.56.png）
+![Image text](https://github.com/shiep18/EIS2020/blob/master/students/XuSen%20Zan/house/2020-03-26_15.14.56.png)
