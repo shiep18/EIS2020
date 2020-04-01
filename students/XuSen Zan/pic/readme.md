@@ -11,3 +11,5 @@
 ### 作业完成图片：
 ![Image text](https://github.com/shiep18/EIS2020/blob/master/students/XuSen%20Zan/pic/2020-03-29_18.18.43.png)
 ![Image text](https://github.com/shiep18/EIS2020/blob/master/students/XuSen%20Zan/pic/2020-03-29_18.19.03.png)
+### 表情包图片：
+![Image text](![Image text](https://github.com/shiep18/EIS2020/blob/master/students/XuSen%20Zan/pic/2020-03-29_18.19.03.png))
