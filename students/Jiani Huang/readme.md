@@ -12,3 +12,8 @@
 
 在myclan.py中一次性显示一个logo和卡通图
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/mypic/myclan.png)
+
+# Myvoice
+能够用前进，后退，往左，往右指挥我的世界中的角色前后左右移动
+在我的世界中竖一个石柱，上海气温20度则高度为20块
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/myvoice/weather .png)
