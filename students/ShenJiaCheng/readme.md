@@ -11,5 +11,5 @@
    ![image](https://github.com/shiep18/EIS2020/blob/master/students/ShenJiaCheng/my%20pic/myclan.png)
 
 # 20200330作业
-    能够用前进，后退，往左，往右指挥我的世界中的角色前后左右移动,在我的世界中竖一个石柱，高度为当天温度
+    效果：能够用前进，后退，往左，往右指挥我的世界中的角色前后左右移动,在我的世界中竖一个石柱，高度为当天温度
    ![image](https://github.com/shiep18/EIS2020/blob/master/students/ShenJiaCheng/my%20dog/mydog.png)
