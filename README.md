@@ -31,6 +31,11 @@ Embedded and Intelligent Systems (EIS) course for SHIEP 2020
    xknsmallhouse2,100,10,200,6,6,6  
 3. 摄像头监视有运动物体进入画面时唱歌
 
+# 20200403作业
+1. 找一个物体作为指挥棒，通过视频和HSV颜色匹配画一个圆跟踪  
+2. 利用找到的物体作为遥控器，遥控我的世界的玩家前后左右跑动。  
+3. 跑到部落里不同的房子，显示“welcome to xxxx‘s house” xxx是房子的主人的名字  
+
 # FAQ 
 * Q:我的世界游戏启动失败咋办？  
   * A:下载更新的版本。  
