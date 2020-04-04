@@ -11,3 +11,4 @@ https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/record/weather
 一个视频太大了，截成了两个
 https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/sethouse/sethouse上.mp4
 https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/sethouse/sethouse下.mp4
+https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/camera/camera.mp4
