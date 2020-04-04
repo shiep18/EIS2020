@@ -20,7 +20,7 @@ set27houses
 ![图片3](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/opencv/biaoqing.png)
 
 用声音控制我的世界里的人物
-![](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/record/wavecontrol.mp4)
+https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/record/wavecontrol.mp4
 
 温度
 https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/record/weather.mp4
