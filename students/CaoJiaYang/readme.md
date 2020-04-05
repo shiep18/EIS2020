@@ -10,3 +10,6 @@
 ![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/picture/mypic.png)
 * import 3D and picture in myclan.py to put them into minecraft together 
 ![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/picture/together.png)
+# house(class)
+![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/house(class)&invader detection/house(class).jpg)
+
