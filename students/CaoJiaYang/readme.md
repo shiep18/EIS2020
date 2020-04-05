@@ -11,7 +11,7 @@
 * import 3D and picture in myclan.py to put them into minecraft together 
 ![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/picture/together.png)
 # house(class)
-* define houses' location and size through class
-* input houses' data from csv
+* define houses' location and size in csv
+* built the house through class
 ![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/house(class)&motion/house(class).jpg)
 
