@@ -10,7 +10,6 @@ xknsmallhouse2,100,10,200,6,6,6
 ### 作业完成情况：
 1. 掌握了class用法
 2. 学会了建立、使用和导入csv文件
-3. 进入房子时显示进入房子的门牌号，并且显示出来
 ### 作业完成图片：
 ![](https://github.com/shiep18/EIS2020/blob/master/students/XuSen%20Zan/house_class/house.png)
-
+进入房子时显示进入房子的门牌号，并且显示出来
