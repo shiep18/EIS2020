@@ -9,10 +9,10 @@ pos = mc.player.getTilePos()
 def cratcsv(x,y,z,l,h,w):
     f = open('houses.csv', "w", newline='')
     csv_writer = csv.writer(f)
-    # 3构建列表头
+    # 构建列表头
     csv_writer.writerow(["housename", "x", "y","z","l","h","w"])
     i = 0
-    for a in range(3):
+    for a in range(3):   #做27个
         for b in range(3):
             for c in range(3):
                 i += 1
@@ -28,7 +28,7 @@ class House:
         self.h = h
         self.w = w
         self.name = name
-    def housesetting(self):
+    def housesetting(self): #打印房子属性
         print(self.name,self.x,self.y,self.z,self.l,self.h,self.w)
     def buildhouse(self):
         for y0 in range(self.h):  # wall
@@ -60,7 +60,7 @@ class House:
         for x0 in range(2):  # windows
             for y0 in range(2):
                 mc.setBlock(self.x + x0 + 6, self.y + y0 + 6, self.z, 20)
-        print("I'll build a house",self.x,self.y,self.z,self.l,self.h,self.w)
+
 
 
 
@@ -75,7 +75,6 @@ mc.player.setTilePos(340,8,644)
 with open('houses.csv',"r", newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     rows=[row for row in reader]
-    print(rows[0]["housename"])
     for a in range(27):
         myhouse = House(rows[a]["housename"],int(rows[a]["x"]),int(rows[a]["y"]),int(rows[a]["z"]),int(rows[a]["l"]),int(rows[a]["h"]),int(rows[a]["w"]))
         myhouse.housesetting()
