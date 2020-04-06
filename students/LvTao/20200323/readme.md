@@ -6,4 +6,4 @@
 
 效果图
 =
-![image]（https://github.com/shiep18/EIS2020/blob/master/students/LvTao/20200323/myhouse.png）
+![image](https://github.com/shiep18/EIS2020/blob/master/students/LvTao/20200323/myhouse.png)
