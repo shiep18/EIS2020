@@ -1,1 +1,32 @@
+# EIS2020
+Embedded and Intelligent Systems (EIS) course for SHIEP 2020
 
+# 20200323作业
+1. 学习M02 M06 ppt  
+2. students目录下创建自己的文件夹  
+3. 我的世界造房子myhouse.py上传  
+
+# 20200325作业
+1. 学习3D建模课件，挑3个ppt学习即可。 3个设计文件上传到自己的文件夹。 可以用123D也可以用fusion360  
+2. 设计创意一个属于自己的物品。 mylogo.stl 文件上传。  
+3. 在我的世界里显示自己的物品  mylogo.py 和binvox文件上传。 
+
+# 20200327作业
+1. 安装并配置git和vscode, 参见知乎的帖子[如何配置vscode和git](https://zhuanlan.zhihu.com/p/31417255)
+2. 在我的世界里利用opencv，利用不同方块和颜色显示一幅线条卡通线条图mypic.jpg , 大小为32x32个方块，程序名为showmypic.py
+3. 写一个myclan.py,import 调用mylogo和showmypic里面的函数，完成一次性显示一个logo和卡通图
+4. 上传最后效果的屏幕拷贝
+
+# 20200330作业  
+1. 跑通倍塔狗语音识别代码
+2. 能够用前进，后退，往左，往右指挥我的世界中的角色前后左右移动
+3. 在我的世界中竖一个石柱，上海气温20度则高度为20块
+4. 效果屏幕拷贝上传自己的目录
+
+# 20200401作业
+1. 将造房子的代码改造为类名字为House  类里面需要有isInHouse()函数判断是否在房子里。
+2. 利用House类生成27个实例，每个房子的位置在csv文件中定义，csv文件格式举例如下
+   housename,x,y,z,l,w,h  
+   xknbighouse1,100,10,100,10,10,6  
+   xknsmallhouse2,100,10,200,6,6,6  
+3. 摄像头监视有运动物体进入画面时唱歌
