@@ -32,6 +32,7 @@ https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/sethouse/setho
 摄像头中有东西进入播放音乐
 https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/camera/camera.mp4
 
-
+找一个物体作为指挥棒，通过视频和HSV颜色匹配画一个圆跟踪
+利用找到的物体作为遥控器，遥控我的世界的玩家前后左右跑动
 https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/camera/control上.mp4
 https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/camera/control下.mp4
