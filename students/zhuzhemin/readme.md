@@ -31,3 +31,7 @@ https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/sethouse/setho
 
 摄像头中有东西进入播放音乐
 https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/camera/camera.mp4
+
+
+https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/camera/control上.mp4
+https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/camera/control下.mp4
