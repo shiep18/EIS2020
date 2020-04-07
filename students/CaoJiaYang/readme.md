@@ -14,4 +14,7 @@
 * define houses' location and size in csv
 * built the house through class
 ![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/house(class)&motion/house(class).jpg)
+# control(HSV)
+* control moving through camera
+![controller](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/control(HSV)/control.mp4)
 
