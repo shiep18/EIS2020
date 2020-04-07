@@ -61,16 +61,16 @@ while cap is not None:
     # 判断掩模中白色的位置
     if 100 < xCenter < 540 and yCenter < 100:
         print("strange")
-        # mcgo("strange")
+        mcgo("strange")
     elif 100 < xCenter < 540 and yCenter > 380:
         print("back")
-        # mcgo("back")
+        mcgo("back")
     elif xCenter < 100 and 100 < yCenter < 380:
         print("right")
-        # mcgo("right")
+        mcgo("right")
     elif xCenter > 540 and 100 < yCenter < 380:
         print("left")
-        # mcgo("left")
+        mcgo("left")
 
     # 显示图层
     res = cv2.bitwise_and(frame, frame, mask=mask)
