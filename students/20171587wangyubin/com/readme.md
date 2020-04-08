@@ -1,0 +1,1 @@
+This project simulates the serial port communication through the linkage of vscode and proteus, and realizes entering the home to turn on the light and exiting the home to turn off the light in minecraft
