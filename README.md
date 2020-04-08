@@ -36,6 +36,10 @@ Embedded and Intelligent Systems (EIS) course for SHIEP 2020
 2. 利用找到的物体作为遥控器，遥控我的世界的玩家前后左右跑动。  
 3. 跑到部落里不同的房子，显示“welcome to xxxx‘s house” xxx是房子的主人的名字  
 
+# 20200408作业
+1. 我的世界回到家后点亮arduino的一盏灯，走出家后arduino灯关闭
+2. 阿里code团队里面写自己的名字 
+
 # FAQ 
 * Q:我的世界游戏启动失败咋办？  
   * A:下载更新的版本。  
