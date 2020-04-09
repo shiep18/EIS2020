@@ -68,3 +68,10 @@ gif：
           * 黄色控制视角，绿色控制移动。
           * 通过模拟鼠标键盘的方式来实现控制。
           * 操作不太灵敏，容易跑偏。
+          
+# 20200408作业
+1. 我的世界回到家后点亮arduino的一盏灯，走出家后arduino灯关闭
+2. 阿里code团队里面写自己的名字
+## 结果图
+gif：
+![myled](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/myled/myled.gif)
