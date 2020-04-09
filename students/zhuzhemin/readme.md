@@ -36,3 +36,6 @@ https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/camera/camera.
 利用找到的物体作为遥控器，遥控我的世界的玩家前后左右跑动
 https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/camera/control上.mp4
 https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/camera/control下.mp4
+
+回家
+https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/welcomehome_led/welcomehome_led.mp4
