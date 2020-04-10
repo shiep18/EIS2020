@@ -46,7 +46,7 @@ Embedded and Intelligent Systems (EIS) course for SHIEP 2020
 3. 利用人脸检测获得脸部图像保存到文件face.jpg里面
 4. 我的世界用玻璃做门。如果是自己，则门变成空气，可以进去。arduino点亮0~3号灯
 5. 我的世界用玻璃做门。如果是家人，则门变成空气，可以进去。arduino点亮0~3号灯
-6. 其他人不开门
+6. 其他人不开门（可以用自己带口罩充当）
 7. 演示效果用动图gif上传
 
 # FAQ 
