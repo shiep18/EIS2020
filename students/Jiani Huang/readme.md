@@ -18,4 +18,4 @@
 
 # Classhouse
 利用House类生成27个实例，每个房子的位置在csv文件中定义，csv文件格式举例如下 housename,x,y,z,l,w,h,num
-玩家进入房子时唱歌
+摄像头实时监测，有动态物体进入时，打印hello，玩家进入房子打印欢迎来到xxx房子并唱歌
