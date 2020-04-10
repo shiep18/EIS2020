@@ -41,15 +41,14 @@ class House:
             
 c=csv.reader(open('houses.csv'))               
 r= list(c)
-built=r
 for x in range(10):
-    built[x][1]=House(int(r[x][1]),int(r[x][2]),int(r[x][3]),int(r[x][4]),int(r[x][5]),int(r[x][6]),int(r[x][7]))
-    built[x][1].house()
+    r[x][1]=House(int(r[x][1]),int(r[x][2]),int(r[x][3]),int(r[x][4]),int(r[x][5]),int(r[x][6]),int(r[x][7]))
+    r[x][1].house()
 while True:
     pos = mc.player.getTilePos()            
     for i in range(10):
-        if built[i][1].where(pos.x,pos.y,pos.z):
-            print("welcome to ",built[i][0])
+        if r[i][1].where(pos.x,pos.y,pos.z):
+            print("welcome to ",r[i][0])
             time.sleep(3)
 
 
