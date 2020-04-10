@@ -1,13 +1,15 @@
 import mcpi.minecraft as minecraft
 import mcpi.block as block
 import csv
+import numpy as np
+import time
 mc = minecraft.Minecraft.create()
 pos = mc.player.getTilePos()
 class House:
     def __init__(self,x0,y0,z0,L,W,H,M):
-        self.x0=x0
-        self.y0=y0
-        self.z0=z0
+        self.x0=pos.x+x0
+        self.y0=pos.y+y0
+        self.z0=pos.z+z0
         self.L=L
         self.W=W
         self.H=H
@@ -31,19 +33,23 @@ class House:
         for x in range(self.L):                                     #屋顶
             for z in range(self.W):
                 mc.setBlock(self.x0+x,self.y0+self.H,z+self.z0, self.M)
-    def where(self):                                                 #位置判断
-            if self.L>=pos.x-self.x0 and self.W>=pos.z-self.z0 and self.H>=pos.y-self.y0:
-                return True
-            else:
-                return False
+    def where(self,x,y,z):                                         #位置
+        if self.x0<=x<=self.x0+self.L and self.y0<=y<=self.y0+self.H and self.z0<=z<=self.z0+self.W:
+            return True
+        else:
+            return False
             
 c=csv.reader(open('houses.csv'))               
 r= list(c)
+built=r
 for x in range(10):
-    built=House(pos.x+int(r[x][1]),pos.y+int(r[x][2]),pos.z+int(r[x][3]),int(r[x][4]),int(r[x][5]),int(r[x][6]),int(r[x][7]))
-    built.house()
-
-    
-    
+    built[x][1]=House(int(r[x][1]),int(r[x][2]),int(r[x][3]),int(r[x][4]),int(r[x][5]),int(r[x][6]),int(r[x][7]))
+    built[x][1].house()
+while True:
+    pos = mc.player.getTilePos()            
+    for i in range(10):
+        if built[i][1].where(pos.x,pos.y,pos.z):
+            print("welcome to ",built[i][0])
+            time.sleep(3)
 
 
