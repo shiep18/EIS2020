@@ -5,6 +5,9 @@ pos = mc.player.getTilePos()
 import csv
 import os
 import time
+import threading
+from dynamic import *
+
 #print("player pos is",pos)     #player pos is Vec3(108,2,-88)
 class House:
     def __init__(self,x,y,z,l,w,h,num):
@@ -36,20 +39,35 @@ class House:
         else:
             return False
 
-reader = csv.reader(open('house.csv'))              #读取csv房屋坐标等信息
-data=[]
-for r in reader:
-    data.append(r)
-for i in range(27):
-    for j in range(7):
-        data[i][j+1]=int(data[i][j+1])
-    data[i][0]=House(data[i][1],data[i][2],data[i][3],data[i][4],data[i][5],data[i][6],data[i][7])
-    data[i][0].house()
-
-while True:
-    pos = mc.player.getTilePos()            #重新获取坐标位置
+def whileinhouse():
+    reader = csv.reader(open('house.csv'))
+    data=[]
+    name=[]
+    for r in reader:
+        data.append(r)
     for i in range(27):
-        if data[i][0].isInHouse(pos.x,pos.y,pos.z):#判断在家就播放音频
-            print("欢迎回家")
-            os.system("欢迎回家.wav")          
-            time.sleep(6)
+        name.append(data[i][0])
+        for j in range(7):
+            data[i][j+1]=int(data[i][j+1])
+        data[i][0]=House(data[i][1],data[i][2],data[i][3],data[i][4],data[i][5],data[i][6],data[i][7])
+        data[i][0].house()
+    while True:
+        pos = mc.player.getTilePos()            #重新获取坐标位置
+        for i in range(27):
+            if data[i][0].isInHouse(pos.x,pos.y,pos.z):#判断在家就播放音频
+                print("欢迎来到"+name[i]+"的家")
+                os.system("欢迎回家.wav")          
+                time.sleep(6)
+
+threads = []
+
+t1 = threading.Thread(target=whileinhouse) # 使用多线程，使得两个检测循环同时进行
+threads.append(t1)
+t2 = threading.Thread(target=dynamic)
+threads.append(t2)
+if __name__=='__main__':
+    for t in threads:
+        t.start()
+    for t in threads:
+        t.join()
+print ("退出")
