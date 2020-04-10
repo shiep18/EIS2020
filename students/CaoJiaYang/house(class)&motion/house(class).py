@@ -48,7 +48,7 @@ while True:
     pos = mc.player.getTilePos()            
     for i in range(10):
         if r[i][1].where(pos.x,pos.y,pos.z):
-            print("welcome to ",r[i][0])
+            mc.postToChat("welcome to "+r[i][0])
             time.sleep(3)
 
 
