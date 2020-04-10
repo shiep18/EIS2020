@@ -1,0 +1,58 @@
+
+int led=0;
+void setup() {
+  // put your setup code here, to run once:
+pinMode(0,INPUT);  
+Serial.begin(9600);
+Serial.println("hello my friend!");
+for(int i=13;i>5; i--)
+pinMode(i,OUTPUT);
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  int rslt=Serial.read();
+  Serial.println(rslt);
+ 
+  switch(rslt-48){
+  case 0:
+  digitalWrite(led+6,HIGH);
+  break;
+    case 1:
+  digitalWrite(led+7,HIGH);
+  break;
+    case 2:
+  digitalWrite(led+8,HIGH);
+  break;
+    case 3:
+  digitalWrite(led+9,HIGH);
+  break;
+    case 4:
+  digitalWrite(led+10,HIGH);
+  break;
+    case 5:
+  digitalWrite(led+11,HIGH);
+  break;
+    case 6:
+  digitalWrite(led+12,HIGH);
+  break;
+    case 7:
+  digitalWrite(led+13,HIGH);
+  break;
+    case 8:
+  digitalWrite(led+13,LOW);
+  break;
+  
+  
+  default:
+  
+  
+  delay(200);
+  break;
+  
+
+  }
+
+
+}
