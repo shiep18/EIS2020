@@ -7,4 +7,4 @@
 
  *进入房间亮等，离开房间关灯
 
-![image]()
+![image](https://github.com/shiep18/EIS2020/blob/master/students/ZiYuan%20Wu/house%26led/show.gif)
