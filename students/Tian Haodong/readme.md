@@ -29,6 +29,8 @@
 3.使用语音查询天气。
 
 注：未查明无法使用getCity函数的原因，每次调用会使idle卡顿，在本次作业中固定查询“上海”天气。
+
+![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/3.30/%E6%B8%A9%E5%BA%A6%E6%9F%B1.png)
 # 4.1文件夹
 
 1.使用class类进行建房。
@@ -38,6 +40,8 @@
 3.读取csv文件的房子坐标以及长宽高。
 
 4.物体检测，当有物体出现在摄像头内时，播放音乐。
+
+![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/4.1/classhouse.png)
 
 # 4.3文件夹
 
