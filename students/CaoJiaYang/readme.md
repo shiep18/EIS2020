@@ -19,4 +19,8 @@
 # control(HSV)
 * control moving through camera
 ![controller](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/control(HSV)/control.mp4)
+# led(COM)
+![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/led(COM)/led.jpg)
+![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/led(COM)/ledd.jpg)
+
 
