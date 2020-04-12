@@ -1,14 +1,14 @@
 # EIS2020
 Embedded and Intelligent Systems (EIS) course for SHIEP 2020
 
-# 20200323作业
+# 20200323作业([myhouse](https://github.com/shiep18/EIS2020/tree/master/students/Gongyangyang/myhouse))
 1. 学习M02 M06 ppt
 2. students目录下创建自己的文件夹
 3. 我的世界造房子myhouse.py上传
 ## 结果图
 ![myhouse](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/myhouse/myhouse.png)
 
-# 20200325作业
+# 20200325作业(mylogo)
 1. 学习3D建模课件，挑3个ppt学习即可。 3个设计文件上传到自己的文件夹。 可以用123D也可以用fusion360
 2. 设计创意一个属于自己的物品。 mylogo.stl 文件上传。
 3. 在我的世界里显示自己的物品 mylogo.py 和binvox文件上传。
@@ -75,3 +75,15 @@ gif：
 ## 结果图
 gif：
 ![myled](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/myled/myled.gif)
+
+# 20200410作业
+1. 跑通人脸识别代码
+2. 训练3个人脸，自己，家人，其他（比如猫).
+3. 利用人脸检测获得脸部图像保存到文件face.jpg里面
+4. 我的世界用玻璃做门。如果是自己，则门变成空气，可以进去。arduino点亮1~4号灯
+5. 我的世界用玻璃做门。如果是家人，则门变成空气，可以进去。arduino点亮5~8号灯
+6. 其他人不开门（可以用自己带口罩充当）
+7. 离开屋子灯熄灭
+8. 演示效果用动图gif上传
+gif:
+![myface](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/myled/myled.gif)
