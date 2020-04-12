@@ -43,6 +43,7 @@
 
 ![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/4.1/classhouse.png)
 
+![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/4.1/4.1%E7%89%A9%E4%BD%93%E6%A3%80%E6%B5%8B.gif)
 # 4.3文件夹
 
 1.使用OpenCV实现对红色物体的追踪
