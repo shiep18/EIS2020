@@ -19,3 +19,7 @@
 # Classhouse
 利用House类生成27个实例，每个房子的位置在csv文件中定义，csv文件格式举例如下 housename,x,y,z,l,w,h,num
 摄像头实时监测，有动态物体进入时，打印hello，玩家进入房子打印欢迎来到xxx房子并唱歌
+
+# Mycontrol
+用蓝色指挥棒操作角色进不同的小屋，并打印出不同的问候语
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/mycontrol/mycontrol.gif)
