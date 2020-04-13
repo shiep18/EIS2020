@@ -3,4 +3,4 @@
 2. 阿里code团队里面写自己的名字 
 
 # 效果
-![Image text]https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/20200408/houseLED.gif
+![Image.text]https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/20200408/houseLED.gif
