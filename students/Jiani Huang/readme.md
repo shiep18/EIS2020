@@ -27,3 +27,9 @@
 # [Myled](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/myled)
 我的世界回到任意一间屋子后点亮arduino的灯，离开则arduino灯关闭
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/myled/myled.gif)
+
+# [Myface](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/myface)
+
+# [socket&box](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/socket%26box)
+用socket接口编程在我的世界玩家脚下摆3x3的黄金块
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/socket%26box/gold.png)
