@@ -30,6 +30,11 @@
 
 # [Myface](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/myface)
 
-# [socket&box](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/socket%26box)
+# [Socket&box](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/socket%26box)
 用socket接口编程在我的世界玩家脚下摆3x3的黄金块
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/socket%26box/gold.png)
+
+
+# [Apache](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/apache)
+通过网页控制我的世界角色移动以及在我的世界里建房子
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/apache/apache.gif)
