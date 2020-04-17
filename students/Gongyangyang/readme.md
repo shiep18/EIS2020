@@ -111,7 +111,7 @@ gif:
 2. 通过网页在我的世界里建房子
 ## 结果图
 gif:
-![apache](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/apache/apche.gif)
+![apache](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/apache/apache.gif)
 ### 分析：
           * move输入移动方向和距离，输入b回家。
           * home输入与角色的相对距离，建造房子。
