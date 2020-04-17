@@ -95,7 +95,7 @@ gif:
           * 训练所得数据可以保存在yml文件中。
           * 发送串口数据时最好有一定的时间间隔。
           
-# 20200415作业
+# 20200415作业([socket](https://github.com/shiep18/EIS2020/tree/master/students/Gongyangyang/socket))
 1. 用socket接口编程在我的世界玩家脚下摆3x3的黄金块
 2. mcpi协议参考https://github.com/brooksc/mcpipy/blob/master/mcpi/mcpi_protocol_spec.txt
 3. 在A4纸大小厚2毫米的板子上设计一个arduino盒子，要求
@@ -106,14 +106,12 @@ gif:
 ## 结果图
 ![mysocket](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/socket/mysocket.png)
    
-# 20200417作业
+# 20200417作业([apache](https://github.com/shiep18/EIS2020/tree/master/students/Gongyangyang/apache))
 1. 通过网页控制我的世界角色移动
 2. 通过网页在我的世界里建房子
 ## 结果图
 gif:
 ![apache](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/apache/apche.gif)
 ### 分析：
-'''
           * move输入移动方向和距离，输入b回家。
           * home输入与角色的相对距离，建造房子。
-'''
