@@ -42,6 +42,7 @@ https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/camera/control
 我的世界回到家后点亮arduino的一盏灯，走出家后arduino灯关闭
 https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/welcomehome_led/welcomehome_led.mp4
 
-
-https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200410/Face_Recognition1.GIF
-https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200410/Face_Recognition2.GIF
+20200410作业
+Zhuzhemin是我，Yuhao是我的朋友，识别到我们两个会开门开灯；剩下一个是Stranger，关门关灯。没有写走进房间亮灯是因为电脑实在太卡了。
+![](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200410/Face_Recognition1.GIF)
+![](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200410/Face_Recognition2.GIF)
