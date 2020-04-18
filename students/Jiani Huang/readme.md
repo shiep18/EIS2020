@@ -34,6 +34,11 @@
 用socket接口编程在我的世界玩家脚下摆3x3的黄金块
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/socket%26box/gold.png)
 
+根据pcb版图量得的尺寸，在Makercase上绘制盒子，共三个，橙色为arduino盒子，一侧露出USB口及电源线，顶面露出排针并留下竖杆插入的位置；紫色为竖杆；绿色为红绿灯，一侧切割三个圆作为红绿灯，底部留下竖杆插入的位置。
+
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/socket%26box/arduino%20pcb.jpg)
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/socket%26box/arduinobox.jpg)
+
 # [Apache](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/apache)
 通过网页控制我的世界角色移动以及在我的世界里建房子
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/apache/apache.gif)
