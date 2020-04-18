@@ -18,11 +18,15 @@
 ![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/house(class)&motion/location.jpg)
 # control(HSV)
 * control moving through camera
+* lock and follow the object through HSV 
 ![controller](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/control(HSV)/control.mp4)
 # led(COM)
 * connect the com between arduino and python
 * open the exclusive led through com if you go inside the house 
 ![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/led(COM)/led.jpg)
 ![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/led(COM)/ledd.jpg)
+# socket
+* set blocks through socket
+![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/socket&box/socket.jpg)
 
 
