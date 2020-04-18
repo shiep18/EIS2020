@@ -41,3 +41,7 @@ https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/camera/control
 
 我的世界回到家后点亮arduino的一盏灯，走出家后arduino灯关闭
 https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/welcomehome_led/welcomehome_led.mp4
+
+
+https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200410/Face_Recognition1.GIF
+https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200410/Face_Recognition2.GIF
