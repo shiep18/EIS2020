@@ -28,5 +28,10 @@
 # socket
 * set blocks through socket
 ![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/socket&box/socket.jpg)
+# Apache
+* control minecraft in web through Apache
+* input 'wasd' or 'xyz' in web page to control move and built house
+![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/Apache/show.gif)
+
 
 
