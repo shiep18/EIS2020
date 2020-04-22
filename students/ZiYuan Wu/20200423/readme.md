@@ -7,3 +7,6 @@
 
 
 ![](https://github.com/shiep18/EIS2020/blob/master/students/ZiYuan%20Wu/20200423/show.gif)
+
+窗体面积计算：
+![](https://github.com/shiep18/EIS2020/blob/master/students/ZiYuan%20Wu/20200423/window.PNG)
