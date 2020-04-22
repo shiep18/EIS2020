@@ -69,7 +69,7 @@ Embedded and Intelligent Systems (EIS) course for SHIEP 2020
 3. 计算出minecraft窗口的大小
 4. 点击进入我的世界连接好的服务
 5. 如果已连接，点击回到世界
-6. 修建环形跑道（可以用导入图片方式）
+6. 修建环形跑道（控制在32x32以内可以用导入图片方式）
 
 # FAQ 
 * Q:我的世界游戏启动失败咋办？  
