@@ -59,6 +59,11 @@ Embedded and Intelligent Systems (EIS) course for SHIEP 2020
    * 一个竖杆插在arduino座上
    * 竖杆上留3个LED灯的位置作为红绿灯
 
+# 20200417作业
+1. 用web接口指挥我的世界人物前后左右后退
+2. 通过网页在我的世界里建房子
+
+
 # FAQ 
 * Q:我的世界游戏启动失败咋办？  
   * A:下载更新的版本。  
