@@ -72,9 +72,9 @@ Embedded and Intelligent Systems (EIS) course for SHIEP 2020
 
 
 # 20200424作业
-1.自己搜索一下Openvino安装方法，阅读
-2.用下载的包里面的软件安装
-3.用今天的yolo加速代码测试
+1.自己搜索一下Openvino安装方法，阅读  
+2.用下载的包里面的软件安装  
+3.用今天的yolo加速代码测试  
 
 
 # FAQ 
