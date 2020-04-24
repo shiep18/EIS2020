@@ -32,6 +32,7 @@
 * control minecraft in web through Apache
 * input 'wasd' or 'xyz' in web page to control move and built house
 ![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/Apache/show.gif)
-
+# PyAutoGUI
+![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/PyAutoGUI/show.gif)
 
 
