@@ -33,6 +33,9 @@
 * input 'wasd' or 'xyz' in web page to control move and built house
 ![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/Apache/show.gif)
 # PyAutoGUI
+* identify the window of minecraft
+* click into the game automactically whether you are in initial UI or suspend UI
+* make a circle runway in the game 
 ![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/PyAutoGUI/show.gif)
 
 
