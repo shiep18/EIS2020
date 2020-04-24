@@ -6,3 +6,7 @@
 5.修建环形跑道（控制在32x32以内可以用导入图片方式）
 
 # 自动连接到世界
+![](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/20200422/waigua.gif)
+
+# note
+ * 框选屏幕时加了x、y方向的偏置，后面获得图片坐标时也要加偏置
