@@ -19,4 +19,13 @@
 # 20200403
   Using a blue object as a baton, draw a rectangular trace through HSV color matching.
   Use the blue object as a remote control to control the characters of Minecraft to run back and forth, left and right.
-  
+# 20200408
+  Turn on a arduino lamp when you get home, and turn off the arduino lamp
+# 20200410
+  Run through the face recognition code
+  Train 3 faces, yourself, family, others (such as cats).
+  Use facial detection to obtain facial images and save them in the file face.jpg
+  Minecraft uses glass as the door. If you are yourself, the door becomes air and you can go in. arduino lights up lights 1 ~ 4
+  Minecraft uses glass as the door. Others do n’t open the door, arduino lights No. 5 ~ 8
+  Demonstration effect is uploaded with animated gif
+  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework8/Timeline%201%2000_00_00-00_00_30.gif)
