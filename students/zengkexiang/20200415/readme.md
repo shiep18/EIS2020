@@ -6,3 +6,6 @@
    * 露出USB口可插USB线
    * 一个竖杆插在arduino座上
    * 竖杆上留3个LED灯的位置作为红绿灯
+
+# 黄金效果图
+![](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/20200415/gold.png)
