@@ -42,3 +42,7 @@
 # [Apache](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/apache)
 通过网页控制我的世界角色移动以及在我的世界里建房子
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/apache/apache.gif)
+
+# [Autoguipy](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/autoguipy)
+自动点击进入我的世界连接好的服务，如果已连接，点击回到世界，修建环形跑道
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/autoguipy/autoguipy.gif)
