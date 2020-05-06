@@ -77,13 +77,13 @@ Embedded and Intelligent Systems (EIS) course for SHIEP 2020
 3.用今天的yolo加速代码测试  
 
 # 20200506作业
-1.挑选小组（部落）基地坐标clancenter,xc,yc,zc 
-2.创建csv文件，定义每人房子的地基的相对坐标格式.文件名team1_clan.csv. 内容举例如下：
-  clancenter,500,20,600
-  tom,10,20,30  
-  jerry,30,20,30
-  kevin,60,20,
-3.读入csv，找到自己的名字，在部落中造房子。例如，tom 的房子基坐标是 500+20，20+20，600+30
+1.挑选小组（部落）基地坐标clancenter,xc,yc,zc   
+2.创建csv文件，定义每人房子的地基的相对坐标格式.文件名team1_clan.csv. 内容举例如下：  
+  clancenter,500,20,600  
+  tom,10,20,30    
+  jerry,30,20,30  
+  kevin,60,20,45  
+3.读入csv，找到自己的名字，在部落中造房子。例如，tom 的房子基坐标是 500+20，20+20，600+30  
 
 # FAQ 
 * Q:我的世界游戏启动失败咋办？  
