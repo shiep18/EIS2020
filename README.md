@@ -87,6 +87,15 @@ Embedded and Intelligent Systems (EIS) course for SHIEP 2020
 4.在代码中，读入部落的csv文件，找到自己的名字，在部落中造房子。例如，tom 的房子基坐标是 500+20，20+20，600+30  
 5.小组每个人都完成后，上传部落房屋截屏到github team里
 
+# 20200508作业
+1. 给部落用binvox建一个雕像。雕像位置在csv文件里叫clanlogo  雕像的stl文件任选
+  clancenter,500,20,600
+  clanlogo,0,0,0
+  tom,10,20,30    
+  jerry,30,20,30  
+  kevin,60,20,45  
+2. 代码和stl文件上传github
+
 # FAQ 
 * Q:我的世界游戏启动失败咋办？  
   * A:下载更新的版本。  
