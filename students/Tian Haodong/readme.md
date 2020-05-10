@@ -75,3 +75,9 @@
 3.使用虚拟按键自动点击进入我的世界连接好的服务器
 
 ![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/4.22/4.22%E8%99%9A%E6%8B%9F%E6%8C%89%E9%94%AE%E8%BF%9B%E5%85%A5%E6%B8%B8%E6%88%8F.gif)
+
+# 4.24文件夹
+
+安装openvino进行yolo加速代码测试
+
+![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/4.24/20200424.png)
