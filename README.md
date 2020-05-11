@@ -96,6 +96,14 @@ Embedded and Intelligent Systems (EIS) course for SHIEP 2020
   kevin,60,20,45  
 2. 代码和stl文件上传github
 
+# 20200511作业
+1. Android studio 添加一个按钮，按钮上面显示“按钮”文字。
+2.Android studio界面布局.pdf 课件预习。
+3.
+4.
+
+
+
 # FAQ 
 * Q:我的世界游戏启动失败咋办？  
   * A:下载更新的版本。  
