@@ -48,6 +48,10 @@
 # 20200508([homework14](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework14))
   Build a statue for the tribe with binvox
 # 20200511([homework15](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework15))
-  Android studio adds a button that displays the text "button" above the button.
-  Django creates a new APP named topics, creates a model named Topic, contains a text field named content, and completes the model migration
+  Adds a button that displays the text "button" above the button in the Android studio.
+  Creates a new APP named topics with Django, creates a model named Topic, contains a text field named content, and completes the model migration
   ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework15/app.jpg)
+# 20200513([homework16](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework16))
+  Add a return click event to the second interface of the login interface APP: click to return to the login interface
+  Complete the remainder of the voting application in class and improve the blog application which should have the most basic function of viewing and publishing articles
+  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework16/new_test_1.gif)
