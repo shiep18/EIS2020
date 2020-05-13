@@ -39,4 +39,15 @@
   ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework9/ardunio.png)
 # 20200417([homework10](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework10))
   Use the web interface to direct my world characters back and forth
+# 20200422
+  Use image matching to find the minecraft window. Automatically click to enter the connected service of Minecraft. If connected, click to return to the world,Build a circular runway.
+# 20200424
+  Install Openvino and accelerate code testing with yolo
+# 20200506
+  Create your own house building python code on the server, for example tomhouse.py 4. In the code, read the csv file of the tribe, find your name, and build a house in the tribe.
+# 20200508
+  Build a statue for the tribe with binvox
+# 20200511
+  Android studio adds a button that displays the text "button" above the button.
+  Django creates a new APP named topics, creates a model named Topic, contains a text field named content, and completes the model migration
 
