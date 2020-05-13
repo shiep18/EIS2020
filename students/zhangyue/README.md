@@ -35,6 +35,8 @@
 # 20200415([homework9](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework9))
   Use socket interface to program 3x3 gold blocks under the feet of Minecraft players
   Design an arduino box on a 4mm thick A4 paper board, requirements
+  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework9/socket.png)
+  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework9/ardunio.png)
 # 20200417([homework10](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework10))
   Use the web interface to direct my world characters back and forth
 
