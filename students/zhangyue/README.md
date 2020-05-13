@@ -32,3 +32,9 @@
   Minecraft uses glass as the door. Others do n’t open the door, arduino lights No. 5 ~ 8
   Demonstration effect is uploaded with animated gif
   ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework8/Timeline%201%2000_00_00-00_00_30.gif)
+# 20200415([homework9](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework9))
+  Use socket interface to program 3x3 gold blocks under the feet of Minecraft players
+  Design an arduino box on a 4mm thick A4 paper board, requirements
+# 20200417([homework10](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework10))
+  Use the web interface to direct my world characters back and forth
+
