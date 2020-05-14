@@ -37,5 +37,9 @@
 * click into the game automactically whether you are in initial UI or suspend UI
 * make a circle runway in the game 
 ![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/PyAutoGUI/show.gif)
+# login & vote
+* login(android)
+* make sample function that sign in and go back
+![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/login & vote/login(android)/login.gif)
 
 
