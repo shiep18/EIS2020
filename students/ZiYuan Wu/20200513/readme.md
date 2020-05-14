@@ -3,3 +3,10 @@
 2. 完成课上投票应用剩余部分
 3. 完善博客应用，应有最基础的查看与发表文章功能
 4. 效果屏幕拷贝上传自己的目录
+
+# 一、登录界面改进版
+
+
+# 二、投票应用
+
+![image](https://github.com/shiep18/EIS2020/blob/master/students/ZiYuan%20Wu/20200513/myvote.gif)
