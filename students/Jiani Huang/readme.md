@@ -48,11 +48,11 @@
 自动点击进入我的世界连接好的服务，如果已连接，点击回到世界，修建环形跑道
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/autoguipy/autoguipy.gif)
 
-# Android Studio
-## Button
+# [Android Studio](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/Android%20Studio)
+## [Button](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/Android%20Studio/button)
 
-## Login
+## [Login](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/Android%20Studio/login)
 
-# Django
+# [Django](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/django)
 ## [Vote](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/django/vote)
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/django/vote/vote.gif)
