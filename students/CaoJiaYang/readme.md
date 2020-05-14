@@ -40,6 +40,9 @@
 # login & vote
 * login(android)
 * make sample function that sign in and go back
-![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/login&vote/login(android)/login.gif)
 
+![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/login&vote/login(android)/login.gif)
+* vote(django)
+* voting on the browser！ 
+![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/login&vote/vote(django)/vote.gif)
 
