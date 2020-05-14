@@ -5,3 +5,4 @@
 4. 效果屏幕拷贝上传自己的目录
 
 ![image](https://github.com/shiep18/EIS2020/blob/master/students/ZiYuan%20Wu/20200511/1.PNG)
+![image](https://github.com/shiep18/EIS2020/blob/master/students/ZiYuan%20Wu/20200511/content.PNG)
