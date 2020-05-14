@@ -44,5 +44,6 @@
 ![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/login&vote/login(android)/login.gif)
 * vote(django)
 * voting on the browser！ 
+
 ![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/login&vote/vote(django)/vote.gif)
 
