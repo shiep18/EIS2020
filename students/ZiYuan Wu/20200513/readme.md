@@ -6,6 +6,7 @@
 
 # 一、登录界面改进版
 
+![image](https://github.com/shiep18/EIS2020/blob/master/students/ZiYuan%20Wu/20200513/mylog.gif)
 
 # 二、投票应用
 
