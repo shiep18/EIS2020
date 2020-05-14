@@ -1,4 +1,4 @@
-##Minecraft
+## Minecraft
 # [Myhouse](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/myhouse)
 在我的世界里建造3x3x3共27个房子，且每个房子的屋顶花纹不同。
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/classhouse/house.png)
