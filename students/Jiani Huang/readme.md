@@ -54,5 +54,5 @@
 ## Login
 
 # Django
-## Vote
+## [Vote](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/django/vote)
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/django/vote/vote.gif)
