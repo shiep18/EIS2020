@@ -54,9 +54,9 @@ Zhuzhemin是我，Yuhao是我的朋友，识别到我们两个会开门开灯；
 
 20200511作业
 button
-![](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200511/homework0511.PNG)
+![button](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200511/homework0511.PNG)
 
 20200513作业
 login
-![](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200513/homework0513.GIF)
+![login](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200513/homework0513.GIF)
 
