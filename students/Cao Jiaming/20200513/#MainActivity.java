@@ -57,16 +57,15 @@ public class MainActivity extends AppCompatActivity {
 
                 Intent intent =new Intent(MainActivity.this,Main2Activity.class);
 
-                String username_0=new String("cjy");
+                String username_0=new String("cjm");
 
-                String password_0=new String("1234");
+                String password_0=new String("abcd1234");
 
                 if(username_0.equals(userName.getText().toString()) && password_0.equals(passWord.getText().toString())) {
 
                     intent.putExtra("username", userName.getText().toString());
 
                     intent.putExtra("password", passWord.getText().toString());
-
 
                     startActivity(intent);
 
