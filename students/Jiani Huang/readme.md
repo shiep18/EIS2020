@@ -50,6 +50,8 @@
 
 # [Android Studio](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/Android%20Studio)
 ## [Button](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/Android%20Studio/button)
+Android studio 添加一个按钮，按钮上面显示“按钮”文字
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/Android%20Studio/butto/button.jpg)
 
 ## [Login](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/Android%20Studio/login)
 第一个界面输入正确的用户名和密码即可登陆第二个界面，点击可返回登录界面
