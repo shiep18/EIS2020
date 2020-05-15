@@ -14,4 +14,4 @@
 
 2.添加model
 
-![](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/20200511/moedl.PNG)
+![](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/20200511/model.PNG)
