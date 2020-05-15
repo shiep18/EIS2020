@@ -51,3 +51,11 @@ Zhuzhemin是我，Yuhao是我的朋友，识别到我们两个会开门开灯；
 20200422作业
 检测到你退出游戏或者检测到服务器就会自动连接。
 ![gif](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/0422/homework0422.GIF)
+
+20200511作业
+
+![](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200511/homework0511.PNG)
+
+20200513作业
+
+
