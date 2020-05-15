@@ -5,4 +5,4 @@
 4. 效果屏幕拷贝上传自己的目录
 
 # Android studio
-![](https://github.com/shiep18/EIS2020/tree/master/students/zengkexiang/20200513/pressback.gif)
+![](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/20200513/pressback.gif)
