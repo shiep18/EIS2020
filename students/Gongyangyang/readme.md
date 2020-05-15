@@ -115,3 +115,17 @@ gif:
 ### 分析：
           * move输入移动方向和距离，输入b回家。
           * home输入与角色的相对距离，建造房子。
+          
+# 20200513作业([login](https://github.com/shiep18/EIS2020/tree/master/students/Gongyangyang/login) & [vote](https://github.com/shiep18/EIS2020/tree/master/students/Gongyangyang/vote))
+1. 为登录界面APP的第二个界面添加一个返回点击事件：实现点击可返回登录界面
+2. 完成课上投票应用剩余部分
+3. 完善博客应用，应有最基础的查看与发表文章功能
+4. 效果屏幕拷贝上传自己的目录
+## 结果图
+login:
+![login](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/login/login.gif)
+vote:
+![vote](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/vote/vote.gif)
+BBS:
+暂无
+
