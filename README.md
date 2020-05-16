@@ -111,8 +111,8 @@ Embedded and Intelligent Systems (EIS) course for SHIEP 2020
 # 20200515作业
 1. 使用pyautogui完成截取全屏并保存（需要加入弹框进行判定）
 2. 完成课上pyautogui打开网页搜索功能
-3. 爬取豆瓣上selenium的相关书籍
-4. 爬取豆瓣上selenium的相关书籍
+3. 爬取豆瓣上selenium的相关书籍名
+4. 效果屏幕拷贝上传自己的目录
 
 
 # FAQ 
