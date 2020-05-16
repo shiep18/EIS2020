@@ -65,3 +65,14 @@ login
 vote
 
 ![vote](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200513/homework0513_django.GIF)
+
+20200515作业
+pyautogui+webdriver
+
+![上](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200515/zuoye0515上.GIF)
+
+![中](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200515/zuoye0515中.GIF)
+
+![下](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200515/zuoye0515下.GIF)
+
+![截图](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200515/zuoye0515.PNG)
