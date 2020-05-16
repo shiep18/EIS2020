@@ -43,6 +43,8 @@
   Use image matching to find the minecraft window. Automatically click to enter the connected service of Minecraft. If connected, click to return to the world,Build a circular runway.
 # 20200424([homework12](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework12))
   Install Openvino and accelerate code testing with yolo
+  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework12/%E5%8A%A0%E9%80%9F%E5%89%8D.gif)
+  ![use openvino](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework12/%E5%8A%A0%E9%80%9F%E5%90%8E.gif)
 # 20200506([homework13](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework13))
   Create your own house building python code on the server, for example tomhouse.py 4. In the code, read the csv file of the tribe, find your name, and build a house in the tribe.
 # 20200508([homework14](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework14))
