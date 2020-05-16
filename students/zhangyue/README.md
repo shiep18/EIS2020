@@ -22,7 +22,7 @@
   Use the blue object as a remote control to control the characters of Minecraft to run back and forth, left and right.
   
 # 20200408([homework7](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework7))
-  Turn on a arduino lamp when you get home, and turn off the arduino lamp
+  Turn on a arduino lamp when you get home, and turn off the arduino lamp after you left.
   ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework7/show1.mp4)
 # 20200410([homework8](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework8))
   Run through the face recognition code
