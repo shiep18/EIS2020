@@ -62,3 +62,6 @@ login
 
 ![login](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200513/homework0513.GIF)
 
+vote
+
+![vote](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200513/homework0513_django.GIF)
