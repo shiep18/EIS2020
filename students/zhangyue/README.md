@@ -39,8 +39,10 @@
   ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework9/ardunio.png)
 # 20200417([homework10](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework10))
   Use the web interface to direct my world characters back and forth
+  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework10/homework10.gif)
 # 20200422([homework11](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework11))
   Use image matching to find the minecraft window. Automatically click to enter the connected service of Minecraft. If connected, click to return to the world,Build a circular runway.
+  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework11/Automatically.gif)
 # 20200424([homework12](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework12))
   Install Openvino and accelerate code testing with yolo
   ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework12/%E5%8A%A0%E9%80%9F%E5%89%8D.gif)
