@@ -16,14 +16,14 @@
   Use the House class to generate 27 houses, the location of each house is defined in the csv file.
   The camera monitors when a moving object enters the picture and sings.
   Go to a different house and show "welcome to xxxx ‘s house" xxx is the name of the owner of the house
-  
+  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework5/2020-05-16.png)
 # 20200403([homework6](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework6))
   Using a blue object as a baton, draw a rectangular trace through HSV color matching.
   Use the blue object as a remote control to control the characters of Minecraft to run back and forth, left and right.
-  
+  ![]()
 # 20200408([homework7](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework7))
   Turn on a arduino lamp when you get home, and turn off the arduino lamp after you left.
-  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework7/show1.mp4)
+  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework7/homework7.gif)
 # 20200410([homework8](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework8))
   Run through the face recognition code
   Train 3 faces, yourself, family, others (such as cats).
