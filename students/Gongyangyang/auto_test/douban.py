@@ -16,9 +16,9 @@ login = driver.find_element_by_class_name("account-tab-account")
 login.click()
 
 username = driver.find_element_by_xpath('//*[@id="username"]')
-username.send_keys("15221872661")
+username.send_keys("12345678901")
 password = driver.find_element_by_xpath('//*[@id="password"]')
-password.send_keys("gggyyhhiio119")
+password.send_keys("******")
 
 login_button = driver.find_element_by_link_text('登录豆瓣')
 login_button.click()
