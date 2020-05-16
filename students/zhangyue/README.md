@@ -55,3 +55,7 @@
   Add a return click event to the second interface of the login interface APP: click to return to the login interface
   Complete the remainder of the voting application in class and improve the blog application which should have the most basic function of viewing and publishing articles
   ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework16/new_test_1.gif)
+# 20200515([homework17](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework17))
+  Use pyautogui to complete the interception and save the full screen
+  Complete the class pyautogui to open the web search function and crawl related books on selenium on Douban
+  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework17/douban.gif)
