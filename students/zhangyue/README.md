@@ -49,8 +49,10 @@
   ![use openvino](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework12/%E5%8A%A0%E9%80%9F%E5%90%8E.gif)
 # 20200506([homework13](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework13))
   Create your own house building python code on the server, for example tomhouse.py 4. In the code, read the csv file of the tribe, find your name, and build a house in the tribe.
+  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework13/2020-05-16%20(1).png)
 # 20200508([homework14](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework14))
   Build a statue for the tribe with binvox
+  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework14/2020-05-16%20(2).png)
 # 20200511([homework15](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework15))
   Adds a button that displays the text "button" above the button in the Android studio.
   Creates a new APP named topics with Django, creates a model named Topic, contains a text field named content, and completes the model migration
