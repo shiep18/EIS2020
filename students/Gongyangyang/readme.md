@@ -129,3 +129,16 @@ vote:
 BBS:
 暂无
 
+# 20200515作业([auto_test](https://github.com/shiep18/EIS2020/tree/master/students/Gongyangyang/auto_test)
+1. 使用pyautogui完成截取全屏并保存（需要加入弹框进行判定）
+2. 完成课上pyautogui打开网页搜索功能
+3. 爬取豆瓣上selenium的相关书籍
+4. 爬取豆瓣上selenium的相关书籍
+## 结果图
+screenshot:
+![screenshot](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/auto_test/screenshot.gif)
+baidu_search:
+![baidu_search](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/auto_test/chrome_baidu.gif)
+douban:
+![douban](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/auto_test/douban.gif)
+
