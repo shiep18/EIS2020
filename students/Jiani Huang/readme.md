@@ -61,6 +61,7 @@ Android studio 添加一个按钮，按钮上面显示“按钮”文字
 # [Django](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/django)
 ## [Vote](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/django/vote)
 投票应用
+
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/django/vote/vote.gif)
 
 # [Auto](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/auto)
@@ -72,6 +73,7 @@ pyautogui打开网页搜索功能，弹框进行判定，截取全屏并保存�
 
 ## [Selenium](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/auto/selenium)
 爬取豆瓣上selenium的相关书籍
+
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/auto/selenium/douban.gif)
 
 
