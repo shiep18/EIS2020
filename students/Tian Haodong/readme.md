@@ -103,3 +103,17 @@ team4：用户：thd
 1.Android studio 添加一个按钮，按钮上面显示“按钮”文字
 
 2.Django新建名为topics的APP，创建名为Topic的模型，包含一个名为content的文本字段，并完成模型迁移
+
+# 5.13文件夹
+
+1.为登录界面APP的第二个界面添加一个返回点击事件：实现点击可返回登录界面
+
+# 5.15文件夹
+
+1.使用pyautogui完成截取全屏并保存（需要加入弹框进行判定）
+
+2.爬取豆瓣上selenium的相关书籍名
+
+![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/5.15/%E6%88%AA%E5%9B%BE.gif)
+
+![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/5.15/%E7%88%AC%E5%8F%96.gif)
