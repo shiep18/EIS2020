@@ -46,4 +46,13 @@
 * voting on the browser！ 
 
 ![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/login&vote/vote(django)/vote.gif)
+# PyAutoGUI_5.15
+* make a full screen capture
+* judge if you really want to do it before it works
+![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/PyAutoGUI_5.15/scr_shot.gif)
+* open the browser and searching automatically
+![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/PyAutoGUI_5.15/baidu.gif)
+* open the browser and login the douban automatically
+* search for the book name and obtain the name of similar books 
+![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/PyAutoGUI_5.15/booknames.png)
 
