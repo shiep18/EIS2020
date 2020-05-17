@@ -104,9 +104,12 @@ team4：用户：thd
 
 2.Django新建名为topics的APP，创建名为Topic的模型，包含一个名为content的文本字段，并完成模型迁移
 
+![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/5.11/%E6%89%B9%E6%B3%A8%202020-05-14%20161615.png)
 # 5.13文件夹
 
 1.为登录界面APP的第二个界面添加一个返回点击事件：实现点击可返回登录界面
+
+![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/5.13/%E6%8C%89%E9%94%AE.gif)
 
 # 5.15文件夹
 
