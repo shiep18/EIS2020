@@ -1,0 +1,129 @@
+{% load static %}
+<!DOCTYPE html>
+<!-- 网站主语言 -->
+<html lang="zh-cn">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <title>{% block title %}{% endblock %}</title>
+  <link rel="stylesheet" href="https://cdn.bootcss.com/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
+  <link href="https://cdn.bootcss.com/hover.css/2.3.1/css/hover-min.css" rel="stylesheet">
+  <link href="https://cdn.bootcss.com/font-awesome/5.11.2/css/all.min.css" rel="stylesheet">
+  <link href="https://cdn.bootcss.com/highlight.js/9.15.8/styles/github.min.css" rel="stylesheet">
+
+  <style>
+    .codehilite {
+      padding: 0;
+    }
+
+    /* for block of numbers */
+    .hljs-ln-numbers {
+      -webkit-touch-callout: none;
+      -webkit-user-select: none;
+      -khtml-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+
+      text-align: center;
+      color: #ccc;
+      border-right: 1px solid #CCC;
+      vertical-align: top;
+      padding-right: 5px;
+    }
+
+    .hljs-ln-n {
+      width: 30px;
+    }
+
+    /* for block of code */
+    .hljs-ln .hljs-ln-code {
+      padding-left: 10px;
+      white-space: pre;
+    }
+  </style>
+</head>
+
+<body>
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container">
+
+    <!-- 导航栏商标 -->
+    <a class="navbar-brand" href="/">BBS</a>
+
+    <!-- 导航入口 -->
+    <div>
+      <ul class="navbar-nav">
+        <!-- 条目 -->
+        <li class="nav-item">
+          <a class="nav-link" href="/">文章</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{% url 'articles:article_create' %}">写文章</a>
+        </li>
+        {% if user.is_authenticated %}
+        <!-- 如果用户已经登录，则显示用户名下拉框 -->
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              {{ user.username }}
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="{% url 'articles:logout' %}">退出登录</a>
+            </div>
+        </li>
+        <!-- 如果用户未登录，则显示 “登录” -->
+        {% else %}
+          <li class="nav-item">
+            <a class="nav-link" href="{% url 'articles:login' %}">登录</a>
+          </li>
+        {% endif %}
+      </ul>
+    </div>
+
+  </div>
+</nav>
+  <div>
+    {% block content %}
+    {% endblock content %}
+  </div>
+  <!-- Footer -->
+<footer class="py-3 bg-dark" id="footer">
+    <div class="container">
+        <h5 class="m-0 text-center text-white">Copyright &copy; BBS 2020</h5>
+    </div>
+</footer>
+  <!-- bootstrap.js 依赖 jquery.js 和popper.js，因此在这里引入 -->
+  <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdn.bootcss.com/popper.js/1.15.0/umd/popper.min.js"></script>
+  <!-- 引入bootstrap的js文件 -->
+  <script src="https://cdn.bootcss.com/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <!-- 增加样式 -->
+  {% block script %}
+  {% endblock script %}
+  <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+        }
+
+        #wrapper {
+            min-height: 100%;
+            margin-bottom: -40px;
+        }
+
+        #footer,
+        #push {
+            height: 60px;
+        }
+    </style>
+  <script src="https://cdn.bootcss.com/highlight.js/9.15.8/highlight.min.js"></script>
+  <script src="https://cdn.bootcss.com/highlightjs-line-numbers.js/2.7.0/highlightjs-line-numbers.min.js"></script>
+  <script>
+    hljs.initHighlightingOnLoad();
+    hljs.initLineNumbersOnLoad();
+  </script>
+</body>
+
+</html>

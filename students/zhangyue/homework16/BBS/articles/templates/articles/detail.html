@@ -1,0 +1,86 @@
+<!-- extends表明此页面继承自 base.html 文件 -->
+{% extends "articles/base.html" %}
+{% load static %}
+
+<!-- 写入 base.html 中定义的 title -->
+{% block title %}
+    {{ article.title }}
+{% endblock title %}
+
+{% block content %}
+    <div class="container">
+    <div class="row">
+        <!-- 标题及作者 -->
+        <h1 class="col-12 mt-4 mb-4">{{ article.title }}</h1>
+        <div class="col-12 alert alert-success">作者：{{ article.author }}</div>
+        <!-- 文章正文 -->
+        <div class="col-12">
+            <p>{{ article.body|safe }}</p>
+        </div>
+        <div class="col-12">
+            {% if article.annex %}
+            <a href="{{ article.annex.url }}">附件</a>
+            {% endif %}
+        </div>
+    <!-- 发表评论 -->
+    <hr>
+    {% if user.is_authenticated %}
+        <div>
+            <form
+                action="{% url 'comment:post_comment' article.id %}"
+                method="POST"
+            >
+            {% csrf_token %}
+                <div class="form-group">
+                    <label for="body">
+                        <strong>
+                            我也要发言：
+                        </strong>
+                    </label>
+                    <div>
+                        {{ comment_form.media }}
+                        {{ comment_form.body }}
+                    </div>
+                </div>
+                <!-- 提交按钮 -->
+                <button type="submit" class="btn btn-primary ">发送</button>
+            </form>
+        </div>
+        <br>
+    {% else %}
+        <br>
+        <h5 class="row justify-content-center">
+            请<a href="{% url 'articles:login' %}">登录</a>后回复
+        </h5>
+        <br>
+    {% endif %}
+
+
+</div>
+<!-- 显示评论 -->
+    <h4>共有{{ comments.count }}条评论</h4>
+    <div>
+        {% for comment in comments %}
+            <hr>
+            <p>
+                <strong style="color: pink">
+                    {{ comment.user }}
+                </strong> 于
+                <span style="color: green">
+                    {{ comment.created|date:"Y-m-d H:i:s" }}
+                </span> 时说：
+            </p>
+            <pre style="font-family: inherit; font-size: 1em;">
+{{ comment.body|safe }}</pre>
+        {% endfor %}
+    </div>
+</div>
+    </div>
+    </div>
+    <script src="{% static 'ckeditor/ckeditor/plugins/prism/lib/prism/prism_patched.min.js' %}"></script>
+    <link rel="stylesheet" href="{% static 'prism/prism.css' %}">
+    <script>
+    $(".django-ckeditor-widget").removeAttr('style');
+    </script>
+
+{% endblock content %}
