@@ -114,6 +114,10 @@ Embedded and Intelligent Systems (EIS) course for SHIEP 2020
 3. 爬取豆瓣上selenium的相关书籍名
 4. 效果屏幕拷贝上传自己的目录
 
+# 20200518作业  
+1.让棱锥和轮子同时显示，轮子绕圆心旋转   
+
+
 
 # FAQ 
 * Q:我的世界游戏启动失败咋办？  
