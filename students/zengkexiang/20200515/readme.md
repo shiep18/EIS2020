@@ -3,3 +3,9 @@
 2. 完成课上pyautogui打开网页搜索功能
 3. 爬取豆瓣上selenium的相关书籍名
 4. 效果屏幕拷贝上传自己的目录
+
+# 截屏
+![](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/20200515/screenshot.png)
+
+# 打开网页搜索
+![](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/20200515/autoserach.gif)
