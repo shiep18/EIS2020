@@ -76,4 +76,8 @@ pyautogui打开网页搜索功能，弹框进行判定，截取全屏并保存�
 
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/auto/selenium/douban.gif)
 
+# [Vtk](https://github.com/shiep18/EIS2020/tree/master/students/Jiani%20Huang/vtk)
+## [Wheel](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/vtk/wheel)
+棱锥和轮子同时显示，轮子绕圆心旋转。
 
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/vtk/wheel/wheel.gif)
