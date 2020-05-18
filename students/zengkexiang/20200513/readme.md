@@ -11,3 +11,8 @@
 投票结果：
 
 ![](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/20200513/results.PNG)
+
+
+博客：
+![](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/20200513/BBS.PNG)
+![](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/20200513/article.PNG)
