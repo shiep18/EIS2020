@@ -11,7 +11,7 @@ search=driver.find_element_by_xpath('//*[@id="account"]/div[2]/div[2]/div/div[1]
 search=driver.find_element_by_id('username')#输入账号和密码
 search.send_keys("18930688887")
 search=driver.find_element_by_id('password')
-search.send_keys("f12345678")
+search.send_keys("  ")
 
 search=driver.find_element_by_xpath('//*[@id="account"]/div[2]/div[2]/div/div[2]/div[1]/div[4]/a').click() #登陆
 time.sleep(2)
