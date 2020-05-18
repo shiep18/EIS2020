@@ -65,3 +65,10 @@
   Use pyautogui to complete the interception and save the full screen
   Complete the class pyautogui to open the web search function and crawl related books on selenium on Douban
   ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework17/douban.gif)
+# 20200518([homework18](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework18))
+  Let the pyramid and the wheel show at the same time, the wheel rotates around the center of the circle
+  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework18/rotation.gif)
+  Add home and location icons for Yangpu campus in Homeassistant (requires that the location of Yangpu campus needs real coordinates)
+  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework18/homeassistant.png)
+  Install IP camera in mobile phone or virtual machine to realize real-time viewing of video in LAN
+  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework18/MI3W.gif)
