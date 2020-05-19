@@ -76,3 +76,9 @@ pyautogui+webdriver
 ![下](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200515/zuoye0515下.GIF)
 
 ![截图](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200515/zuoye0515.PNG)
+
+20200518作业
+
+！[map](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200518/zuoye0518map.PNG)
+
+！[wheel](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200518/zuoye0518wheel.GIF)
