@@ -142,3 +142,15 @@ BBS:
 ### douban:
 ![douban](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/auto_test/douban.gif)
 
+# 20200518作业([VTK](https://github.com/shiep18/EIS2020/tree/master/students/Gongyangyang/homeass%26VTK_v0518/vtk) & [homeassistant](https://github.com/shiep18/EIS2020/tree/master/students/Gongyangyang/homeass%26VTK_v0518/homeassistant))
+1. 让棱锥和轮子同时显示，轮子绕圆心旋转
+2. Homeassistant中添加家庭和杨校区位置图标（要求杨浦校区位置需要真是坐标） 
+3. 在手机或者虚拟机里面安装IP摄像头，实现局域网实时查看视频 
+4. 效果屏幕拷贝上传自己的目录
+## 结果图
+### wheel:
+![wheel](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/homeass%26VTK_v0518/wheel.gif)
+### homeassistant:
+![homeassistant](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/homeass%26VTK_v0518/homeassistant.png)
+### webcam:
+![webcam](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/homeass%26VTK_v0518/webcam.png)
