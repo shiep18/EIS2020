@@ -1,0 +1,61 @@
+homeassistant:
+  # Name of the location where Home Assistant is running
+  name: Home
+  # Location required to calculate the time the sun rises and sets
+  longitude: 121.531625
+  latitude: 31.214793
+  # Impacts weather/sunrise data (altitude above sea level in meters)
+  elevation: 0
+  # metric for Metric, imperial for Imperial
+  unit_system: metric
+  # Pick yours from here: http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+  #time_zone: Shanghai
+  # Customization file
+  customize: !include customize.yaml
+  
+zone:
+  - name: school
+    latitude: 31.278978
+    longitude: 121.553436
+    icon: mdi:school
+    radius: 250
+  - name: school1
+    latitude: 30.90808
+    longitude: 121.898093
+    icon: mdi:school
+    radius: 250
+
+sensor:
+  - platform: yr
+    name: Weather
+    forecast: 24
+    monitored_conditions:
+      -  symbol
+      -  temperature
+      -  precipitation
+      -  windSpeed
+      -  pressure
+      -  windDirection
+      -  humidity    
+# Example configuration.yaml entry
+#person:
+#  - name: zhuzhemin
+#    id: zhuzhemin
+#    device_trackers:
+#      - device_tracker.ada
+
+# Configure a default setup of Home Assistant (frontend, api, etc)
+default_config:
+
+# Uncomment this if you are using SSL/TLS, running in Docker container, etc.
+# http:
+#   base_url: example.duckdns.org:8123
+
+# Text to speech
+tts:
+  - platform: google_translate
+
+group: !include groups.yaml
+automation: !include automations.yaml
+script: !include scripts.yaml
+scene: !include scenes.yaml
