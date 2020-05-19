@@ -1,0 +1,45 @@
+homeassistant:
+  name: Home
+  latitude: 31.252281
+  longitude: 121.577066
+  elevation: 0
+  unit_system: metric
+  customize: !include customize.yaml
+  time_zone: Asia/Shanghai
+
+zone:
+  - name: school
+    latitude: 31.278978
+    longitude: 121.553436
+    icon: mdi:school
+    radius: 250
+
+sensor:
+  - platform: yr
+    name: Weathe
+    forecast: 24
+    monitored_conditions:
+      - temperature
+      - precipitation      #雨量
+      - windSpeed          #风速
+      - pressure          #气压
+      - windDirection      #风向
+      - humidity           #湿度
+
+default_config:
+# Show the introduction message on startup.
+
+introduction:
+# Uncomment this if you are using SSL/TLS, running in Docker container, etc.
+# http:
+#   base_url: example.duckdns.org:8123
+
+# Text to speech
+
+tts:
+  - platform: google_translate
+
+group: !include groups.yaml
+automation: !include automations.yaml
+script: !include scripts.yaml
+scene: !include scenes.yaml
