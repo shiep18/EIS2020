@@ -3,6 +3,7 @@
 在我的世界里建造3x3x3共27个房子，且每个房子的屋顶花纹不同。
 
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/classhouse/house.png)
+
 在多人服务器中读取csv文件坐标建造新房子。
 
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/myhouse/newhouse.png)
@@ -82,7 +83,6 @@ Android studio 添加一个按钮，按钮上面显示“按钮”文字。
 pyautogui打开网页搜索功能，弹框进行判定，截取全屏并保存。
 
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/auto/pyautogui/webscreen.gif)
-
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/auto/pyautogui/screenshot.jpg)
 
 ## [Selenium](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/auto/selenium)
@@ -101,6 +101,7 @@ pyautogui打开网页搜索功能，弹框进行判定，截取全屏并保存�
 Homeassistant中添加家庭和杨浦、临港两个校区位置图标。
 
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/location/location.jpg)
+
 在手机里面安装IP摄像头，实现局域网实时查看视频。
 
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/location/IPcamera.jpg)
