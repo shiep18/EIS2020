@@ -79,6 +79,6 @@ pyautogui+webdriver
 
 20200518作业
 
-！[map](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200518/zuoye0518map.PNG)
+![map](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200518/zuoye0518map.PNG)
 
-！[wheel](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200518/zuoye0518wheel.GIF)
+![wheel](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200518/zuoye0518wheel.GIF)
