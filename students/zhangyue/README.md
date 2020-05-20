@@ -72,3 +72,8 @@
   ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework18/homeassistant.png)
   Install IP camera in mobile phone or virtual machine to realize real-time viewing of video in LAN
   ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework18/MI3W.gif)
+# 20200520([homework19](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework19))
+  Use the serial port program, combined with vtk, to control the rotation speed of vtk objects.
+  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework19/new_test3.gif)
+  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework19/new_test4.gif)
+  In Android Studio, the login interface, audio and video interface, and timer interface are combined to realize the jump through the button event.
