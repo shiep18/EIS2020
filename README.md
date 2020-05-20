@@ -120,6 +120,9 @@ Embedded and Intelligent Systems (EIS) course for SHIEP 2020
 3. 在手机或者虚拟机里面安装IP摄像头，实现局域网实时查看视频
 4. 效果屏幕拷贝上传自己的目录
 
+# 20200520作业  
+1. 利用串口程序，结合vtk，可以控制vtk物体的转动速度。  
+
 
 
 # FAQ 
