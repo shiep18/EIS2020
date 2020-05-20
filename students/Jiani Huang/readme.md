@@ -73,7 +73,9 @@ Android studio 添加一个按钮，按钮上面显示“按钮”文字。
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/Android%20Studio/login/login.gif)
 
 ## [Video](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/Android%20Studio/video)
-![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/Android%20Studio/video/video.gif)
+第一个界面是登录界面，第二个是播放音视频界面，第三个是计时器界面（可以通过按钮实现跳转）。
+
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/Android%20Studio/video/video3.gif)
 
 # [Django](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/django)
 ## [Vote](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/django/vote)
