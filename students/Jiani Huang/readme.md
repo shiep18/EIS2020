@@ -72,6 +72,9 @@ Android studio 添加一个按钮，按钮上面显示“按钮”文字。
 
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/Android%20Studio/login/login.gif)
 
+## [Video](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/Android%20Studio/video)
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/Android%20Studio/video/video.gif)
+
 # [Django](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/django)
 ## [Vote](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/django/vote)
 投票应用：
