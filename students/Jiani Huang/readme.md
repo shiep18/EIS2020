@@ -96,6 +96,11 @@ pyautogui打开网页搜索功能，弹框进行判定，截取全屏并保存�
 
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/vtk/wheel/wheel.gif)
 
+## [Wheelspeed](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/vtk/wheelspeed)
+利用串口程序，结合vtk，可以控制vtk物体的转动速度。
+
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/vtk/wheelspeed/wheelspeed.gif)
+
 # [Homeassistant](https://github.com/shiep18/EIS2020/tree/master/students/Jiani%20Huang/homeassistant)
 ## [Location](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/location)
 Homeassistant中添加家庭和杨浦、临港两个校区位置图标。
