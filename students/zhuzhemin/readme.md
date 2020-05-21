@@ -92,3 +92,5 @@ pyautogui+webdriver
 ![视频音频界面](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200520/0520视频音频界面.PNG)
 
 ![登录退出后的界面](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200520/0520登录退出后的界面.PNG)
+
+![控制轮子旋转](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200520/0520控制轮子旋转.GIF)
