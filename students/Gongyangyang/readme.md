@@ -163,6 +163,6 @@ BBS:
 ### wheel_speed:
 ![wheel](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/VTK_v0520/wheel_speed.gif)
 ### video:
-<video id="video" controls="" preload="none">
-      <source id="mp4" src="https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/video/Android%20Emulator%20-%20Pixel_2_API_26_5554%202020-05-21%2016-37-43.mp4" type="video/mp4">
+<video id="video" controls="" preload="none" poster="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.jpg">
+      <source id="mp4" src="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.mp4" type="video/mp4">
       </video>
