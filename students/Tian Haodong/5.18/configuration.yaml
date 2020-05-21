@@ -1,0 +1,43 @@
+homeassistant:
+  latitude: 30.940395475120948
+  longitude: 121.846994779238
+  elevation: 0
+  unit_system: metric
+  time_zone: Asia/Shanghai
+  name: Home
+  
+zone:
+  - name: YPschool    
+    latitude: 31.1689
+    longitude: 121.4325
+    icon: mdi:school
+    radius: 100
+
+
+
+# Configure a default setup of Home Assistant (frontend, api, etc)
+default_config:
+
+# Uncomment this if you are using SSL/TLS, running in Docker container, etc.
+# http:
+#   base_url: example.duckdns.org:8123
+
+# Text to speech
+tts:
+  - platform: google
+    
+group: !include groups.yaml
+automation: !include automations.yaml
+script: !include scripts.yaml
+
+sensor:
+  - platform: yr
+    name: Weather
+    forecast: 24
+    monitored_conditions:
+      - temperature        #气温
+      - precipitation      #雨量
+      - windSpeed          #风速
+      - pressure           #气压
+      - windDirection      #风向
+      - humidity           #湿度
