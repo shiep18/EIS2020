@@ -1,0 +1,4 @@
+2020-05-18 16:24:54 WARNING (SyncWorker_0) [homeassistant.util.yaml.loader] YAML file C:\Users\28305\AppData\Roaming\.homeassistant\configuration.yaml contains duplicate key "default_config". Check lines 33 and 36.
+2020-05-18 16:24:54 WARNING (SyncWorker_0) [homeassistant.util.yaml.loader] YAML file C:\Users\28305\AppData\Roaming\.homeassistant\configuration.yaml contains duplicate key "default_config". Check lines 36 and 39.
+2020-05-18 16:24:55 WARNING (Recorder) [homeassistant.components.recorder] Ended unfinished session (id=8 from 2020-05-18 08:15:05.751632)
+2020-05-18 16:24:55 ERROR (MainThread) [homeassistant.config] Invalid config for [tts]: google tts service has been renamed to google_translate, please update your configuration. for dictionary value @ data['platform']. Got 'google'. (See C:\Users\28305\AppData\Roaming\.homeassistant\configuration.yaml, line 47). Please check the docs at https://home-assistant.io/integrations/tts/
