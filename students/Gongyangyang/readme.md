@@ -163,4 +163,9 @@ BBS:
 ### wheel_speed:
 ![wheel](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/VTK_v0520/wheel_speed.gif)
 ### video:
-<iframe height=498 width=510 src="https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/video/video.mp4">
+<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
+      <source id="mp4" src="http://media.w3.org/2010/05/sintel/trailer.mp4" type="video/mp4">
+      <source id="webm" src="http://media.w3.org/2010/05/sintel/trailer.webm" type="video/webm">
+      <source id="ogv" src="http://media.w3.org/2010/05/sintel/trailer.ogv" type="video/ogg">
+      <p>Your user agent does not support the HTML5 Video element.</p>
+    </video>
