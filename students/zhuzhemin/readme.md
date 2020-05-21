@@ -82,3 +82,13 @@ pyautogui+webdriver
 ![map](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200518/zuoye0518map.PNG)
 
 ![wheel](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200518/zuoye0518wheel.GIF)
+
+20200520作业
+
+![时间界面](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200520/0520时间界面.PNG)
+
+![登录界面](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200520/0520登录界面.PNG)
+
+![视频音频界面](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200520/0520视频音频界面.PNG)
+
+![登录退出后的界面](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200520/0520登录退出后的界面.PNG)
