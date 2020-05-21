@@ -55,4 +55,5 @@
 * open the browser and login the douban automatically
 * search for the book name and obtain the name of similar books 
 ![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/PyAutoGUI_5.15/booknames.png)
-
+# login_plus & vote
+![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/login_plus&vtk/login_plus(android)/login(plus).gif)
