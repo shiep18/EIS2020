@@ -163,6 +163,4 @@ BBS:
 ### wheel_speed:
 ![wheel](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/VTK_v0520/wheel_speed.gif)
 ### video:
-<video id="video" controls="" preload="none" poster="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.jpg">
-      <source id="mp4" src="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.mp4" type="video/mp4">
-      </video>
+<iframe height=498 width=510 src="https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/video/video.mp4">
