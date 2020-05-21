@@ -3,3 +3,9 @@
 2. Homeassistant中添加家庭和杨校区位置图标（要求杨浦校区位置需要真是坐标)
 3. 在手机或者虚拟机里面安装IP摄像头，实现局域网实时查看视频
 4. 效果屏幕拷贝上传自己的目录
+
+# 轮子旋转
+![](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/20200518/vtk.gif)
+
+# 地图
+![](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/20200518/map.PNG)
