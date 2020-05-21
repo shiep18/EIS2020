@@ -6,6 +6,6 @@
 
 2.Homeassistant中添加家庭和杨校区位置图标（要求杨浦校区位置需要真是坐标)
 
-![](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/5.18/homeassistian.png)
+![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/5.18/homeassistian.png)
 
-![](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/5.18/ditu.png)
+![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/5.18/ditu.png)
