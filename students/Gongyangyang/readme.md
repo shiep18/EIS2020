@@ -154,3 +154,15 @@ BBS:
 ![homeassistant](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/homeass%26VTK_v0518/homeassistant.png)
 ### webcam:
 ![webcam](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/homeass%26VTK_v0518/webcam.png) 
+
+# 20200520作业 ([VTK](https://github.com/shiep18/EIS2020/tree/master/students/Gongyangyang/VTK_v0520) & [video](https://github.com/shiep18/EIS2020/tree/master/students/Gongyangyang/video))
+1. 利用串口程序，结合vtk，可以控制vtk物体的转动速度。
+2. AS结合登录界面、音视频界面、计时器界面。通过按钮事件实现跳转。
+3. 效果屏幕拷贝上传自己的目录
+## 结果图
+### wheel_speed:
+![wheel](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/VTK_v0520/wheel_speed.gif)
+### video:
+<video id="video" controls="" preload="none">
+      <source id="mp4" src="https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/video/Android%20Emulator%20-%20Pixel_2_API_26_5554%202020-05-21%2016-37-43.mp4" type="video/mp4">
+      </video>
