@@ -127,8 +127,9 @@ Embedded and Intelligent Systems (EIS) course for SHIEP 2020
 
 # 20200522作业  
 1. 安装照片上的车尺寸和形状重新设计车
-
-
+2. Homeassistant完成调通第一个脚本和自动化
+3. 结合语音，设计自动化，每天定时播放天气预报
+4. 效果屏幕拷贝上传自己的目录
 
 # FAQ 
 * Q:我的世界游戏启动失败咋办？  
