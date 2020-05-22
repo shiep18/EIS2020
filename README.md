@@ -125,6 +125,10 @@ Embedded and Intelligent Systems (EIS) course for SHIEP 2020
 2. AS结合登录界面、音视频界面、计时器界面。通过按钮事件实现跳转。
 3. 效果屏幕拷贝上传自己的目录
 
+# 20200522作业  
+1. 安装照片上的车尺寸和形状重新设计车
+
+
 
 # FAQ 
 * Q:我的世界游戏启动失败咋办？  
