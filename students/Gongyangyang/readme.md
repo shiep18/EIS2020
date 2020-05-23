@@ -164,3 +164,12 @@ BBS:
 ![wheel](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/VTK_v0520/wheel_speed.gif)
 ### video:
 ![video](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/video/video.gif)
+
+# 20200522作业([carsimple](https://github.com/shiep18/EIS2020/tree/master/students/Gongyangyang/carsimple_v0522))
+1. 安装照片上的车尺寸和形状重新设计车
+2. Homeassistant完成调通第一个脚本和自动化
+3. 结合语音，设计自动化，每天定时播放天气预报
+4. 效果屏幕拷贝上传自己的目录
+## 结果图
+### carsimple:
+![carsimple](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/carsimple_v0522/carsimple.png)
