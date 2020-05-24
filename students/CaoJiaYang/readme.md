@@ -66,4 +66,4 @@
 
 ![reporter.mp4](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/weather_reporter&car/weather_report(homeassistant)/weather_report.mp4)
 * car(vtk)
-![r](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/weather_reporter&car/car(vtk)/car.jpg)
+![car](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/weather_reporter&car/car(vtk)/car.jpg)
