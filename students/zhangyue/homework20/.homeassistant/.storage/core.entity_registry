@@ -1,0 +1,72 @@
+{
+    "data": {
+        "entities": [
+            {
+                "capabilities": {},
+                "config_entry_id": null,
+                "device_class": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "binary_sensor.updater",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "Updater",
+                "platform": "updater",
+                "supported_features": 0,
+                "unique_id": "updater",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {},
+                "config_entry_id": null,
+                "device_class": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "person.zhangyue",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "zhangyue",
+                "platform": "person",
+                "supported_features": 0,
+                "unique_id": "zhangyue",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {},
+                "config_entry_id": "d753ce244f964f48a7c01d502cf3fdd3",
+                "device_class": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "weather.wo_de_jia",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "Home",
+                "platform": "met",
+                "supported_features": 0,
+                "unique_id": "home",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": null,
+                "config_entry_id": null,
+                "device_class": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "automation.xin_jian_zi_dong_hua",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "weather_report",
+                "platform": "automation",
+                "supported_features": 0,
+                "unique_id": "1590252372642",
+                "unit_of_measurement": null
+            }
+        ]
+    },
+    "key": "core.entity_registry",
+    "version": 1
+}

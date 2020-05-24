@@ -1,0 +1,63 @@
+
+# Configure a default setup of Home Assistant (frontend, api, etc)
+default_config:
+
+# Uncomment this if you are using SSL/TLS, running in Docker container, etc.
+# http:
+#   base_url: example.duckdns.org:8123
+
+# Text to speech
+
+
+group: !include groups.yaml
+automation: !include automations.yaml
+script: !include scripts.yaml
+scene: !include scenes.yaml
+
+homeassistant:
+  # Name of the location where Home Assistant is running
+  name: Home
+  # Location required to calculate the time the sun rises and sets
+  longitude: 121.39414072036743
+  latitude: 31.144389345579683
+  # Impacts weather/sunrise data (altitude above sea level in meters)
+  elevation: 0
+  # metric for Metric, imperial for Imperial
+  unit_system: metric
+  # Pick yours from here: http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+  # Customization file
+  customize: !include customize.yaml
+zone:
+  - name: lingang    
+    latitude: 30.90333860336568
+    longitude: 121.89119696617128
+    icon: mdi:school
+    radius: 100
+  - name: yangpu    
+    latitude: 31.27752387667152
+    longitude: 121.54264926910402
+    icon: mdi:school
+sensor:
+  - platform: yr
+    name: Weather
+    forecast: 24
+    monitored_conditions:
+      - temperature        #气温
+      - precipitation      #雨量
+      - windSpeed          #风速
+      - pressure           #气压
+      - windDirection      #风向
+      - humidity           #湿度
+android_ip_webcam:
+  - host: 192.168.123.18
+    name: ip_webcam
+tts:
+  - platform: baidu
+    app_id: 19165395
+    api_key: x4jPYDgmGDXNOuDwsQBoTGfv
+    secret_key: OpDbxHBvf4XrTjYRRNb8dhyPOazFHwm9
+    person: 4
+media_player:
+  - platform: kodi
+    host: 127.0.0.1
+

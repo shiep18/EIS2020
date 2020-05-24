@@ -1,0 +1,73 @@
+{
+    "data": {
+        "credentials": [
+            {
+                "auth_provider_id": null,
+                "auth_provider_type": "homeassistant",
+                "data": {
+                    "username": "zhangyue"
+                },
+                "id": "a1aa0d9ce9ac4e7eab753fd8f25c11eb",
+                "user_id": "c5dc30a005e54921a82ff93b4420e97f"
+            }
+        ],
+        "groups": [
+            {
+                "id": "system-admin",
+                "name": "Administrators"
+            },
+            {
+                "id": "system-users",
+                "name": "Users"
+            },
+            {
+                "id": "system-read-only",
+                "name": "Read Only"
+            }
+        ],
+        "refresh_tokens": [
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://192.168.123.242:8123/",
+                "client_name": null,
+                "created_at": "2020-05-18T06:22:29.199829+00:00",
+                "id": "a61b477d44e24516a024ba3e5e5dd946",
+                "jwt_key": "d734562404917425e9a4ee7a826bc5163a99a7c58489d9ec81403087755e5fe7eb68e77d95998329c9089c04837c3039ac4bc4593fe148d27bd76142e5c7ab31",
+                "last_used_at": "2020-05-24T16:47:18.947703+00:00",
+                "last_used_ip": "192.168.123.242",
+                "token": "7b88a4b801d030ef2161ece2b75f61fc41ded6b79f923684b238519d095551c5179b4748e83a97483246b24812a3054d5b49b2b1bca76183ff87b642cf40e310",
+                "token_type": "normal",
+                "user_id": "c5dc30a005e54921a82ff93b4420e97f"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://192.168.123.242:8123/",
+                "client_name": null,
+                "created_at": "2020-05-24T16:49:13.721722+00:00",
+                "id": "b3ec487081fd4ed6aa632ce962486e98",
+                "jwt_key": "52f55282c3e0d4a25a4be533ebd0ca7bb95777fbbf7258b5183f74484c3e2a8974fe521da9224445f7a4ef689f07329c522bcc4ae7b98a9bee0c26b092c62c06",
+                "last_used_at": "2020-05-24T16:49:13.721722+00:00",
+                "last_used_ip": "192.168.123.174",
+                "token": "1e400e90b9a3a5bdd27d0a9d6369a0583d6f7f28c18b7048173957599c1e37adbb7d54fd564029a2af7f7b0edac1253ee43b97a28aca1d0464ed4328c7888b3b",
+                "token_type": "normal",
+                "user_id": "c5dc30a005e54921a82ff93b4420e97f"
+            }
+        ],
+        "users": [
+            {
+                "group_ids": [
+                    "system-admin"
+                ],
+                "id": "c5dc30a005e54921a82ff93b4420e97f",
+                "is_active": true,
+                "is_owner": true,
+                "name": "zhangyue",
+                "system_generated": false
+            }
+        ]
+    },
+    "key": "auth",
+    "version": 1
+}
