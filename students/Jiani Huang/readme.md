@@ -116,3 +116,7 @@ Homeassistant中添加家庭和杨浦、临港两个校区位置图标。
 
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/location/IPcamera.jpg)
 
+## [Weather](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/weather)
+结合语音，设计自动化，每天7点定时播放天气预报。
+
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/weather/autoweather.png)
