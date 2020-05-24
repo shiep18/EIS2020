@@ -59,3 +59,8 @@
 * login_plus(android)
 
      ![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/login_plus&vtk/login_plus(android)/login(plus).gif)
+ 
+# weather_report&car
+* weather_report(homeassistant)
+* report the weather in voice through kodi automatically
+![reporter.mp4](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/weather_reporter&car/weather_report(homeassistant)/weather_report.mp4)
