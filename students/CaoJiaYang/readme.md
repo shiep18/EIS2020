@@ -63,4 +63,7 @@
 # weather_report&car
 * weather_report(homeassistant)
 * report the weather in voice through kodi automatically
+
 ![reporter.mp4](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/weather_reporter&car/weather_report(homeassistant)/weather_report.mp4)
+* car(vtk)
+![r](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/weather_reporter&car/car(vtk)/car.jpg)
