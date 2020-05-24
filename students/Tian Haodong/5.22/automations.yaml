@@ -22,7 +22,7 @@
   condition:
     condition: numeric_state
     entity_id: sensor.weather_temperature
-    above: 34  #判断气温是否高于34°C
+    above: 20  #判断气温是否高于20°C
         
   action:
     - service: tts.baidu_say
