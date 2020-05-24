@@ -94,3 +94,7 @@ pyautogui+webdriver
 ![登录退出后的界面](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200520/0520登录退出后的界面.PNG)
 
 ![控制轮子旋转](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200520/0520控制轮子旋转.GIF)
+
+20200522作业
+
+![定时温度播报](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200522/0522温度播报.PNG)
