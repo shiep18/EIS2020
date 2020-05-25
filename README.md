@@ -134,6 +134,8 @@ Embedded and Intelligent Systems (EIS) course for SHIEP 2020
 # 20200525作业 
 1. 车子模型可以用串口控制左右轮子分别以不同速度转动。
 2. 车子模型串口第3个参数表示车子摄像头角度。摄像头pole和indicator整体可随参数改变方向
+3. Ha中， 使用脚本 控制hachina3切换状态ON/OFF
+4. Ha中，使用自动化控制切换hachina3状态ON/OFF
 
 # FAQ 
 * Q:我的世界游戏启动失败咋办？  
