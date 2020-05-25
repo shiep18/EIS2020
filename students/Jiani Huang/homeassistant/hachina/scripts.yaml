@@ -1,0 +1,19 @@
+'1590152016478':
+  alias: new_off
+  sequence:
+  - data: {}
+    entity_id: automation.new
+    service: automation.turn_off
+'1590389223944':
+  alias: SMS
+  sequence:
+  - data:
+      message: hello,i'm god.
+      target:
+      - '+8613917730292'
+    service: notify.my_twilio_sms
+'1590397365728':
+  alias: switch_hachina
+  sequence:
+  - data: {}
+    service: hachina3.change_state
