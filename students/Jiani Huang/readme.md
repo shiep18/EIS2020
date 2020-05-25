@@ -106,6 +106,11 @@ pyautogui打开网页搜索功能，弹框进行判定，截取全屏并保存�
 
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/vtk/wheelspeed/wheelspeed.gif)
 
+## [Model](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/vtk/model)
+用123D完成小车模型。
+
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/vtk/model/model.png)
+
 # [Homeassistant](https://github.com/shiep18/EIS2020/tree/master/students/Jiani%20Huang/homeassistant)
 ## [Location](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/location)
 Homeassistant中添加家庭和杨浦、临港两个校区位置图标。
