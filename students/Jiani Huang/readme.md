@@ -125,3 +125,9 @@ Homeassistant中添加家庭和杨浦、临港两个校区位置图标。
 结合语音，设计自动化，每天7点定时播放天气预报。
 
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/weather/autoweather.png)
+
+## [Hachina](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/hachina)
+使用脚本控制hachina3切换状态ON/OFF；自动化控制切换hachina3状态ON/OFF。
+
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/hachina/hachina.gif)
+
