@@ -1,0 +1,6 @@
+'1590136454513':
+  alias: open_automation
+  sequence:
+  - data: {}
+    entity_id: automation.new
+    service: automation.turn_on

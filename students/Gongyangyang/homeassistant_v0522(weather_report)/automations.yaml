@@ -1,0 +1,42 @@
+- id: '1590135788854'
+  alias: new
+  description: ''
+  trigger:
+  - hours: '16'
+    minutes: '25'
+    platform: time_pattern
+    seconds: '30'
+  condition: []
+  action:
+  - data: {}
+    entity_id: automation.weather_report
+    service: automation.trigger
+- id: 0ed43f662d1f4db8a38d29a7c32530c8
+  alias: weather_report
+  trigger:
+  - hours: '12'
+    minutes: '45'
+    platform: time_pattern
+    seconds: '00'
+  condition:
+  - above: '10'
+    condition: numeric_state
+    entity_id: sensor.weather_temperature
+  action:
+  - data_template:
+      entity_id: media_player.kodi
+      message: 现在播报天气信息。温度, {{states('sensor.weather_temperature')}}°C, 湿度{{states('sensor.weather_humidity')}},气压{{states('sensor.weather_pressure')}}
+    service: tts.baidu_say
+  initial_state: true
+- id: '1590333311386'
+  alias: report_weather
+  description: ''
+  trigger:
+  - above: '10'
+    below: '30'
+    entity_id: sensor.weather_temperature
+    platform: numeric_state
+  condition: []
+  action:
+  - data: {}
+    service: tts.baidu_say

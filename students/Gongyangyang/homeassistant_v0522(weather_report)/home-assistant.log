@@ -1,0 +1,55 @@
+2020-05-25 12:39:31 WARNING (MainThread) [homeassistant.setup] Setup of android_ip_webcam is taking over 10 seconds.
+2020-05-25 12:39:31 WARNING (MainThread) [homeassistant.setup] Setup of updater is taking over 10 seconds.
+2020-05-25 12:39:31 WARNING (MainThread) [homeassistant.components.weather] Setup of weather platform met is taking over 10 seconds.
+2020-05-25 12:39:31 ERROR (MainThread) [metno] https://aa015h6buqvih86i1.api.met.no/weatherapi/locationforecast/1.9/ returned 
+2020-05-25 12:39:31 ERROR (MainThread) [homeassistant.components.met.weather] Retrying in 19 minutes
+2020-05-25 12:39:36 ERROR (MainThread) [homeassistant.components.updater] Timeout fetching Home Assistant update data
+2020-05-25 12:39:42 ERROR (MainThread) [pydroid_ipcam] Failed to communicate with IP Webcam: Cannot connect to host 192.168.31.122:8080 ssl:None [信号灯超时时间已到]
+2020-05-25 12:40:08 WARNING (MainThread) [homeassistant.components.http.ban] Login attempt or request with invalid authentication from 192.168.31.141
+2020-05-25 12:40:13 ERROR (MainThread) [pydroid_ipcam] Failed to communicate with IP Webcam: Cannot connect to host 192.168.31.122:8080 ssl:None [信号灯超时时间已到]
+2020-05-25 12:40:20 WARNING (MainThread) [homeassistant.components.http.ban] Login attempt or request with invalid authentication from 192.168.31.141
+2020-05-25 12:40:28 WARNING (MainThread) [homeassistant.components.http.ban] Login attempt or request with invalid authentication from 192.168.31.141
+2020-05-25 12:40:45 ERROR (MainThread) [pydroid_ipcam] Failed to communicate with IP Webcam: Cannot connect to host 192.168.31.122:8080 ssl:None [信号灯超时时间已到]
+2020-05-25 12:41:17 ERROR (MainThread) [pydroid_ipcam] Failed to communicate with IP Webcam: Cannot connect to host 192.168.31.122:8080 ssl:None [信号灯超时时间已到]
+2020-05-25 12:41:30 ERROR (MainThread) [pydroid_ipcam] Failed to communicate with IP Webcam: Cannot connect to host 192.168.31.122:8080 ssl:None [远程计算机拒绝网络连接。]
+2020-05-25 12:42:02 ERROR (MainThread) [pydroid_ipcam] Failed to communicate with IP Webcam: Cannot connect to host 192.168.31.122:8080 ssl:None [信号灯超时时间已到]
+2020-05-25 12:42:33 ERROR (MainThread) [pydroid_ipcam] Failed to communicate with IP Webcam: Cannot connect to host 192.168.31.122:8080 ssl:None [信号灯超时时间已到]
+2020-05-25 12:42:34 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:42:54 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:43:04 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:43:05 ERROR (MainThread) [pydroid_ipcam] Failed to communicate with IP Webcam: Cannot connect to host 192.168.31.122:8080 ssl:None [信号灯超时时间已到]
+2020-05-25 12:43:37 ERROR (MainThread) [pydroid_ipcam] Failed to communicate with IP Webcam: Cannot connect to host 192.168.31.122:8080 ssl:None [信号灯超时时间已到]
+2020-05-25 12:43:45 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:43:55 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:44:05 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:44:09 ERROR (MainThread) [pydroid_ipcam] Failed to communicate with IP Webcam: Cannot connect to host 192.168.31.122:8080 ssl:None [信号灯超时时间已到]
+2020-05-25 12:44:15 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:44:25 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:44:35 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:44:41 ERROR (MainThread) [pydroid_ipcam] Failed to communicate with IP Webcam: Cannot connect to host 192.168.31.122:8080 ssl:None [信号灯超时时间已到]
+2020-05-25 12:44:45 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:44:55 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:45:05 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:45:13 ERROR (MainThread) [pydroid_ipcam] Failed to communicate with IP Webcam: Cannot connect to host 192.168.31.122:8080 ssl:None [信号灯超时时间已到]
+2020-05-25 12:45:26 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:45:36 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:45:45 ERROR (MainThread) [pydroid_ipcam] Failed to communicate with IP Webcam: Cannot connect to host 192.168.31.122:8080 ssl:None [信号灯超时时间已到]
+2020-05-25 12:45:46 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:45:56 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:46:16 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:46:17 ERROR (MainThread) [pydroid_ipcam] Failed to communicate with IP Webcam: Cannot connect to host 192.168.31.122:8080 ssl:None [信号灯超时时间已到]
+2020-05-25 12:46:36 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:46:46 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:46:49 ERROR (MainThread) [pydroid_ipcam] Failed to communicate with IP Webcam: Cannot connect to host 192.168.31.122:8080 ssl:None [信号灯超时时间已到]
+2020-05-25 12:47:06 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:47:21 ERROR (MainThread) [pydroid_ipcam] Failed to communicate with IP Webcam: Cannot connect to host 192.168.31.122:8080 ssl:None [信号灯超时时间已到]
+2020-05-25 12:47:36 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:47:46 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:47:53 ERROR (MainThread) [pydroid_ipcam] Failed to communicate with IP Webcam: Cannot connect to host 192.168.31.122:8080 ssl:None [信号灯超时时间已到]
+2020-05-25 12:48:16 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:48:25 ERROR (MainThread) [pydroid_ipcam] Failed to communicate with IP Webcam: Cannot connect to host 192.168.31.122:8080 ssl:None [信号灯超时时间已到]
+2020-05-25 12:48:36 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:48:46 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:48:57 ERROR (MainThread) [pydroid_ipcam] Failed to communicate with IP Webcam: Cannot connect to host 192.168.31.122:8080 ssl:None [信号灯超时时间已到]
+2020-05-25 12:49:06 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
+2020-05-25 12:49:26 ERROR (MainThread) [homeassistant.components.mjpeg.camera] Timeout getting camera image from ip_webcam
