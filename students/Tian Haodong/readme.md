@@ -157,7 +157,7 @@ team4：用户：thd
 
 # 5.25文件夹
 
-1.车子模型可通过串口进行轮子速度的控制以及摄像头角度的调整。
+1.车子模型可通过串口进行轮子速度的控制以及摄像头角度的调整。(因电脑原因会产生残影)
 
 ![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/5.25/COMwheel.gif)
 
