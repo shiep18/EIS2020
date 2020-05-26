@@ -1,0 +1,99 @@
+homeassistant:
+  # Name of the location where Home Assistant is running
+  name: Home
+  # Location required to calculate the time the sun rises and sets
+  longitude:  121.898093
+  latitude:  30.90808
+  # Impacts weather/sunrise data (altitude above sea level in meters)
+  elevation: 0
+  # metric for Metric, imperial for Imperial
+  unit_system: metric
+  # Pick yours from here: http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+  time_zone: Asia/Shanghai
+  # Customization file
+  customize: !include customize.yaml
+  
+zone:
+  - name: School1   
+    latitude: 31.278978
+    longitude: 121.553436
+    icon: mdi:school
+    radius: 100
+
+      
+# Configure a default setup of Home Assistant (frontend, api, etc)
+default_config:
+
+# Uncomment this if you are using SSL/TLS, running in Docker container, etc.
+# http:
+#   base_url: example.duckdns.org:8123
+
+# Text to speech
+#tts:
+#  - platform: google_translate
+
+sensor:
+  - platform: yr
+    name: Weather
+    forecast: 24
+    monitored_conditions:
+      - temperature
+      - symbol
+      - precipitation
+      - windSpeed
+      - pressure
+      - windDirection
+      - humidity
+      - fog
+      - cloudiness
+      - lowClouds
+      - mediumClouds
+      - highClouds
+      - dewpointTemperature
+
+android_ip_webcam:
+  - host: 192.168.31.122
+    name: ip_webcam
+    
+tts:
+  - platform: baidu
+    app_id: 19166551
+    api_key: hBCgzHQN7EI9OXAepXrkx7e1
+    secret_key: tv9Xrsnp6eO5N7pifDmv6FFy01McQx5B
+    language: zh
+    #speed: 
+    #pitch:
+    #volume:
+    #person:
+#    speed: 5
+#    pitch: 5
+#    volume: 15
+    
+    person: 4
+
+media_player:
+   - platform: kodi
+     host: 127.0.0.1
+     port: 8081
+     
+twilio:
+  account_sid: AC7cd5877c70198fe2875bf2f6ca4e30ce
+  auth_token: 4ae17b324c9f70835ee495da0222ae4f
+  
+notify:
+  - name: my_twilio_sms
+    platform: twilio_sms
+    from_number: "+12565888821"
+    
+hachina:
+
+hachina3:
+    
+group: !include groups.yaml
+automation: !include automations.yaml
+script: !include scripts.yaml
+scene: !include scenes.yaml
+
+# Example configuration.yaml entry
+# Example configuration.yaml entry
+   
