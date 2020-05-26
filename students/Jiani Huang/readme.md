@@ -111,6 +111,11 @@ pyautogui打开网页搜索功能，弹框进行判定，截取全屏并保存�
 
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/vtk/model/model.png)
 
+## [Control](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/vtk/control)
+车子模型可以用串口控制左右轮子分别以不同速度转，第3个参数表示车子摄像头角度。摄像头pole和indicator整体可随参数改变方向。
+
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/vtk/control/control.gif)
+
 # [Homeassistant](https://github.com/shiep18/EIS2020/tree/master/students/Jiani%20Huang/homeassistant)
 ## [Location](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/location)
 Homeassistant中添加家庭和杨浦、临港两个校区位置图标。
