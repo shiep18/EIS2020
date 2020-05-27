@@ -14,7 +14,7 @@
 3. Ha中， 使用脚本 控制hachina3切换状态ON/OFF
 4. Ha中，使用自动化控制切换hachina3状态ON/OFF
 
-# 如何在 GitHub.com 上删除某个 Repository 中的某个文件夹？
+# 如何在 GitHub.com 上删除某个文件夹？
 删除文件夹:
 删除文件夹非常简单，删除或者移动里面文件即可，空文件夹Github自动删除。
 
@@ -24,3 +24,8 @@ git rm -r --cached flashview                   //--cached不会把本地的flash
 git commit -m '我删除了flashview文件夹'         //单引号里为Commit时需要提交的说明
 git push -u origin master                      //若需要对其他分支进行操作，则把master换为对应分支，如:git push -u origin dev
 至于Github重命名文件夹和删除类似，移动文件后自动删除旧文件夹，然后创建新文件夹。或者本地修改了文件夹名称，然后提交到Github。
+
+# 如何在 GitHub.com 上删除某个 Repository 中的某个文件夹？
+如果是需要在远程仓库中忽略已纳入版本管理中的文件或文件夹，可以这样操作：1，删除本地git缓存git rm -r --cached <filename>2，在.gitignore中加入需要忽略的文件夹或文件3，重新track文件git add -A
+git commit -m "remove files"4，推送到远程仓库git push origin master
+
