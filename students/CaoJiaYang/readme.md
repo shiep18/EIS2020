@@ -67,3 +67,6 @@
 ![reporter.mp4](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/weather_report&car/weather_report(homeassistant)/weather_report.mp4)
 * car(vtk)
 ![car](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/weather_report&car/car(vtk)/car.jpg)
+# hachina&car_plus
+![r](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/hachina&car_plus/hachina(homeassistant)/auto&scripts.gif)
+![r](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/hachina&car_plus/car_plus(vtk)/car_plus.gif)
