@@ -1,8 +1,3 @@
-# 老师看这里！！-->或点击跳转homework1文件夹
-
-为了美观起见，之前文件夹都是以homeworkx命名，之后文件夹名称统一改为2020xxxx作业，点击链接即可跳转到之前的相应作业文件夹
-
-[点击进入homework1文件夹](https://github.com/shiep18/EIS2020/tree/master/students/Cao%20Jiaming/homework1)
 
 # github readme.md 设置超链接
 1. 超链接：[文本]+(地址)
