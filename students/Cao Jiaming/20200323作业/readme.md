@@ -14,5 +14,7 @@
 然后在README.md写上:
 
 ![这里随便写文字](你刚复制的图片路径)
+![这里随便写文字](https://github.com/shiep18/EIS2020/blob/master/students/Cao%20Jiaming/20200323%E4%BD%9C%E4%B8%9A/%E5%A6%82%E4%BD%95%E5%90%91Github%20README.md%E4%B8%AD%E6%B7%BB%E5%8A%A0%E5%9B%BE%E7%89%87.png)
+
 
 注意  上面的感叹号和中括号和小括号之间不能有空格（都是英文状态下的）
