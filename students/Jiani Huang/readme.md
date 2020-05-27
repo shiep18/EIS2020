@@ -132,7 +132,14 @@ Homeassistant中添加家庭和杨浦、临港两个校区位置图标。
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/weather/autoweather.png)
 
 ## [Hachina](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/hachina)
-使用脚本控制hachina3切换状态ON/OFF；自动化控制切换hachina3状态ON/OFF。
+使用脚本控制Ha切换状态ON/OFF；自动化控制切换Ha状态ON/OFF。
 
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/hachina/hachina.gif)
+
+## [Door](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/door)
+python显示门的三种状态：ON、OFF、LOCK。把三种状态实时更新到Apache的网页中，并在Ha中实时更新ON、OFF、LOCK三种状态。
+
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/door/door.gif)
+
+
 
