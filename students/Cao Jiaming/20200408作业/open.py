@@ -29,8 +29,8 @@ class House:
         else:
             return False
 
-
-readers = csv.reader(open('house.csv'))
+#zhelishi hopouse.py
+readers = csv.reader(open('cjmhouse.csv'))
 dataLab = []
 for r in readers:
     dataLab.append(r)
