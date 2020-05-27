@@ -168,3 +168,13 @@ team4：用户：thd
 3.在homeassistion中，使用自动化控制hachina3切换状态ON/OFF
 
 ![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/5.25/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%A7%A6%E5%8F%91.gif)
+
+# 5.27文件夹
+
+1.python显示门的三种状态：ON,OFF，LOCK。三种状态实时更新到apache的网页中。
+
+![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/5.27/index.gif)
+
+2.homeassistion中实时更新 ON,OFF，LOCK三种状态。
+
+![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/5.27/homeassistion.gif)
