@@ -81,3 +81,15 @@
   Redesign the car according to the size and shape of the car on the photo.
   Homeassistant completes and transfers the first script and automation.
   Use tts to design automation to realize daily broadcast of weather forecast.
+# 20200525([homework21](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework21))
+  Using serial port to control the left and right wheels of the car model to rotate at different speeds.
+  Camera pole and indicator can change direction with parameters as a whole.
+  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework21/car.gif)
+  In homeassistant, use script to control hachina3 to switch on / off.
+  In homeassistant, use automatic control to switch hachina3 status on / off.
+  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework21/homeassistant.gif)
+# 20200527([homework22](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework22))
+  Python displays three states of the door: on, off, lock.
+  Update three states to Apache Web page in real time.
+  There are three statuses of real-time update on, off and lock in homeassistant.
+  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework22/door.gif)
