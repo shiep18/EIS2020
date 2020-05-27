@@ -164,3 +164,25 @@ BBS:
 ![wheel](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/VTK_v0520/wheel_speed.gif)
 ### video:
 ![video](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/video/video.gif)
+
+# 20200522作业([carsimple](https://github.com/shiep18/EIS2020/tree/master/students/Gongyangyang/carsimple_v0522) & [weather_report](https://github.com/shiep18/EIS2020/tree/master/students/Gongyangyang/homeassistant_v0522(weather_report)))
+1. 安装照片上的车尺寸和形状重新设计车
+2. Homeassistant完成调通第一个脚本和自动化
+3. 结合语音，设计自动化，每天定时播放天气预报
+4. 效果屏幕拷贝上传自己的目录
+## 结果图
+### carsimple:
+![carsimple](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/carsimple_v0522/carsimple.png)
+### weather_report:
+![weather_report](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/homeassistant_v0522(weather_report)/weather_report.gif)
+
+# 20200525作业([car_animate](https://github.com/shiep18/EIS2020/tree/master/students/Gongyangyang/car_animate) & [hachina](https://github.com/shiep18/EIS2020/tree/master/students/Gongyangyang/hachina))
+1. 车子模型可以用串口控制左右轮子分别以不同速度转动。
+2. 车子模型串口第3个参数表示车子摄像头角度。摄像头pole和indicator整体可随参数改变方向
+3. Ha中， 使用脚本 控制hachina3切换状态ON/OFF
+4. Ha中，使用自动化控制切换hachina3状态ON/OFF
+## 结果图
+### car_animate:
+![carsimple](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/car_animate/car_animate.gif)
+### hachina:
+![hachina](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/hachina/hachina3.gif)

@@ -1,0 +1,6 @@
+'1590337762962':
+  alias: open
+  sequence:
+  - condition: state
+    entity_id: automation.xin_jian_zi_dong_hua
+    state: open

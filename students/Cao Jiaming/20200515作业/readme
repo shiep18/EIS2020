@@ -1,0 +1,15 @@
+#20200515 operation
+
+1. Use pyautogui to capture the full screen and save it (pop-up box needs to be added for judgment)
+
+2. Finish pyautogui open web search function in class
+
+3. Climb the name of selenium on the bean flap
+
+4. Copy the effect screen and upload your own directory
+
+# 20200515作业
+1. 使用pyautogui完成截取全屏并保存（需要加入弹框进行判定）
+2. 完成课上pyautogui打开网页搜索功能
+3. 爬取豆瓣上selenium的相关书籍名
+4. 效果屏幕拷贝上传自己的目录

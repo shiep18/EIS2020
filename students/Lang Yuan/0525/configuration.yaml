@@ -1,0 +1,67 @@
+homeassistant:
+  latitude: 30.940395475120948
+  longitude: 121.846994779238
+  elevation: 0
+  unit_system: metric
+  time_zone: Asia/Shanghai
+  name: Home
+  
+zone:
+  - name: YPschool    
+    latitude: 31.1689
+    longitude: 121.4325
+    icon: mdi:school
+    radius: 100
+
+android_ip_webcam:
+  - host: 192.168.3.5
+    name: ip_webcam
+    #sensors:
+media_player:
+ 
+ - platform: kodi
+   host: 127.0.0.1
+# Configure a default setup of Home Assistant (frontend, api, etc)
+default_config:
+
+# Uncomment this if you are using SSL/TLS, running in Docker container, etc.
+# http:
+#   base_url: example.duckdns.org:8123
+
+# Text to speech
+tts:
+  - platform: googleD
+    
+group: !include groups.yaml
+automation: !include automations.yaml
+script: !include scripts.yaml
+
+sensor:
+  - platform: yr
+    name: Weather
+    forecast: 24
+    monitored_conditions:
+      - temperature        #气温
+      - precipitation      #雨量
+      - windSpeed          #风速
+      - pressure           #气压
+      - windDirection      #风向
+      - humidity           #湿度
+
+tts:
+  - platform: baidu
+    app_id: 20006665
+    api_key: AHPOdHltqlQgLIc1PdzVkzl0
+    secret_key: Wcc8e6QY4ybYh99AEt013d5GIsNEfYdd
+    language: zh
+#手机短信
+twilio:
+    account_sid: ACe276ecfe146d7b6a9ac3656a0783435e
+    auth_token: 7c3ccb65cbf79621d9cbc60f1dd71051
+
+notify:
+  - name: my_twilio_sms
+    platform: twilio_sms
+    from_number: "+12565888556"
+hachina:
+hachina3:

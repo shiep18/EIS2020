@@ -1,0 +1,12 @@
+{
+    "data": {
+        "core": {
+            "showAdvanced": true
+        },
+        "language": {
+            "language": "zh-Hans"
+        }
+    },
+    "key": "frontend.user_data_c5dc30a005e54921a82ff93b4420e97f",
+    "version": 1
+}

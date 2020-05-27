@@ -1,4 +1,5 @@
 # 昝煦森的作业
+# 目前因为网络原因只更新了readme，20200518、20200520文件内容都上传失败。
 ## 20200323作业
 ### 作业完成图片：
 ![](https://github.com/shiep18/EIS2020/blob/master/students/XuSen%20Zan/house/2020-03-26_15.14.56.png)

@@ -77,3 +77,7 @@
   ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework19/new_test3.gif)
   ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework19/new_test4.gif)
   In Android Studio, the login interface, audio and video interface, and timer interface are combined to realize the jump through the button event.
+# 20200522([homework20](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework20))
+  Redesign the car according to the size and shape of the car on the photo.
+  Homeassistant completes and transfers the first script and automation.
+  Use tts to design automation to realize daily broadcast of weather forecast.

@@ -144,3 +144,37 @@ team4：用户：thd
 2.AS结合登录界面、音视频界面、计时器界面。通过按钮事件实现跳转。
 
 ![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/5.20/video.gif)
+
+# 5.22文件夹
+
+1.安照照片上的车尺寸和形状重新设计车
+
+![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/5.22/car.gif)
+
+2.结合语音，设计自动化，每天定时播放天气预报
+
+![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/5.22/weather_report.png)
+
+# 5.25文件夹
+
+1.车子模型可通过串口进行轮子速度的控制以及摄像头角度的调整。(因电脑原因会产生残影)
+
+![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/5.25/COMwheel.gif)
+
+2.在homeassistion中，使用脚本控制hachina3切换状态ON/OFF
+
+![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/5.25/%E8%84%9A%E6%9C%AC%E8%A7%A6%E5%8F%91.gif)
+
+3.在homeassistion中，使用自动化控制hachina3切换状态ON/OFF
+
+![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/5.25/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%A7%A6%E5%8F%91.gif)
+
+# 5.27文件夹
+
+1.python显示门的三种状态：ON,OFF，LOCK。三种状态实时更新到apache的网页中。
+
+![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/5.27/index.gif)
+
+2.homeassistion中实时更新 ON,OFF，LOCK三种状态。
+
+![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/5.27/homeassistion.gif)

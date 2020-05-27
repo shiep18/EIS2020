@@ -106,6 +106,16 @@ pyautogui打开网页搜索功能，弹框进行判定，截取全屏并保存�
 
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/vtk/wheelspeed/wheelspeed.gif)
 
+## [Model](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/vtk/model)
+用123D完成小车模型。
+
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/vtk/model/model.png)
+
+## [Control](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/vtk/control)
+车子模型可以用串口控制左右轮子分别以不同速度转，第3个参数表示车子摄像头角度。摄像头pole和indicator整体可随参数改变方向。
+
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/vtk/control/control.gif)
+
 # [Homeassistant](https://github.com/shiep18/EIS2020/tree/master/students/Jiani%20Huang/homeassistant)
 ## [Location](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/location)
 Homeassistant中添加家庭和杨浦、临港两个校区位置图标。
@@ -115,4 +125,21 @@ Homeassistant中添加家庭和杨浦、临港两个校区位置图标。
 在手机里面安装IP摄像头，实现局域网实时查看视频。
 
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/location/IPcamera.jpg)
+
+## [Weather](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/weather)
+结合语音，设计自动化，每天7点定时播放天气预报。
+
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/weather/autoweather.png)
+
+## [Hachina](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/hachina)
+使用脚本控制Ha切换状态ON/OFF；自动化控制切换Ha状态ON/OFF。
+
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/hachina/hachina.gif)
+
+## [Door](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/door)
+python显示门的三种状态：ON、OFF、LOCK。把三种状态实时更新到Apache的网页中，并在Ha中实时更新ON、OFF、LOCK三种状态。
+
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/door/door.gif)
+
+
 

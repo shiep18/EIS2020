@@ -1,0 +1,87 @@
+{
+    "data": {
+        "config": {
+            "title": "Home",
+            "views": [
+                {
+                    "badges": [
+                        {
+                            "entity": "binary_sensor.updater"
+                        },
+                        {
+                            "entity": "person.zhangyue"
+                        },
+                        {
+                            "entity": "sensor.weather_temperature"
+                        },
+                        {
+                            "entity": "sensor.weather_precipitation"
+                        },
+                        {
+                            "entity": "sensor.weather_wind_speed"
+                        },
+                        {
+                            "entity": "sensor.weather_pressure"
+                        },
+                        {
+                            "entity": "sensor.weather_wind_direction"
+                        },
+                        {
+                            "entity": "sensor.weather_humidity"
+                        },
+                        {
+                            "entity": "sun.sun"
+                        }
+                    ],
+                    "cards": [
+                        {
+                            "aspect_ratio": "56%",
+                            "camera_image": "camera.ip_webcam",
+                            "camera_view": "live",
+                            "entity": "camera.ip_webcam",
+                            "hold_action": {
+                                "action": "more-info"
+                            },
+                            "name": "\u6444\u50cf\u5934",
+                            "show_name": true,
+                            "show_state": true,
+                            "tap_action": {
+                                "action": "more-info"
+                            },
+                            "type": "picture-entity"
+                        },
+                        {
+                            "entity": "media_player.kodi",
+                            "name": "\u64ad\u653e\u5668",
+                            "type": "media-control"
+                        },
+                        {
+                            "entity": "weather.wo_de_jia",
+                            "type": "weather-forecast"
+                        },
+                        {
+                            "entities": [
+                                {
+                                    "entity": "script.1590337762962"
+                                }
+                            ],
+                            "title": "\u811a\u672c",
+                            "type": "entities"
+                        },
+                        {
+                            "entities": [
+                                "automation.xin_jian_zi_dong_hua"
+                            ],
+                            "title": "\u81ea\u52a8\u5316",
+                            "type": "entities"
+                        }
+                    ],
+                    "path": "default_view",
+                    "title": "Home"
+                }
+            ]
+        }
+    },
+    "key": "lovelace",
+    "version": 1
+}

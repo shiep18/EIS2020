@@ -59,3 +59,18 @@
 * login_plus(android)
 
      ![house](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/login_plus&vtk/login_plus(android)/login(plus).gif)
+ 
+# weather_report&car
+* weather_report(homeassistant)
+* report the weather in voice through kodi automatically
+
+![reporter.mp4](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/weather_report&car/weather_report(homeassistant)/weather_report.mp4)
+* car(vtk)
+![car](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/weather_report&car/car(vtk)/car.jpg)
+# hachina&car_plus
+* hachina(homeassistant)
+* use the auto and scripts to control hachina3's on/off
+![r](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/hachina&car_plus/hachina(homeassistant)/auto&scripts.gif)
+* car_plus(vtk)
+* control left/right wheel's speed and camera's angle through com
+![r](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/hachina&car_plus/car_plus(vtk)/car_plus.gif)
