@@ -137,6 +137,12 @@ Embedded and Intelligent Systems (EIS) course for SHIEP 2020
 3. Ha中， 使用脚本 控制hachina3切换状态ON/OFF
 4. Ha中，使用自动化控制切换hachina3状态ON/OFF
 
+# 20200527作业 
+1. python显示门的三种状态：ON,OFF，LOCK。
+2. 把三种状态实时更新到apache的网页中
+3. Ha中是实时更新 ON,OFF，LOCK三种状态。
+4. 效果屏幕拷贝/代码上传自己的目录
+
 # FAQ 
 * Q:我的世界游戏启动失败咋办？  
   * A:下载更新的版本。  
