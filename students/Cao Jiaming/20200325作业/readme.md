@@ -1,3 +1,9 @@
+# 老师看这里！！-->或点击跳转homework2文件夹
+
+为了美观起见，之前文件夹都是以homeworkx命名，之后文件夹名称统一改为2020xxxx作业，点击链接即可跳转到之前的相应作业文件夹
+
+[点击进入homework2文件夹查看作业](https://github.com/shiep18/EIS2020/tree/master/students/Cao%20Jiaming/homework2)
+
 # 20200325 operation
 1. Learn 3D modeling courseware and select 3 ppts to learn. Three design files are uploaded to their own folders. You can use 123d or fusion360
 2. Design an object of your own. mylogo.stl File upload.
