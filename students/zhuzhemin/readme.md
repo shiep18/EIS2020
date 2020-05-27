@@ -98,3 +98,17 @@ pyautogui+webdriver
 20200522作业
 
 ![定时温度播报](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200522/0522温度播报.PNG)
+
+![car](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200522/20200522car.PNG)
+
+![carcar](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200522/20200522car测.PNG)
+
+![carcarcar](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200522/20200522俯.PNG)
+
+20200525作业
+
+![ON](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200525/20200525_ON.PNG)
+
+![OFF](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200525/20200525_OFF.PNG)
+
+![control car](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200525/homework0525.GIF)
