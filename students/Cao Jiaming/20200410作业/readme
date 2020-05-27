@@ -1,4 +1,4 @@
-#20200410 operation
+# 20200410 operation
 1. Runtong face recognition code
 2. Train 3 people in face, self, family and others (such as cat)
 3. Using face detection to obtain face image and save it to file face.jpg inside
