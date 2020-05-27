@@ -1,4 +1,4 @@
-#20200403 operation
+# 20200403 operation
 1. Find an object as a baton, draw a circle to track through video and HSV color matching
 2. Use the object found as the remote control to control the players in my world running around.
 3. Run to different house s in the tribe and say "welcome to xxxx's house" XXX is the name of the owner of the house
