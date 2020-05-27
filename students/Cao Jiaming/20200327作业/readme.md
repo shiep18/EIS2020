@@ -11,7 +11,7 @@
 3. 写一个myclan.py,import 调用mylogo和showmypic里面的函数，完成一次性显示一个logo和卡通图
 4. 上传最后效果的屏幕拷贝
 
-#GitHub Desktop的使用
+# GitHub Desktop的使用
 步骤 1. 安装并登录到 GitHub Desktop
 从 https://desktop.github.com/ 下载 GitHub Desktop。 GitHub Desktop 支持 Windows 和 macOS 的最新版本。 有关特定于操作系统的安装说明，请参阅“安装 GitHub Desktop”。
 
