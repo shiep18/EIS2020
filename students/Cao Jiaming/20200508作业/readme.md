@@ -1,4 +1,6 @@
-#20200508 operation
+#csv文件, clanlogo.py等代码在github team中，这里仅仅是图片展示
+
+# 20200508 operation
 
 1. Build a statue for the tribe with binvox. The statue location is in the CSV file, which is the STL file of clanlogo statue
 
