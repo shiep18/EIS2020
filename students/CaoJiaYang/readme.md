@@ -68,5 +68,9 @@
 * car(vtk)
 ![car](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/weather_report&car/car(vtk)/car.jpg)
 # hachina&car_plus
+* hachina(homeassistant)
+* use the auto and scripts to control hachina3's on/off
 ![r](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/hachina&car_plus/hachina(homeassistant)/auto&scripts.gif)
+* car_plus(vtk)
+* control left/right wheel's speed and camera's angle through com
 ![r](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/hachina&car_plus/car_plus(vtk)/car_plus.gif)
