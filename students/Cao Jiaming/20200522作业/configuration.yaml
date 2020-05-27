@@ -33,6 +33,21 @@ sensor:
       - windDirection      #风向
       - humidity           #湿度
 
+tts:
+  - platform: baidu
+    app_id: 19165306
+    api_key: F0NWZzLVAnModNc6OG820Gu7
+    secret_key: M8enxlGmxLqSeFxpV9XHgwI50sHk6486
+    language: zh
+    #speed: 语速0-9（缺省5）
+    #pitch: 语调0-9（缺省5）
+    #volume: 音量0-15（缺省5）
+    #person: 声音（0：女，1：男，3：百度合成，4：百度合成，缺省0）
+#     speed: 3
+#     pitch: 5
+#     volume: 10
+    person: 4  
+    
 #手机短信
 twilio:
     account_sid: AC9d7cdaff780999e2ae55ad2daae53c30
