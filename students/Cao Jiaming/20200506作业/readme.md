@@ -1,3 +1,5 @@
+# csv文件, cjmhouse.py等代码在github team中
+
 # 20200506 operation
 
 1. Select the base coordinates of the group (tribe) clannter, Xc, YC, ZC
