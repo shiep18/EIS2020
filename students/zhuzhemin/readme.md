@@ -112,3 +112,9 @@ pyautogui+webdriver
 ![OFF](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200525/20200525_OFF.PNG)
 
 ![control car](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200525/homework0525.GIF)
+
+20200527作业
+
+!(ha)[https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200527/homework_0527_open%20the%20door.GIF]
+
+!()[https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200527/homework_0527_open%20the%20door1.GIF]
