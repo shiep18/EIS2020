@@ -2,11 +2,11 @@ import cv2
 import numpy as np
 import mcpi.minecraft as minecraft
 mc = minecraft.Minecraft.create()
-lens = 10
+lens = 15
 xCenter = 0
 yCenter = 0
-
-
+#x,y,len
+print('hello......')
 # 移动位置
 def mcgo(dir):
     direction = mc.player.getDirection()
