@@ -1,0 +1,29 @@
+- id: '1523232231545'
+  alias: new
+  description: ''
+  trigger:
+  - at: '13:00:00'
+    platform: time
+  condition: []
+  action:
+  - data: {}
+    entity_id: camera.ip_webcam
+    service: camera.turn_on
+    
+- alias: weather_report
+  initial_state: true
+  trigger:
+    - platform: time_pattern
+      hours: 13
+      minutes: 00
+      seconds: 0
+  condition:
+    condition: numeric_state
+    entity_id: sensor.weather_temperature
+    above: 20
+  action:
+    - service: tts.baidu_say
+      data_template:
+        entity_id: media_player.kodi
+        message: 播报天气信息。温度，{{states('sensor.weather_temperature')}}℃,湿度{{states('sensor.humidity')}},气压{{states('sensor.weather_pressure')}} 
+   
