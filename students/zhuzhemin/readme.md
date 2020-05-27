@@ -115,6 +115,6 @@ pyautogui+webdriver
 
 20200527作业
 
-!(ha)[https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200527/homework_0527_open%20the%20door.GIF]
+![ha](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200527/homework_0527_open%20the%20door.GIF)
 
-!(html)[https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200527/homework_0527_open%20the%20door1.GIF]
+![html](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200527/homework_0527_open%20the%20door1.GIF)
