@@ -1,3 +1,6 @@
+# 或点击跳转homework1文件夹
+https://github.com/shiep18/EIS2020/tree/master/students/Cao%20Jiaming/homework1
+
 # 20200323 operation
 1. Learn M02 M06 ppt
 2. Create your own folder under the students directory
