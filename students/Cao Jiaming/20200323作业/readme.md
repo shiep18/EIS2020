@@ -4,6 +4,9 @@
 
 [点击进入homework1文件夹](https://github.com/shiep18/EIS2020/tree/master/students/Cao%20Jiaming/homework1)
 
+# github readme.md 设置超链接
+1. 超链接：[文本](地址)
+
 # 20200323 operation
 1. Learn M02 M06 ppt
 2. Create your own folder under the students directory
