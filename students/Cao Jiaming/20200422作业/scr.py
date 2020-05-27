@@ -16,7 +16,7 @@ pg.moveTo(loc_back[1],loc_back[0])
 pg.click()
 
 
-
+#窗体面积计算
 res = cv2.matchTemplate(img,template,cv2.TM_CCOEFF_NORMED)
 loc = np.where( res >= threshold)
 print("窗体的面积：",1027-int(loc[0]),"*",int(loc[1])+w+6) #高*宽
