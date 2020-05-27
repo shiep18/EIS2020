@@ -1,4 +1,4 @@
-#20200415 operation
+# 20200415 operation
 1. Use socket interface programming to place 3 x 3 gold blocks at the feet of my world players
 2. Mcpi protocol reference https://github.com/brooksc/mcpipy/blob/master/mcpi/mcpi_ protocol_ spec.txt
 3. Design an Arduino box on a 4mm thick A4 paper board. Requirements
