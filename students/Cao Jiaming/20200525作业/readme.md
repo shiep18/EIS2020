@@ -17,3 +17,10 @@
 # 如何在 GitHub.com 上删除某个 Repository 中的某个文件夹？
 删除文件夹:
 删除文件夹非常简单，删除或者移动里面文件即可，空文件夹Github自动删除。
+
+或者Git命令（需要保持被操作Github项目已在本地下拉并为最新版本）：
+
+git rm -r --cached flashview                   //--cached不会把本地的flashview文件夹删除
+git commit -m '我删除了flashview文件夹'         //单引号里为Commit时需要提交的说明
+git push -u origin master                      //若需要对其他分支进行操作，则把master换为对应分支，如:git push -u origin dev
+至于Github重命名文件夹和删除类似，移动文件后自动删除旧文件夹，然后创建新文件夹。或者本地修改了文件夹名称，然后提交到Github。
