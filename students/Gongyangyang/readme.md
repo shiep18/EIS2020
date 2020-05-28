@@ -186,3 +186,12 @@ BBS:
 ![carsimple](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/car_animate/car_animate.gif)
 ### hachina:
 ![hachina](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/hachina/hachina3.gif)
+
+# 20200527作业([hachina_door](https://github.com/shiep18/EIS2020/tree/master/students/Gongyangyang/hachina_door))
+1. python显示门的三种状态：ON,OFF，LOCK。
+2. 把三种状态实时更新到apache的网页中
+3. Ha中是实时更新 ON,OFF，LOCK三种状态。
+4. 效果屏幕拷贝/代码上传自己的目录
+## 结果图
+### door:
+![door](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/hachina_door/door.gif)
