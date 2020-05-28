@@ -1,5 +1,3 @@
-# EIS2020
-Embedded and Intelligent Systems (EIS) course for SHIEP 2020
 
 # 20200323作业
 1. 学习M02 M06 ppt  
