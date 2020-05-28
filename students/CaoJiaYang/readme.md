@@ -74,3 +74,7 @@
 * car_plus(vtk)
 * control left/right wheel's speed and camera's angle through com
 ![r](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/hachina&car_plus/car_plus(vtk)/car_plus.gif)
+# door(ha)
+* 3 conditions of the door :open,close,lock
+* dispaly the condition in homeassistant through html immediately
+ ![r](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/door(ha)/door.gif)
