@@ -3,3 +3,9 @@
 2. 把三种状态实时更新到apache的网页中
 3. Ha中是实时更新 ON,OFF，LOCK三种状态。
 4. 效果屏幕拷贝/代码上传自己的目录
+
+# apache
+![](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/20200527/apache_door.gif)
+
+# hass
+![](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/20200527/hassdoor.gif)
