@@ -143,6 +143,13 @@ Embedded and Intelligent Systems (EIS) course for SHIEP 2020
 3. Ha中是实时更新 ON,OFF，LOCK三种状态。
 4. 效果屏幕拷贝/代码上传自己的目录
 
+# 20200529作业 
+1. 在vtk里面仿真门的开、关
+2. ha里和vtk里同步实时显示门的开、关状态
+3. ha里和vtk里同步实时显示门的开、关状态。同时ha另加一个卡片上面显示 on/off
+4. 效果屏幕拷贝/代码上传自己的目录
+
+
 # FAQ 
 * Q:我的世界游戏启动失败咋办？  
   * A:下载更新的版本。  
