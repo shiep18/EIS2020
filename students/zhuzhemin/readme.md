@@ -118,3 +118,9 @@ pyautogui+webdriver
 ![ha](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200527/homework_0527_open%20the%20door.GIF)
 
 ![html](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200527/homework_0527_open%20the%20door1.GIF)
+
+20200529作业
+
+![door](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200529/homework0529_door.GIF)
+
+![It's a door](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200529/door0529.PNG)
