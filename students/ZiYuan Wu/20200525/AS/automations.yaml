@@ -1,0 +1,28 @@
+- alias: weather_report
+  initial_state: true
+  trigger:
+  - platform: time_pattern
+    hours: 15
+    minutes: 39
+    seconds: 0
+  condition:
+    condition: numeric_state
+    entity_id: sensor.weather_temperature
+    above: 4
+  action:
+  - service: tts.baidu_say
+    data_template:
+      entity_id: media_player.kodi
+      message: 今天的天气情况。温度，{{states('sensor.weather_temperature')}}°C, 湿度{{states('sensor.weather_humidity')}}，风速{{states('sensor.weather_wind_speed')}},
+        气压{{states('sensor.weather_pressure')}}
+  id: c9d66290ee9d464b8ba7c80ad7585add
+- id: '1590397150531'
+  alias: switch_hachina
+  description: ''
+  trigger:
+  - at: '21:16'
+    platform: time
+  condition: []
+  action:
+  - data: {}
+    service: hachina3.change_state

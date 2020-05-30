@@ -1,0 +1,74 @@
+homeassistant:
+  # Name of the location where Home Assistant is running
+  name: wzyHouse
+  # Location required to calculate the time the sun rises and sets
+  longitude: 104.740046 
+  latitude: 29.324238
+  # Impacts weather/sunrise data (altitude above sea level in meters)
+  elevation: 0
+  # metric for Metric, imperial for Imperial
+  unit_system: metric
+  # Pick yours from here: http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+  #time_zone: Shanghai
+  # Customization file
+  customize: !include customize.yaml
+
+zone:
+  - name: school
+    latitude: 31.274055  
+    longitude: 121.547161
+    icon: mdi:school
+    radius: 250
+
+sensor:
+  - platform: yr
+    name: Weather
+    forecast: 24
+    monitored_conditions:
+      - symbol
+      - temperature
+      - precipitation
+      - pressure
+      - windDirection
+      - windSpeed
+      - humidity
+
+android_ip_webcam:
+  - host: 192.168.1.15:8080
+    name: mycam
+
+
+
+# Configure a default setup of Home Assistant (frontend, api, etc)
+default_config:
+
+# Uncomment this if you are using SSL/TLS, running in Docker container, etc.
+# http:
+#   base_url: example.duckdns.org:8123
+
+# Text to speech
+tts:
+#  - platform: google_translate
+  - platform: baidu
+    app_id: 19165941
+    api_key: XUqFyxlgEllBGh5qqRMfTh4x
+    secret_key: S6GPVANUOEH4NFYxyfkd9f3lQPXfkx3N
+    language: zh
+    #speed: 语速0~9
+    #pitch: 语调0~9
+    #volume: 音量0~15
+    #person: 声音0~4  (0：女  1：男  3：百度合成  4：百度合成)
+    person: 4
+
+media_player:
+  - platform: kodi
+    host: 127.0.0.1
+    port: 8082
+
+hachina3:
+
+group: !include groups.yaml
+automation: !include automations.yaml
+script: !include scripts.yaml
+scene: !include scenes.yaml
+
