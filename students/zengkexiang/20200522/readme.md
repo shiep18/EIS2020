@@ -3,3 +3,6 @@
 2. Homeassistant完成调通第一个脚本和自动化
 3. 结合语音，设计自动化，每天定时播放天气预报
 4. 效果屏幕拷贝上传自己的目录
+
+# car
+![](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/20200522/car.PNG)
