@@ -1,0 +1,89 @@
+homeassistant:
+  # Name of the location where Home Assistant is running
+  name: moocxingHome
+  # Location required to calculate the time the sun rises and sets
+  longitude: 113.603837
+  latitude: 34.789841
+  # Impacts weather/sunrise data (altitude above sea level in meters)
+  elevation: 0
+  # metric for Metric, imperial for Imperial
+  unit_system: metric
+  # Pick yours from here: http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+  #time_zone: Shanghai
+  # Customization file
+  customize: !include customize.yaml
+zone:
+  - name: school
+    latitude: 31.278978
+    longitude: 121.553436
+    icon: mdi:school
+    radius: 250
+# Configure a default setup of Home Assistant (frontend, api, etc)
+default_config:
+
+tts:
+  - platform: baidu
+    app_id: 19202475
+    api_key: Ka11iFtMIWHud8ZsCTgx8QCM
+    secret_key: LRa7MoARNQes4Z5G6b8lwmH7FxwI798C
+    language: zh
+    person: 4
+    
+group: !include groups.yaml
+automation: !include automations.yaml
+script: !include scripts.yaml
+sensor:
+  - platform: yr  
+    name: Weather
+    forecast: 24 
+    monitored_conditions:
+      - temperature        #气温
+      - precipitation      #雨量
+      - windSpeed          #风速
+      - pressure           #气压
+      - windDirection      #风向
+      - humidity           #湿度
+# android_ip_webcam:
+#   - host: 192.168.0.100
+#     name: ip_webcam
+media_player:
+  - platform: kodi
+    host: 127.0.0.1
+twilio:
+  account_sid: ACb6e57f700d49fd8bef0ee37817cc69b3
+  auth_token: 52875751aff244d92e3b27304bbd1a88
+# notify:
+#   - name: my_twilio_sms
+#     platform: twilio_sms
+#     from_number: "+12565489101"
+# hachina3:
+#hachina10:
+#hachina:
+#hachina2:
+hachina5:
+  step: on
+#hachinadoor:
+#  step: on
+# ffmpeg:
+#   ffmpeg_bin: 'D:\qi ye ke cheng ruan jian\ffmpeg-20200525-6268034-win64-static\bin\ffmpeg.exe'
+# camera:
+#   - platform: ffmpeg
+#     name: Cam01
+#     input: -f dshow -i video="HD WebCam"
+
+# - alias: weather_report
+#  initial_state: true
+#  trigger:
+#  - platform: time
+#    hours: 7
+#    minutes: 30
+#    seconds: 0
+#  condition: 
+#    condition: numeric_state
+#    entity_id: sensor.weather_temperature
+#    above: 34
+#  action:
+#  - service: tts.baidu_say
+#    data_template:
+#      entity_state: media_player.kodi
+#      message: 现在播报天气信息。温度,{{states('sensor.weather_temperature')}}℃,湿度{{states('sensor.weather_humidity')}}
