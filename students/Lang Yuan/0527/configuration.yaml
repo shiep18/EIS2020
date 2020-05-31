@@ -1,0 +1,83 @@
+homeassistant:
+  latitude: 30.940395475120948
+  longitude: 121.846994779238
+  elevation: 0
+  unit_system: metric
+  time_zone: Asia/Shanghai
+  name: Home
+  
+zone:
+  - name: YPschool    
+    latitude: 31.1689
+    longitude: 121.4325
+    icon: mdi:school
+    radius: 100
+
+android_ip_webcam:
+  - host: 192.168.3.5
+    name: ip_webcam
+    #sensors:
+media_player:
+ 
+ - platform: kodi
+   host: 127.0.0.1
+# Configure a default setup of Home Assistant (frontend, api, etc)
+default_config:
+
+# Uncomment this if you are using SSL/TLS, running in Docker container, etc.
+# http:
+#   base_url: example.duckdns.org:8123
+
+# Text to speech
+tts:
+  - platform: googleD
+    
+group: !include groups.yaml
+automation: !include automations.yaml
+script: !include scripts.yaml
+
+sensor:
+  - platform: yr
+    name: Weather
+    forecast: 24
+    monitored_conditions:
+      - temperature        #气温
+      - precipitation      #雨量
+      - windSpeed          #风速
+      - pressure           #气压
+      - windDirection      #风向
+      - humidity           #湿度
+
+tts:
+  - platform: baidu
+    app_id: 20006665
+    api_key: AHPOdHltqlQgLIc1PdzVkzl0
+    secret_key: Wcc8e6QY4ybYh99AEt013d5GIsNEfYdd
+    language: zh
+#手机短信
+twilio:
+    account_sid: ACe276ecfe146d7b6a9ac3656a0783435e
+    auth_token: 7c3ccb65cbf79621d9cbc60f1dd71051
+
+notify:
+  - name: my_twilio_sms
+    platform: twilio_sms
+    from_number: "+12565888556"
+
+
+hachina:
+hachina3:
+hachina5:
+
+
+    
+#ffmpeg组件配置，Camera组件需要依赖该组件工作
+ffmpeg:
+  ffmpeg_bin: 'D:\ffmpeg-20200525-6268034-win64-static\ffmpeg-20200525-6268034-win64-static\bin\ffmpeg.exe' #FFmpeg在本地文件系统中的位置，此处以windows系统环境为例
+ 
+#Camera组件配置
+camera:
+  - platform: ffmpeg  #此处选择摄像头接入方式为基于ffmpeg方式
+    name: Cam01  #配置摄像头在Home Assistant中的名称
+    input: -f dshow -i video="Integrated Webcam"  #指定输入视频流的摄像头，本例中采用笔记本电脑自带摄像头，
+    #"Integrated Webcam"为摄像头名称，可以使用ffmpeg -list_devices true -f dshow -i dummy命令查看本机摄像头名称
