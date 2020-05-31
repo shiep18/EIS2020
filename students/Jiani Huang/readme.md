@@ -141,5 +141,7 @@ python显示门的三种状态：ON、OFF、LOCK。把三种状态实时更新�
 
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/door/door.gif)
 
+## [Vtkdoor](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/vtkdoor)
+在vtk里面仿真门的开、关,ha里和vtk里同步实时显示门的开、关状态,同时ha另加一个卡片上面显示 on/off。
 
-
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/homeassistant/vtkdoor/vtkdoor.gif)
