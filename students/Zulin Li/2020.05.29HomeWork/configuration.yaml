@@ -1,0 +1,97 @@
+homeassistant:
+  # Name of the location where Home Assistant is running
+  name: MyHome
+  # Location required to calculate the time the sun rises and sets
+  longitude: 110.635076
+  latitude: 21.654954
+  # Impacts weather/sunrise data (altitude above sea level in meters)
+  elevation: 0
+  # metric for Metric, imperial for Imperial
+  unit_system: metric
+  # Pick yours from here: http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+  time_zone: Asia/Shanghai
+  # Customization file
+  customize: !include customize.yaml
+
+tts:
+  - platform: google_translate
+
+zone:
+  - name: school
+    latitude: 31.278978
+    longitude: 121.553436
+    icon: mdi:school
+    radius: 250
+
+#ffmpeg:
+#  ffmpeg_bin: 'E:\qianrushizhinengxitongsheji\20200527HomeWork\ffmpeg\bin\ffmpeg.exe'
+#camera:
+#  - platform: ffmpeg
+#    name: Cam01
+#    input: -f dshow -i video='Chicony USB2.0 Camera'
+    
+sensor:
+  # Weather prediction(天气预测)
+  - platform: yr     # 访问Yr组件介绍页面
+    name: Weather
+    forecast: 24
+    monitored_conditions:
+        - temperature     # 气温
+        - precipitation   # 雨量
+        - windSpeed       # 风速
+        - pressure        # 气压
+        - windDirection   # 风向
+        - humidity        # 湿度
+
+#android_ip_webcam:
+#  - host: 192.168.0.104
+
+tts:
+  - platform: baidu
+    app_id: 19165306
+    api_key: F0NWZzLVAnModNc6OG820Gu7
+    secret_key: M8enxlGmxLqSeFxpV9XHgwI50sHk6486
+    language: zh
+    #speed: 语速0-9（缺省5）
+    #pitch: 语调0-9（缺省5）
+    #volume: 音量0-15（缺省5）
+    #person: 声音（0：女，1：男，3：百度合成，4：百度合成，缺省0）
+#     speed: 5
+#     pitch: 5
+#     volume: 15
+    person: 4  
+
+media_player:
+  - platform: kodi
+    host: 127.0.0.1
+
+twilio:
+  account_sid: ACc4ad5ea51b51a5196125d3886568c1f5
+  auth_token: 4348ee6cd35651c438d4c9a936923e01
+notify:
+  - name: lzl_twilio_sms
+    platform: twilio_sms
+    from_number: "+12053748484"
+# Configure a default setup of Home Assistant (frontend, api, etc)
+
+hachina:
+
+hachina3:
+
+hachina5:
+  step: 5
+  
+
+default_config:
+
+# Uncomment this if you are using SSL/TLS, running in Docker container, etc.
+# http:
+#   base_url: example.duckdns.org:8123
+
+# Text to speech
+#tts:
+#  - platform: google_translate
+
+group: !include groups.yaml
+automation: !include automations.yaml
+script: !include scripts.yaml
