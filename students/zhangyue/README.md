@@ -66,17 +66,17 @@
   Complete the class pyautogui to open the web search function and crawl related books on selenium on Douban
   ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework17/douban.gif)
 # 20200518([homework18](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework18))
-  Let the pyramid and the wheel show at the same time, the wheel rotates around the center of the circle
+  Let the pyramid and the wheel show at the same time, the wheel rotates around the center of the circle.
+  Add home and location icons for Yangpu campus in Homeassistant (requires that the location of Yangpu campus needs real coordinates).
+  Install IP camera in mobile phone or virtual machine to realize real-time viewing of video in LAN.
   ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework18/rotation.gif)
-  Add home and location icons for Yangpu campus in Homeassistant (requires that the location of Yangpu campus needs real coordinates)
   ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework18/homeassistant.png)
-  Install IP camera in mobile phone or virtual machine to realize real-time viewing of video in LAN
   ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework18/MI3W.gif)
 # 20200520([homework19](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework19))
   Use the serial port program, combined with vtk, to control the rotation speed of vtk objects.
+  In Android Studio, the login interface, audio and video interface, and timer interface are combined to realize the jump through the button event.
   ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework19/new_test3.gif)
   ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework19/new_test4.gif)
-  In Android Studio, the login interface, audio and video interface, and timer interface are combined to realize the jump through the button event.
 # 20200522([homework20](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework20))
   Redesign the car according to the size and shape of the car on the photo.
   Homeassistant completes and transfers the first script and automation.
@@ -84,9 +84,9 @@
 # 20200525([homework21](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework21))
   Using serial port to control the left and right wheels of the car model to rotate at different speeds.
   Camera pole and indicator can change direction with parameters as a whole.
-  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework21/car.gif)
   In homeassistant, use script to control hachina3 to switch on / off.
   In homeassistant, use automatic control to switch hachina3 status on / off.
+  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework21/car.gif)
   ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework21/homeassistant.gif)
 # 20200527([homework22](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework22))
   Python displays three states of the door: on, off, lock.
