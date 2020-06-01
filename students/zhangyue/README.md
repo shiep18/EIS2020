@@ -93,3 +93,10 @@
   Update three states to Apache Web page in real time.
   There are three statuses of real-time update on, off and lock in homeassistant.
   ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework22/door.gif)
+# 20200529([homework23](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework23))
+  Simulate the opening and closing of doors in vtk.
+  Then in homeassistant and vtk synchronous display real-time door opening and closing status. At the same time, add another card on the homeassistant to display on / off.
+# 20200601([homework24](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework24))
+  Complete the code of chat / consumers.py.
+  Automatically intercept human faces and synthesize them into a program for changing voices.
+  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework24/wave.gif)
