@@ -79,3 +79,8 @@
 * dispaly the condition in homeassistant through html immediately
 
 ![r](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/door(ha)/door.gif)
+# door_plus(ha)
+* control door in vtk through com
+* update door's condition in homeassistant immediately
+* another automation always opposite to the door's automation
+  ![r](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/door_plus(homeassistant)/door_plus.gif)
