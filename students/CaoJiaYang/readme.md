@@ -78,7 +78,7 @@
 * 3 conditions of the door :open,close,lock
 * dispaly the condition in homeassistant through html immediately
 
-![r](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/door(ha)/door.gif)
+  ![r](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/door(ha)/door.gif)
 # door_plus(ha)
 * control door in vtk through com
 * update door's condition in homeassistant immediately
