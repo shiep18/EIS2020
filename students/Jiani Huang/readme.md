@@ -83,6 +83,13 @@ Android studio 添加一个按钮，按钮上面显示“按钮”文字。
 
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/django/vote/vote.gif)
 
+## [BBS](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/django/BBS)
+
+## [Webapp](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/django/webapp)
+打开聊天室。
+
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/django/webapp/chatroom.jpg)
+
 # [Auto](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/auto)
 ## [Pyautogui](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/auto/pyautogui)
 pyautogui打开网页搜索功能，弹框进行判定，截取全屏并保存。
