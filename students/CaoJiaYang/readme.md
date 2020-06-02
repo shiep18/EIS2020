@@ -85,3 +85,7 @@
 * another automation always opposite to the door's automation
 
   ![r](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/door_plus(homeassistant)/door_plus.gif)
+# clothe|face_change(voice)
+* change the color of model's clothe through voice
+* change the face of model through voice
+![voice_control.mp4](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/clothe|face_change(voice)/voice_control.mp4)
