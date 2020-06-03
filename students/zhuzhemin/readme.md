@@ -128,3 +128,7 @@ pyautogui+webdriver
 20200601作业
 
 ![chat](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200601/20200601.PNG)
+
+![黑色衣服](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200601/20200601黑色衣服.PNG)
+
+![白色衣服](https://github.com/shiep18/EIS2020/blob/master/students/zhuzhemin/20200601/20200601白色衣服.PNG)
