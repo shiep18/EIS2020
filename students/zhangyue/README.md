@@ -100,3 +100,8 @@
   Complete the code of chat / consumers.py.
   Automatically intercept human faces and synthesize them into a program for changing voices.
   ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework24/wave.gif)
+# 20200603([homework25](https://github.com/shiep18/EIS2020/tree/master/students/zhangyue/homework25))
+  Complete the program of playing chess in nine palace and improve the recognition rate.
+  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework25/draw.gif)
+  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework25/black_win.gif)
+  ![](https://github.com/shiep18/EIS2020/blob/master/students/zhangyue/homework25/white_win.gif)
