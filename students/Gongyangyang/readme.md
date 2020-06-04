@@ -203,3 +203,19 @@ BBS:
 4. 效果屏幕拷贝/代码上传自己的目录
 ### vtk_door:
 ![vtk_door](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/VTK_hachina_door/vtk_door.gif)
+
+# 20200601作业([clothes](https://github.com/shiep18/EIS2020/tree/master/students/Gongyangyang/clothes%26consumer/clothes) & [consumer](https://github.com/shiep18/EIS2020/tree/master/students/Gongyangyang/clothes%26consumer))
+1. 完成chat/consumers.py的代码
+2. 查阅资料，了解生产者消费者模式
+3. 自动截取人脸并合成到语音换衣服的程序上。
+4. 效果屏幕拷贝/代码上传自己的目录
+### clothes:
+![clothes](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/clothes%26consumer/clothes/clothes.gif)
+
+# 20200603作业([井字棋](https://github.com/shiep18/EIS2020/tree/master/students/Gongyangyang/%E4%BA%95%E5%AD%97%E6%A3%8B%26Tensorflow/%E4%BA%95%E5%AD%97%E6%A3%8B) & [tensorflow](https://github.com/shiep18/EIS2020/tree/master/students/Gongyangyang/%E4%BA%95%E5%AD%97%E6%A3%8B%26Tensorflow/))
+1. 完成语音九宫格下棋的程序，完善并提高识别率
+2. 开始思考自己的个人项目方向
+3.
+4. 效果屏幕拷贝/代码上传自己的目录
+### 井字棋:
+![井字棋](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/%E4%BA%95%E5%AD%97%E6%A3%8B%26Tensorflow/%E4%BA%95%E5%AD%97%E6%A3%8B/chess.gif)
