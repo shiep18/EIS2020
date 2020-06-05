@@ -6,3 +6,8 @@
 
 # 效果
 ![](https://github.com/shiep18/EIS2020/blob/master/students/zengkexiang/20200529/door.gif)
+
+# 遇到的问题：
+1.Q:hachina50和hachin3联动自动化有问题。
+  A:hachina50中读取网页中的数据时用的是readline,赋给状态时会多一个小尾巴，所以赋给状态之前要先strip一下。
+2.vtk的旋转中心真是要人命。
