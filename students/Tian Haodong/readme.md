@@ -201,4 +201,4 @@ team4：用户：thd
 
 ![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/6.3/%E8%AF%AD%E9%9F%B3%E4%BA%95%E5%AD%97%E6%A3%8B.png)
 
-![Imagetext](https://github.com/shiep18/EIS2020/tree/master/students/Tian Haodong/6.3)
+![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/6.3/%E5%BC%B9%E7%AA%97.png)
