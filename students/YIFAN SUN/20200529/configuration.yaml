@@ -1,0 +1,80 @@
+homeassistant:
+  latitude: 31.290656
+  longitude: 121.416566
+  elevation: 0
+  unit_system: metric
+  time_zone: Asia/Shanghai
+  name: Home
+  
+zone:
+  - name: school1   
+    latitude: 31.279237
+    longitude: 121.552588
+    icon: mdi:school
+    radius: 100
+
+  - name: school2    
+    latitude: 30.90808
+    longitude: 121.898093
+    icon: mdi:school
+    radius: 100
+sensor:
+  - platform: yr
+    name: Weather
+    forecast: 24
+    monitored_conditions:
+      - symbol
+      - temperature        #气温
+      - precipitation      #雨量
+      - windSpeed          #风速
+      - pressure           #气压
+      - windDirection      #风向
+      - humidity           #湿度
+      
+#android_ip_webcam:
+ # - host: 192.168.1.9
+  #  name: ip_webcam
+media_player:
+  - platform: kodi
+    host: 169.254.30.70
+
+
+hachina4:
+
+hachina5:
+default_config:
+
+# Uncomment this if you are using SSL/TLS, running in Docker container, etc.
+# http:
+#   base_url: example.duckdns.org:8123
+
+# Text to speech
+tts:
+  - platform: baidu
+    app_id: 20006407
+    api_key: FaTscOgPEd4OFrhtaGT45THB
+    secret_key: ChZtToPcp1C4F5VOsL7yX6yzTGGVD3Qp
+    language: zh
+    #speed:语速0-9(缺省5)
+    #pitch:语调0-9(缺省5)
+    #volume:音量0-15(缺省5)
+    #person:声音(0:女,1:男,3:百度合成,4百度合成,缺省0)
+    #speed: 5
+    #pitch: 5
+    #volime: 15
+    person: 4
+  #- platform: google_translate
+
+
+ffmpeg:
+  ffmpeg_bin: 'C:\Users\sunev\ffmpeg-20200525-6268034-win64-static\bin\ffmpeg.exe'
+camera:
+  - platform: ffmpeg
+    name: Camo1
+    input: -f dshow -i video="Integrated Webcam"
+
+
+group: !include groups.yaml
+automation: !include automations.yaml
+script: !include scripts.yaml
+scene: !include scenes.yaml
