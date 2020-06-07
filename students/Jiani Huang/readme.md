@@ -162,3 +162,8 @@ python显示门的三种状态：ON、OFF、LOCK。把三种状态实时更新�
 语音控制下井字棋，判断胜负及重新开始。
 
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/chess/chess.png)
+
+# [MQTT](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/MQTT)
+完成简易聊天室。
+
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/MQTT/chat.jpg)
