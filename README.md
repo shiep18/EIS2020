@@ -167,7 +167,7 @@ Embedded and Intelligent Systems (EIS) course for SHIEP 2020
 
 # 20200608作业 
 1. 小组内讨论两个小作品的人员分工
-2. 
+2. 下载群里的plugin压缩包读懂源码
 3. 效果屏幕拷贝/代码上传自己的目录
 
 # FAQ 
