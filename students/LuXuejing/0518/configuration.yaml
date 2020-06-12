@@ -1,0 +1,38 @@
+
+homeassistant:
+  latitude: 37.42726
+  longitude: 118.02279
+#  latitude: 31.1689
+#  longitude: 121.4325
+  elevation: 0
+  unit_system: metric
+  time_zone: Asia/Shanghai
+  name: Home
+  
+zone:
+  - name: school    
+    latitude: 31.275
+    longitude: 121.547
+    icon: mdi:school
+    radius: 100
+sensor:
+  - platform: yr           
+    name: Weather
+    forecast: 24           
+    monitored_conditions:
+      - temperature        #气温
+      - precipitation      #雨量
+      - windSpeed          #风速
+      - pressure           #气压
+      - windDirection      #风向
+      - humidity           #湿度
+
+# Configure a default setup of Home Assistant (frontend, api, etc)
+default_config:
+
+tts:
+  - platform: google
+    
+group: !include groups.yaml
+automation: !include automations.yaml
+script: !include scripts.yaml
