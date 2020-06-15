@@ -17,7 +17,7 @@
 
 ## 二、搭建日历服务器
 ### 1. 登录服务器
-    ssh root@xx.xxx.xx.xxx //cmd
+    ssh root@xx.xxx.xx.xxx #cmd
     
 ### 2. 安装next cloud服务
 #### 指令：
