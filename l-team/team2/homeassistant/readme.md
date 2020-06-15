@@ -1,4 +1,7 @@
 # HomeAssistant智能课表
+<p align="center">
+  <img src="https://github.com/home-assistant/home-assistant-assets/blob/master/loading-screen.gif">
+</p>
 ## 一、准备材料、环境要求
 ### 1. 一台Ubuntu系统的服务器
 1. 可以到[阿里云](https://developer.aliyun.com/adc/student/)白嫖一台。
