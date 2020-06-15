@@ -25,4 +25,9 @@
 apt-get install snap  
 apt-get install snapd  
 snap install nextcloud  
- 
+
+### 3. 网站配置
+`给网站指定端口，这里选择80端口`  
+>snap set nextcloud ports.http=80  
+
+
