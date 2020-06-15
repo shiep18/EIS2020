@@ -1,6 +1,10 @@
-# 项目成员
+# 项目成员及项目分工
 
-黎祖林，田浩冬，周宇涛
+黎祖林： APP制作，APP与Python的网络通信
+
+田浩冬： 二维码扫描功能，vtk应用和Home Assistant的连接
+
+周宇涛： APP布局设计、快递箱模型制作、PPT制作、主讲人
 
 # Home express box
 
