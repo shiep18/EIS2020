@@ -2,7 +2,7 @@
   ①下载文件夹中的两个压缩文件以及py程序文件  
   ②分别解压到没有中文的路径下，保证py程序文件和stl文件处在同一文件夹下  
   ③下载该百度网盘链接中的资源并放入解压出的yolov3文件夹中  
-    链接: https://pan.baidu.com/s/1cggd-Ze5y1dgB4NHnWfFJg 提取码: a15t  
+      链接: https://pan.baidu.com/s/1cggd-Ze5y1dgB4NHnWfFJg 提取码: a15t  
   ④将py文件第19行的yolo路径修改为自己的路径即可运行程序  
 
 
