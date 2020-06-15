@@ -25,4 +25,11 @@
 apt-get install snap  
 apt-get install snapd  
 snap install nextcloud  
- 
+
+### 3. 网站配置
+* 给网站指定端口，这里选择80端口  
+>snap set nextcloud ports.http=80  
+* 如果是阿里云或腾讯云服务器，需要配置[安全组规则](https://yq.aliyun.com/articles/713259),开放端口。  
+* 配置完毕后即可通过外网访问服务器地址
+
+

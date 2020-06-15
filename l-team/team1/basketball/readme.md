@@ -1,3 +1,11 @@
+
+## 人员分工
+吴子渊：人脸识别+数据库+homeassitant
+
+郭长灏：人机界面+人脸识别+PPT
+
+易耿浩：语音识别+MQTT通信+PPT
+
 ## 代码介绍
 Mainwindow.py为主文件，运行即可显示界面
 
@@ -9,24 +17,11 @@ face.rec.py文件，用于程序执行期间的借还球时的人脸录入与人
 
 MXMqtt.py文件，用于实现mqtt的远端数据通信
 
-## 人员分工
-吴子渊：人脸识别+数据库+homeassitant
+## 说明
+1、face.rec.py中需修改相应百度人脸识别API（若没有的，需要在https://ai.baidu.com/中申请）
 
-郭长灏：人机界面+人脸识别+PPT
+2、MXMqtt.py可更改自己的通道，对应Mainwindow.py中对应发布（借球和还球）
 
-易耿浩：语音识别+MQTT通信+PPT
+3、My_Speech_end.py语音识别部分，需要更改相应API（若没有的，需要在https://ai.baidu.com/中申请）
 
-## 相较原始的篮球租借机程序的创新点
-1、全程语音识别及提示
-
-2、实时查询篮球个数
-
-3、人脸注册智能化
-
-4、人脸识别还球
-
-5、数据变化与数据库联通
-
-6、MQTT连接多个租借接机
-
-7、homeassistant实时显示各个租借机节点情况
+4、数据库需导入basketball.sql
