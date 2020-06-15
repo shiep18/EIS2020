@@ -59,12 +59,12 @@ snap install nextcloud
         calendar: class            # next cloud中日历的名字
         search: '.*'               # 寻找匹配的事件名，.*为全部事件
 ```
-* 在automations.yaml中添加自动化([示例](https://github.com/shiep18/EIS2020/blob/master/l-team/team2/homeassistant/automations.yaml))
+* 在automations.yaml中添加自动化([示例](https://github.com/shiep18/EIS2020/blob/master/l-team/team2/homeassistant/automations.yaml))。
 ```
 - id: '1591970192885'
   alias: bell
   description: ''
-  trigger:   #  触发条件设置
+  trigger: 
     platform: template
     value_template: "{% if is_state_attr('calendar.class_course', 'offset_reached', true) %}true{% endif %}"
   condition: []
@@ -86,6 +86,12 @@ snap install nextcloud
   - data:
       message: 上课10分钟前提醒。课名：{{states.calendar.class_course.attributes.message}}, 地点：{{states.calendar.class_course.attributes.location}}, {{states.calendar.class_course.attributes.description}}
       target:
-      - !secret phonenumber
+      - !secret phonenumber     # 接受短信的电话
     service: notify.my_twilio_sms
 ```
+### 6. 爬取课表
+* [table.py](https://github.com/shiep18/EIS2020/blob/master/l-team/team2/homeassistant/table2ics/table.py)中修改学号和密码。
+* 运行后自动爬取，完成生成[table.txt](https://github.com/shiep18/EIS2020/blob/master/l-team/team2/homeassistant/table2ics/table.txt)。
+* 运行[ics.py](https://github.com/shiep18/EIS2020/blob/master/l-team/team2/homeassistant/table2ics/ics.py)生成[table.ics](https://github.com/shiep18/EIS2020/blob/master/l-team/team2/homeassistant/table2ics/table.ics)。
+* 在网站中导入table.ics到目标日历中。
+* 启动HomeAssistant。
