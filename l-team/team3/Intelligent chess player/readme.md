@@ -1,3 +1,4 @@
+打包文件(https://github.com/shiep18/EIS2020/tree/master/l-team/team3/%E6%99%BA%E8%83%BD%E4%B8%8B%E6%A3%8B%E6%89%8B)
 ## 代码介绍
 window.py为主文件，运行即可显示界面
 
