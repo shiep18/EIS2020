@@ -4,6 +4,7 @@
 </p>  
 <p align="center">
 <a href="#"><img alt="Python3" src="https://img.shields.io/badge/Python-3-blue.svg?style=flat-square"></a>
+<a href="#"><img alt="Python3" src="https://img.shields.io/badge/Ubuntu-18.04-orange"></a>
 <a href="#"><img alt="HomeAssistant" src="https://img.shields.io/badge/HomeAssistant-0.109.6-blue"></a>
 </p> 
 
