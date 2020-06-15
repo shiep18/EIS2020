@@ -1,8 +1,8 @@
 # HomeAssistant智能课表
 <p align="center">
   <img src="https://github.com/home-assistant/home-assistant-assets/blob/master/loading-screen.gif">
-</p>
-<a href="#"><img alt="Python3" src="https://img.shields.io/badge/Python-3-blue.svg?style=flat-square"></a>
+</p>  
+<a href="#"><img alt="Python3" src="https://img.shields.io/badge/Python-3-blue.svg?style=flat-square"></a>  
 ## 一、准备材料、环境要求
    
 ### 1. 一台Ubuntu系统的服务器
