@@ -45,7 +45,7 @@ snap install nextcloud
 * 运行`tar -xvf calendar.tar.gz`解压，完成后将压缩包删除。
 * 登陆网站，点击用户头像，选择`+应用`,找到calendar应用添加。
 
-### 5. HomeAssistant配置
+## 三、 HomeAssistant配置
 * 网站中切换到日历应用界面，点击左下方设置与导入，复制主要的CalDAV地址。
 * 在configuration.yaml中添加日历组件([示例](https://github.com/shiep18/EIS2020/blob/master/l-team/team2/homeassistant/configuration.yaml))。
 ```
@@ -89,7 +89,7 @@ snap install nextcloud
       - !secret phonenumber     # 接受短信的电话
     service: notify.my_twilio_sms
 ```
-### 6. 爬取课表
+## 四、 爬取课表
 * [table.py](https://github.com/shiep18/EIS2020/blob/master/l-team/team2/homeassistant/table2ics/table.py)中修改学号和密码。
 * 运行后自动爬取，完成生成[table.txt](https://github.com/shiep18/EIS2020/blob/master/l-team/team2/homeassistant/table2ics/table.txt)。
 * 运行[ics.py](https://github.com/shiep18/EIS2020/blob/master/l-team/team2/homeassistant/table2ics/ics.py)生成[table.ics](https://github.com/shiep18/EIS2020/blob/master/l-team/team2/homeassistant/table2ics/table.ics)。
