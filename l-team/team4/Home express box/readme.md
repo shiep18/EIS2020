@@ -17,3 +17,9 @@
 5.Web_ha.py局域网络连接APP的程序。
 
 注：hello.png为错误二维码，相当于不属于该用户的快递；verify.png以及verify_new.png均为该用户所购买的快递件上的二维码。
+
+# Homeassistion config
+
+1.hachina6_package.py为homeassistion中位于custom_components内的配置文件。
+
+注意：需要在该文件夹下创建package_send.txt，open.txt，check.txt三个空白文件以便python文件的读取及写入。
