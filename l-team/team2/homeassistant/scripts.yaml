@@ -1,0 +1,8 @@
+'1592140812123':
+  alias: 新建脚本
+  sequence:
+  - data: {}
+    entity_id: automation.bell
+    service: automation.trigger
+  - entity_id: automation.message
+    service: automation.trigger

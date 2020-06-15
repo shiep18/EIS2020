@@ -1,0 +1,122 @@
+- id: '1590135788854'
+  alias: new
+  description: ''
+  trigger:
+  - hours: '10'
+    minutes: '10'
+    platform: time_pattern
+    seconds: '10'
+  condition: []
+  action:
+  - data: {}
+    entity_id: automation.weather_report
+    service: automation.trigger
+- id: 0ed43f662d1f4db8a38d29a7c32530c8
+  alias: weather_report
+  trigger:
+  - hours: '20'
+    minutes: '24'
+    platform: time_pattern
+    seconds: '10'
+  condition:
+  - condition: state
+    entity_id: binary_sensor.workday_sensor
+    state: 'on'
+  action:
+  - data_template:
+      entity_id: media_player.kodi
+      message: 现在播报天气信息。温度, {{states('sensor.weather_temperature')}}°C, 湿度{{states('sensor.weather_humidity')}},气压{{states('sensor.weather_pressure')}}
+    service: tts.baidu_say
+  initial_state: true
+- id: '1590333311386'
+  alias: report_weather
+  description: ''
+  trigger:
+  - above: '10'
+    below: '30'
+    entity_id: sensor.weather_temperature
+    platform: numeric_state
+  condition: []
+  action:
+  - data: {}
+    service: tts.baidu_say
+- id: '1590417184191'
+  alias: hachina_auto
+  description: ''
+  trigger:
+  - hours: '22'
+    minutes: '34'
+    platform: time_pattern
+    seconds: '00'
+  condition: []
+  action:
+  - data: {}
+    service: hachina3.change_state
+- id: '1590850266173'
+  alias: vtk_door_auto
+  description: ''
+  trigger:
+  - entity_id: vtk_door.hello_world
+    from: close
+    platform: state
+    to: open
+  - entity_id: vtk_door.hello_world
+    from: open
+    platform: state
+    to: close
+  condition: []
+  action:
+  - data: {}
+    service: VTK_door2.change_state
+- id: '1591856665433'
+  alias: test
+  description: ''
+  trigger:
+  - hours: '14'
+    minutes: '26'
+    platform: time_pattern
+    seconds: '10'
+  condition: []
+  action:
+  - data: {}
+    entity_id: automation.hachina_auto
+    service: automation.turn_off
+- id: wakeup
+  alias: worktime wakeup
+  trigger:
+    platform: state
+    entity_id: calendar.course
+    to: 'on'
+  condition: []
+  action:
+  - data: {}
+    entity_id: automation.weather_report
+    service: automation.trigger
+- id: '1591970192885'
+  alias: bell
+  description: ''
+  trigger:   #  触发条件设置
+    platform: template
+    value_template: "{% if is_state_attr('calendar.class_course', 'offset_reached', true) %}true{% endif %}"
+                        # 日历中的事件提前10分钟提醒，如果提醒状态达到则触发
+  condition: []
+  action:
+  - data_template:
+      entity_id: media_player.kodi
+      message: 上课10分钟前提醒。课名{{states.calendar.class_course.attributes.message}}, 地点：{{states.calendar.class_course.attributes.location}}, {{states.calendar.class_course.attributes.description}}
+    service: tts.baidu_say
+  - data: {}
+    entity_id: automation.message
+    service: automation.trigger
+  initial_state: true
+- id: '1591973317613'
+  alias: message
+  description: ''
+  trigger: []
+  condition: []
+  action:
+  - data:
+      message: 上课10分钟前提醒。课名：{{states.calendar.class_course.attributes.message}}, 地点：{{states.calendar.class_course.attributes.location}}, {{states.calendar.class_course.attributes.description}}
+      target:
+      - !secret phonenumber
+    service: notify.my_twilio_sms

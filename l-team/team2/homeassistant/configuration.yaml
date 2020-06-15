@@ -1,0 +1,169 @@
+homeassistant:
+  # Name of the location where Home Assistant is running
+  name: Home
+  # Location required to calculate the time the sun rises and sets
+  longitude:  121.898093
+  latitude:  30.90808
+  # Impacts weather/sunrise data (altitude above sea level in meters)
+  elevation: 0
+  # metric for Metric, imperial for Imperial
+  unit_system: metric
+  # Pick yours from here: http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+  time_zone: Asia/Shanghai
+  # Customization file
+  customize: !include customize.yaml
+  
+zone:
+  - name: School1   
+    latitude: 31.278978
+    longitude: 121.553436
+    icon: mdi:school
+    radius: 100
+
+      
+# Configure a default setup of Home Assistant (frontend, api, etc)
+default_config:
+
+# Uncomment this if you are using SSL/TLS, running in Docker container, etc.
+# http:
+#   base_url: example.duckdns.org:8123
+
+# Text to speech
+#tts:
+#  - platform: google_translate
+
+sensor:
+  - platform: yr
+    name: Weather
+    forecast: 24
+    monitored_conditions:
+      - temperature
+      - symbol
+      - precipitation
+      - windSpeed
+      - pressure
+      - windDirection
+      - humidity
+      - fog
+      - cloudiness
+      - lowClouds
+      - mediumClouds
+      - highClouds
+      - dewpointTemperature
+
+# android_ip_webcam:
+  # - host: 192.168.31.122
+    # name: ip_webcam
+    
+tts:
+  - platform: baidu
+    app_id: 19166551
+    api_key: !secret api
+    secret_key: !secret secret
+    language: zh
+    #speed: 
+    #pitch:
+    #volume:
+    #person:
+#    speed: 5
+#    pitch: 5
+#    volume: 15
+    
+    person: 4
+
+media_player:
+   - platform: kodi
+     host: 127.0.0.1
+     port: 8081
+     
+twilio:
+  account_sid: !secret sid
+  auth_token: !secret token
+  
+notify:
+  - name: my_twilio_sms
+    platform: twilio_sms
+    from_number: "+12565888821"
+# 找回：GkDMTweyK5-4KzLFpFdza-wVqLfAZQQejHbM0r5R
+# hachina:
+
+# hachina3:
+
+# hachina5:
+  # step: 5
+  
+# hachina_door:
+
+# robot:
+
+# VTK_door:
+
+# VTK_door2:
+
+ffmpeg:
+  ffmpeg_bin: 'E:\Program Files\ffmpeg-20200525-6268034-win64-static\bin\ffmpeg.exe'
+
+# camera:
+  # - platform: ffmpeg
+    # name: Camo1
+    # input: -f dshow -i video="DroidCam Source 3"
+  
+# Example configuration.yaml entry
+# example:
+  # target: switch 1
+  
+# Example configuration.yaml entry
+binary_sensor:
+  - platform: workday
+    name: sensor1
+    country: HK
+    workdays: [mon]
+
+# automation:
+  # alias: Turn on wp on tus
+  # trigger:
+    # platform: time
+    # at: '15:05:00'
+  # condition:
+    # condition: state
+    # entity_id: 'binary_sensor.workday_sensor'
+    # state: 'on'
+  # action:
+  # - data_template:
+      # entity_id: media_player.kodi
+      # message: 现在播报天气信息。温度, {{states('sensor.weather_temperature')}}°C, 湿度{{states('sensor.weather_humidity')}},气压{{states('sensor.weather_pressure')}}
+    # service: tts.baidu_say
+  # initial_state: true  
+
+# Example configuration.yaml entry
+# google:
+  # client_id: 552171040555-evupsjvgqbcuimm8ll8qcn3t3ed9je21.apps.googleusercontent.com
+  # client_secret: nkb7q5QO_Z7_mgVeouxQzkYY
+  
+# # Example configuration.yaml entry
+# calendar:
+  # - platform: todoist
+    # token: 410e0566ab29e75d63113bdcdc1db31d9a00fa17
+    # custom_projects:
+      # - name: 'All Projects'
+      # - name: 'Due Today'
+        # due_date_days: 0
+        
+calendar:
+  - platform: caldav  # CalDAV协议
+    url: http://39.100.81.133/remote.php/dav #搭建的nextcloud平台上的日历服务器 
+    username: !secret username
+    password: !secret password
+    custom_calendars:
+      - name: course # HA中自定的日历名字
+        calendar: class # next cloud中日历的名字
+        search: '.*' # 寻找匹配的事件名，.*为全部事件
+
+group: !include groups.yaml
+automation: !include automations.yaml
+script: !include scripts.yaml
+scene: !include scenes.yaml
+
+# Example configuration.yaml entry
+# Example configuration.yaml entry
+   
