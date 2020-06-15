@@ -39,4 +39,7 @@ snap install nextcloud
 * 第一次访问输入用户名密码创建用户。
 
 ### 4. 日历应用安装
-* 
+* 日历应用到[此处](https://github.com/nextcloud/calendar/releases)下载，目前为2.0.3版本。
+* 压缩包放到服务器的`var/snap/nextcloud/21521/nextcloud/extra-apps/`目录下(可用Win-SCP传输文件)。
+* 运行`tar -xvf calendar.tar.gz`解压，完成后将压缩包删除。
+* 登陆网站，点击用户头像，选择`+应用`,找到calendar应用添加。
