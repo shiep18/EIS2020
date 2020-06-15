@@ -10,14 +10,14 @@
 * 可以到[阿里云](https://developer.aliyun.com/adc/student/)白嫖一台。
 * 虚拟机亦可(未实验)。
 * Ubuntu版本:18.04。
-* 服务器需进行简单部署。
+* 服务器`需进行简单部`署。
 ### 2. Windows上部署HomeAssistant
    
 * 版本为0.109.6。
 
 ## 二、搭建日历服务器
 ### 1. 登录服务器
-    `ssh root@xx.xxx.xx.xxx` 
+    ssh root@xx.xxx.xx.xxx
     
 ### 2. 安装next cloud服务
 #### 指令：
