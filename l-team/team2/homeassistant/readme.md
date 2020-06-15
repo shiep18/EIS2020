@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/home-assistant/home-assistant-assets/blob/master/loading-screen.gif">
 </p>
-
+<a href="#"><img alt="Python3" src="https://img.shields.io/badge/Python-3-blue.svg?style=flat-square"></a>
 ## 一、准备材料、环境要求
    
 ### 1. 一台Ubuntu系统的服务器
@@ -28,8 +28,8 @@ snap install nextcloud
 
 ### 3. 网站配置
 * 给网站指定端口，这里选择80端口  
->snap set nextcloud ports.http=80  
-* 如果是阿里云或腾讯云服务器，需要配置[安全组规则](https://yq.aliyun.com/articles/713259),开放端口。  
-* 配置完毕后即可通过外网访问服务器地址
+>snap set nextcloud ports.http=80。  
+* 如果是阿里云或腾讯云服务器，需要配置[安全组规则](https://yq.aliyun.com/articles/713259)开放端口，然后重启服务器。  
+* 配置完毕后即可通过外网访问服务器地址。  
 
 
