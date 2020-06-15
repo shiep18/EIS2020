@@ -22,9 +22,9 @@
 #### 指令：
 >apt-get update
 
- apt-get install snap
+>apt-get install snap
  
- apt-get install snapd
+>apt-get install snapd
  
- snap install nextcloud
+>snap install nextcloud
  
