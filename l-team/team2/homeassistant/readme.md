@@ -21,6 +21,6 @@
 ### 2. 安装next cloud服务
 #### 指令：
 >apt-get update
->apt-get install snap
->apt-get install snapd
->snap install nextcloud
+>>apt-get install snap
+apt-get install snapd
+snap install nextcloud
