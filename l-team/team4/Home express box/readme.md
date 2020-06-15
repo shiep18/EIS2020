@@ -6,6 +6,12 @@
 
 周宇涛： APP布局设计、快递箱模型制作、PPT制作、主讲人
 
+# Android Studio
+
+1.apk.rar为工程压缩包。可直接下载app-debug.apk到手机使用。
+
+2.APP将配合web_ha.py来进行局域网络的APP控制python
+
 # Home express box
 
 1.model.123d快递箱模型，由此模型导出box.stl以及door.stl两个文件。
