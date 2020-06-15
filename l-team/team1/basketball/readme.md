@@ -23,3 +23,5 @@ MXMqtt.py文件，用于实现mqtt的远端数据通信
 2、MXMqtt.py可更改自己的通道，对应Mainwindow.py中对应发布（借球和还球）
 
 3、My_Speech_end.py语音识别部分，需要更改相应API（若没有的，需要在https://ai.baidu.com/中申请）
+
+4、数据库需导入basketball.sql
