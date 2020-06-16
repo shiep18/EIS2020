@@ -89,4 +89,4 @@
 * change the color of model's clothe through voice
 * change the face of model through voice
 
-    ![voice_control.mp4](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/clothe_face_change(voice)/voice_control.mp4)
+    ![voice_control.mp4](https://github.com/shiep18/EIS2020/blob/master/students/CaoJiaYang/cloth_face_change(voice)/voice_control.mp4)
