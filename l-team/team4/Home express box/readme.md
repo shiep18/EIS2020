@@ -12,6 +12,8 @@
 
 2.APP将配合web_ha.py来进行局域网络的APP控制python
 
+3.web_ha.py中的IP地址需要修改。cmd输入ipconfig，找到最后面的无线局域网适配器wlan：修改为自己电脑里的IPv4 地址。
+
 # Home express box
 
 1.model.123d快递箱模型，由此模型导出box.stl以及door.stl两个文件。
