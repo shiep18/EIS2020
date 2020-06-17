@@ -16,6 +16,7 @@
 * 虚拟机亦可(未实验)。
 * Ubuntu版本:18.04。
 * 服务器需进行简单部署。
+* 或者直接用建好的[服务器](http://39.100.81.133/)(gyy,1198337144)，跳过步骤到[这里](https://github.com/shiep18/EIS2020/tree/master/l-team/team2/homeassistant#%E4%B8%89-homeassistant%E9%85%8D%E7%BD%AE)
 ### 2. Windows上部署HomeAssistant
    
 * 版本为0.109.6。
