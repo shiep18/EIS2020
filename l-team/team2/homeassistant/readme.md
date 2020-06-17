@@ -19,7 +19,7 @@
 * 或者直接用建好的[服务器](http://39.100.81.133/)(gyy,1198337144)，跳过步骤到[这里](https://github.com/shiep18/EIS2020/tree/master/l-team/team2/homeassistant#%E4%B8%89-homeassistant%E9%85%8D%E7%BD%AE)
 ### 2. Windows上部署HomeAssistant
    
-* 版本为0.109.6。
+* 版本为0.109.6。  
 **测试后更新：**  
 * tts百度语音
 * twilio短信平台
@@ -50,7 +50,7 @@ snap install nextcloud
 * 登陆网站，点击用户头像，选择`+应用`,找到calendar应用添加。
 
 ## 三、 HomeAssistant配置
-* 网站中切换到日历应用界面，点击左下方设置与导入，复制主要的CalDAV地址。
+* 网站中切换到日历应用界面，点击左下方设置与导入，复制主要的CalDAV地址。  
 **测试后更新：**  
 ```
     因为部分API的key上传到GitHub后会失效的原因,目录中给出的并非源文件，只能做参考，如果直接复制替换会出错。    
@@ -107,7 +107,7 @@ snap install nextcloud
 * 运行后自动爬取，完成生成[table.txt](https://github.com/shiep18/EIS2020/blob/master/l-team/team2/homeassistant/table2ics/table.txt)。
 * 运行[ics.py](https://github.com/shiep18/EIS2020/blob/master/l-team/team2/homeassistant/table2ics/ics.py)生成[table.ics](https://github.com/shiep18/EIS2020/blob/master/l-team/team2/homeassistant/table2ics/table.ics)。
 * 在网站中导入table.ics到目标日历中。
-* 启动HomeAssistant。
+* 启动HomeAssistant。  
 **测试后更新：**  
 ```
     可以直接在网站的名为class的日历中添加事件来测试到时提醒功能。
