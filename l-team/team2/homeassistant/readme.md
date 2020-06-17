@@ -20,7 +20,7 @@
 ### 2. Windows上部署HomeAssistant
    
 * 版本为0.109.6。  
-**测试后更新：**  
+* ***测试后更新：***  
 * tts百度语音
 * twilio短信平台
   
@@ -51,7 +51,7 @@ snap install nextcloud
 
 ## 三、 HomeAssistant配置
 * 网站中切换到日历应用界面，点击左下方设置与导入，复制主要的CalDAV地址。  
-**测试后更新：**  
+* ***测试后更新：***  
 ```
     因为部分API的key上传到GitHub后会失效的原因,目录中给出的并非源文件，只能做参考，如果直接复制替换会出错。    
     请按下面步骤在自己已有的configuration和automations中添加组件和脚本代码，其中也有部分需要修改的地方：  
@@ -108,7 +108,7 @@ snap install nextcloud
 * 运行[ics.py](https://github.com/shiep18/EIS2020/blob/master/l-team/team2/homeassistant/table2ics/ics.py)生成[table.ics](https://github.com/shiep18/EIS2020/blob/master/l-team/team2/homeassistant/table2ics/table.ics)。
 * 在网站中导入table.ics到目标日历中。
 * 启动HomeAssistant。  
-**测试后更新：**  
+* ***测试后更新：***  
 ```
     可以直接在网站的名为class的日历中添加事件来测试到时提醒功能。
 ```
