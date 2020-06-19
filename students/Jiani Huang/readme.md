@@ -40,6 +40,9 @@
 ![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/myled/myled.gif)
 
 ## [Myface](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/myface)(0410)
+训练过后进行人脸识别。
+
+![](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/myface/myface.png)
 
 ## [Socket&box](https://github.com/shiep18/EIS2020/blob/master/students/Jiani%20Huang/socket%26box)(0415)
 用socket接口编程在我的世界玩家脚下摆3x3的黄金块。
