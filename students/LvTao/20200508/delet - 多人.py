@@ -1,0 +1,1 @@
+from mcpi.minecraft import Minecraftmc=Minecraft.create("47.100.46.95",4783)entityId= mc.getPlayerEntityId("LT")pos=mc.entity.getPos(entityId)x=pos.x+1y=pos.yz=pos.zmc.setBlocks(x,y,z,x+2,y+2,z+2,1)mc.player.setPos(-20,-20,20)
