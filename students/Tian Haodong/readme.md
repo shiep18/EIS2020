@@ -212,3 +212,7 @@ team4：用户：thd
 # 6.8文件夹
 
 ![Imagetext](https://github.com/shiep18/EIS2020/blob/master/students/Tian%20Haodong/6.8/consumers.PNG)
+
+# 6.22文件夹
+
+1.完成数据分析，获取表格中的特定行并生成新表格
