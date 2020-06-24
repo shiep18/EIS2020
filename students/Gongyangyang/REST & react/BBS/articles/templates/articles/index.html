@@ -1,0 +1,13 @@
+{% if latest_article_list %}
+    <ul>
+    {% for article in latest_article_list %}    
+        <li><a href="/articles/{{ article.id }}/">{{ article.title }}</a></li>
+    {% endfor %}
+    {% comment %} <input type="submit" value="Vote" /> {% endcomment %}
+    </ul>
+{% else %}
+    <p>No polls are available.</p>
+{% endif %}
+<li class="nav-item">
+    <a class="nav-link" href="{% url 'articles:article_create' %}"><input type="submit" value="写文章"></a>
+</li> 
