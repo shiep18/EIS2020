@@ -234,8 +234,8 @@ BBS:
 ### Excel:
 ![Excel](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/Excel/Excel.png)
 ### REST_react:
-![Api](https://github.com/shiep18/EIS2020/tree/master/students/Gongyangyang/REST%20%26%20react/Api.png)
-![react](https://github.com/shiep18/EIS2020/tree/master/students/Gongyangyang/REST%20%26%20react/react.png)
+![Api](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/REST%20%26%20react/Api.png)
+![react](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/REST%20%26%20react/react.png)
 ### covid:
 ![covid](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/covid/covid.png)
 
