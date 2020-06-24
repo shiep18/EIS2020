@@ -219,3 +219,15 @@ BBS:
 4. 效果屏幕拷贝/代码上传自己的目录
 ### 井字棋:
 ![井字棋](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/%E4%BA%95%E5%AD%97%E6%A3%8B%26Tensorflow/%E4%BA%95%E5%AD%97%E6%A3%8B/chess.gif)
+
+# 20200610作业([chatroom](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/chatroom))
+1. 个人小项目制作6月15日答辩
+2. 徐老师周一作业：使用异步方法优化代码
+3. 更新代码到个人小项目文件夹的目录里
+### chatroom:
+![chatroom](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/chatroom/chatroom.gif)
+
+# 20200622作业
+1. 完成数据分析，获取表格中的特定行并生成新表格
+2. 完成大项目分工
+3. 更新代码到github个人小项目文件夹的目录里
