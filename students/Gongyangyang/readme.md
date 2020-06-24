@@ -227,15 +227,15 @@ BBS:
 ### chatroom:
 ![chatroom](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/chatroom/chatroom.gif)
 
-# 20200622作业([Excel](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/Excel) & [REST_react](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/REST & react) & [covid](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/covid))
+# 20200622作业([Excel](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/Excel) & [REST_react](https://github.com/shiep18/EIS2020/tree/master/students/Gongyangyang/REST%20%26%20react) & [covid](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/covid))
 1. 完成数据分析，获取表格中的特定行并生成新表格
 2. 完成大项目分工
 3. 更新代码到github个人小项目文件夹的目录里
 ### Excel:
 ![Excel](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/Excel/Excel.png)
 ### REST_react:
-![Api](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/REST & react/Api.png)
-![react](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/REST & react/react.png)
+![Api](https://github.com/shiep18/EIS2020/tree/master/students/Gongyangyang/REST%20%26%20react/Api.png)
+![react](https://github.com/shiep18/EIS2020/tree/master/students/Gongyangyang/REST%20%26%20react/react.png)
 ### covid:
 ![covid](https://github.com/shiep18/EIS2020/blob/master/students/Gongyangyang/covid/covid.png)
 
