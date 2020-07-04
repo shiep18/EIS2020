@@ -214,6 +214,10 @@ Embedded and Intelligent Systems (EIS) course for SHIEP 2020
 2. 完成小项目的RS网站项目撰写
 3. 更新代码到阿里云的里程碑和缺陷里
 
+# 20200703作业 
+1. 继续完善大项目，制作大项目PPT
+2. 更新代码到阿里云的里程碑和缺陷里
+
 
 # FAQ 
 * Q:我的世界游戏启动失败咋办？  
