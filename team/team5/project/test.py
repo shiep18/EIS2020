@@ -1,0 +1,2 @@
+import xd.py
+xd()
