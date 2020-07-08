@@ -1,0 +1,95 @@
+homeassistant:
+  # Name of the location where Home Assistant is running
+  name: Shop
+  # Location required to calculate the time the sun rises and sets
+  longitude: 121.61486
+  latitude: 31.272674
+  # Impacts weather/sunrise data (altitude above sea level in meters)
+  elevation: 0
+  # metric for Metric, imperial for Imperial
+  unit_system: metric
+  # Pick yours from here: http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+  #time_zone: Shanghai
+  # Customization file
+  customize: !include customize.yaml
+
+zone:
+  - name: School（LG）
+    longitude: 121.898093
+    latitude: 30.90808
+    icon: mdi:school
+    radius: 250
+    
+  - name: School(YP)
+    longitude: 121.553436
+    latitude: 31.278978
+    icon: mdi:school
+    radius: 250
+
+android_ip_webcam:
+  - host: 192.168.1.100
+    name: camera
+
+sensor:
+  - platform: yr
+    name: Weather
+    forecast: 24
+    monitored_conditions:
+      - symbol
+      - temperature
+      - precipitation
+      - pressure
+      - windDirection
+      - windSpeed
+      - humidity
+
+# Configure a default setup of Home Assistant (frontend, api, etc)
+default_config:
+
+panel_custom:
+  - name: floorplan
+    sidebar_title: 无人超市
+    sidebar_icon: mdi:shopping
+    config: !include floorplan.yaml
+# Uncomment this if you are using SSL/TLS, running in Docker container, etc.
+# http:
+#   base_url: example.duckdns.org:8123
+
+twilio:
+  account_sid: AC01b235a8537b6e2fe09369f99f81f7b9
+  auth_token: 77a1675f445f7d4681d1e8709f257140
+  
+notify:
+  - name: my_twilio_sms
+    platform: twilio_sms
+    from_number: "+12058318736"
+# Text to speech
+tts:
+#  - platform: google_translate
+  - platform: baidu
+    app_id: 19165941
+    api_key: XUqFyxlgEllBGh5qqRMfTh4x
+    secret_key: S6GPVANUOEH4NFYxyfkd9f3lQPXfkx3N
+    language: zh
+    #speed: 语速0~9
+    #pitch: 语调0~9
+    #volume: 音量0~15
+    #person: 声音0~4  (0：女  1：男  3：百度合成  4：百度合成)
+    person: 4
+
+hachina:
+hachina1:
+Goods1:
+Goods2:
+Goods3:
+Goods4:
+Goods5:
+Goods6:
+Goods7:
+Goods8:
+
+group: !include groups.yaml
+automation: !include automations.yaml
+script: !include scripts.yaml
+scene: !include scenes.yaml
+

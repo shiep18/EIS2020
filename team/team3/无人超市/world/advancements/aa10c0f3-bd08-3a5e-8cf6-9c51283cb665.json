@@ -1,0 +1,17 @@
+{
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-06-28 20:21:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "desert_hills": "2020-06-28 20:21:40 +0800",
+      "plains": "2020-06-28 20:20:47 +0800",
+      "river": "2020-06-28 20:21:25 +0800",
+      "desert": "2020-06-28 20:21:32 +0800"
+    },
+    "done": false
+  }
+}

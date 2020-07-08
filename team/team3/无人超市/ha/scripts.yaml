@@ -1,0 +1,10 @@
+'1594107942459':
+  alias: 启动停止
+  sequence:
+  - data: {}
+    service: hachina1.change_state
+'1590397365728':
+  alias: 开关
+  sequence:
+  - data: {}
+    service: hachina.change_state

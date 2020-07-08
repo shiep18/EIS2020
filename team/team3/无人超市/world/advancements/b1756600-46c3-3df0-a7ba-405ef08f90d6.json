@@ -1,0 +1,16 @@
+{
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2020-07-05 16:32:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2020-07-05 16:29:57 +0800",
+      "river": "2020-07-05 16:30:11 +0800",
+      "desert": "2020-07-05 16:30:12 +0800"
+    },
+    "done": false
+  }
+}
