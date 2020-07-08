@@ -16,6 +16,8 @@ pos=mc.player.getTilePos()
 
 其中使用人脸识别时，要pip install scikit-image，并用pip安装文件夹内的whl包。打开人脸识别文件夹，按照其中readme操作为自己建模。  
 
-启动我的世界要打开minecraft_m3_all\Bukkit\start.bat，然后打开minecraft_m3_all\HMCL-3.2.149.exe。选择多人游戏，添加服务器，地址为localhost  
+启动我的世界要打开minecraft_m3_all\Bukkit\start.bat，然后打开minecraft_m3_all\HMCL-3.2.149.exe。可能游戏会打不开，笔者记不清安装流程了，请自行百度。minecraft_m3_all文件夹内备齐了所需文件。  
+
+打开后选择多人游戏，添加服务器，地址为localhost，能打开即成功。  
 
 最后在数据库，ha，网易云音乐api，start.bat都打开后，进入我的世界，连接服务器，运行smart文件夹中的smartresident.py。  
