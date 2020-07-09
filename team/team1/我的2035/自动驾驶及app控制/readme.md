@@ -22,3 +22,5 @@
 * 2 打开app点击WorldMap，可看到左上方有一人物，将移至mc人物所在位置。点击“自动驾驶”,选择目的地，
      mc人物和app人物就会同步自动运动。
 
+# 关于APP
+* APP源码在解压包Futurelife_app.zip里，同时提供了apk文件。
