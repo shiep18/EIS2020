@@ -1,6 +1,6 @@
 由于程序的配套文件过大，此处只上传ppt及核心代码。完整程序请在百度云中下载（没有会员推荐速盘）  
-链接：https://pan.baidu.com/s/1Yz1QbO5DIulMdL2V5fTzUg  
-提取码：2khb  
+链接：https://pan.baidu.com/s/1mAnRCkaDfXygI9BpyckIZA   
+提取码：mfvc  
 炸档请联系笔者。QQ2300443937  
 
 .ha替换成C盘中的ha配置文件夹，其中，所有hachina.py之类的文件，涉及到txt存储路径的请改成自己的路径  
